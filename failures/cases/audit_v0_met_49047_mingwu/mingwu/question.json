@@ -1,0 +1,46 @@
+{
+ "id": "audit_v0_met_49047_mingwu",
+ "artwork_id": "met_49047",
+ "group_id": "met_49047",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面左上方有一段题款，写明了作者与作画时间。请读出题款的大意，并据此判断这幅画的作者身份与年代。",
+ "answer": "题款大意是「丁卯夏日天水赵氏文淑写」，即自称赵文淑（文俶）在丁卯年（1627）夏日作画。但馆方著录此轴为「仿赵文俶 萱石图」，作者为佚名（Unidentified artist / After Zhao Wenchu），并指出画面笔法欠精，很可能是后世众多仿赵氏风格者之一所作。因此题款只能说明画上标称的作者与纪年，不能据此判定它是文俶真迹；年代上限依款为1627年，实际绘制时间可能更晚。",
+ "required_facts": [
+  "题款自称赵氏文淑（文俶）作",
+  "款中纪年为丁卯，即1627年夏日",
+  "馆方著录作者为佚名、仿赵文俶",
+  "馆方认为笔法欠精，疑为后人仿作"
+ ],
+ "accepted_variants": [
+  "天水赵氏文淑即文俶",
+  "丁卯为1627年",
+  "After Zhao Wenchu 即仿赵文俶"
+ ],
+ "forbidden_claims": [
+  "断定此画为文俶真迹",
+  "称馆方确认为赵文俶原作",
+  "把题款纪年当作实际绘制年代而无保留"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/49047",
+   "page": "Met 馆方页",
+   "quote": "A lack of refinement in the brushwork of this example suggests that it may be by one of the many later painters who produced works in Zhao's style."
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/49047",
+   "page": "Met 馆方页",
+   "quote": "Unidentified artist / After Zhao Wenchu"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

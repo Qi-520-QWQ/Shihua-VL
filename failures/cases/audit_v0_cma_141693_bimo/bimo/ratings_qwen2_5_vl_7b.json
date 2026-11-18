@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及云雾与山石墨色，但未命中云气留白、无日轮、深红点染及淡设色等关键事实，并无依据地描述左上角云雾、光影和细密皴法。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中无日轮、云气留白、深红点染植被与淡设色等核心事实，且编造了山石浓重阴影等不符合画面墨色清淡特征的光影描述。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

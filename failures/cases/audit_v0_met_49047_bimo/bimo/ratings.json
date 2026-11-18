@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答命中湖石墨色浓淡、红花鲜明、红灰对比、蝴蝶细笔等事实，但未提馆方称笔法欠精，反而断言用了朱砂、藤黄等具体颜料并确定称其为工笔，属禁止断言与编造事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了湖石墨色层次、红花设色及二者对比等大部分事实，但遗漏了馆方称笔法欠精的事实，且违规断言使用了朱砂这一具体矿物颜料。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

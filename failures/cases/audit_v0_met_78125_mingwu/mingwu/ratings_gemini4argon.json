@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "未命中'左侧竖长框内草书千字文'与'并置非同画解说'等关键事实，且编造右侧'清风'题字、竹石书法合璧及字画穿插等参考答案不支持的内容，故记幻觉。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "命中了右侧竹与左侧《千字文》的并置互映关系，但遗漏了文字在竖长框内的关键事实，且严重编造了竹字纵横穿插交错、最右侧四字为清风题咏等参考答案未支持的内容。"
+  }
+}

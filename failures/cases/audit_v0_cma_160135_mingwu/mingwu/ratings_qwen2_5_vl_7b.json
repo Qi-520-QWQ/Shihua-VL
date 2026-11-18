@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到舟上有篷并将山水指向江南，但遗漏两岸分江、留白江面及两舟人物等关键事实，且编造鱼篓、岸边棚屋和环境特征。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中篷船、钓竿及江南地域，遗漏红袍渔人、左缘小舟、两岸分江构图及线轴细节难辨等关键事实，并编造了岸边棚屋居所与鱼篓等幻觉内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

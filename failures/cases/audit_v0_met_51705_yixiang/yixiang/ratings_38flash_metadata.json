@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及相马识才与贡马来朝，但未说明馆方没有提供寓意说明，并将画面寓意及题跋、人物身份等作无依据的断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答命中了画史通识中圉人与骏马象征求贤识才及朝贡的寓意，但未说明馆方未提供该组合的寓意说明，缺少该必须事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答未说明馆方未提供寓意说明（必需事实缺失），且断言右上角“韩幹圉人呈马”为后人伪托、“乾隆题跋与印鉴为真”等参考答案不支持的具体题款真伪事实，并将通识寓意直接落到本件画面上；通识寓意本身命中，只扣 strict。"
+}

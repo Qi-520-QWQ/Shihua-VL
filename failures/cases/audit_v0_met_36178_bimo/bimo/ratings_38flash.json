@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "松针、梅枝、松干部分有命中，但设色被判为淡雅，直接违背'设色偏浓丽、红梅鲜红'这一必须事实，且鹰羽描述为工写结合而非细致工整，整体偏差较大。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中鹰羽勾染、松针攒簇及梅枝细笔等部分用笔事实，但遗漏松干枯笔勾皴，且设色错误定性为淡雅/水墨为主，违背设色偏浓丽的事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

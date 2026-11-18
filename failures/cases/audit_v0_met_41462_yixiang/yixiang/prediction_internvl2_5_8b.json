@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_41462_yixiang",
+ "model": "InternVL2.5-8B (int8) (T4, int8-8bit, max_num=12, tokenizer patched)",
+ "answer": "这幅画中的孤松象征了坚韧不拔、独立自强的人格。松树在风雪中屹立不倒，象征着不屈不挠的精神和顽强的生命力。这种象征在中国文化中常见，常用来表达对高尚品德的赞美。"
+}

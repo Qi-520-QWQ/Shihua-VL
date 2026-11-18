@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "答出鹰在上部、石在左下及松梅大致位置，但未说明松干与梅枝方向，并将组合寓意误说为松鹤延年、松鹤同春。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中了鹰和石头的大致方位，松与梅位置描述模糊，且将四者组合的传统含义错误编造成‘松鹤延年’。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

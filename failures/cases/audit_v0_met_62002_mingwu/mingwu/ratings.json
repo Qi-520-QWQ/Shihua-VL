@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "正确识别关羽及绿袍、长髯、蓝头巾、头光、青龙偃月刀，但断言两名从者为关平和周仓（触发禁止断言），且未命中右上金字题识“監門關聖帝君”，反而称字迹模糊无法辨认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了关羽身份、服饰、兵器及光晕等标志，但触犯禁止断言（断言两名侍从为周仓和关平），且未能准确识别右上角金字题识“監門關聖帝君”。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将题款中的文淑误读为文仲，且未说明馆方著录为佚名仿赵文俶及疑为后人仿作；年代回答也不完整。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "释读错误（误作文仲），未提及馆方著录为仿作及佚名等关键事实，且回答截断并伴有乱码异常。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答仅笼统说相辅相成、画龙点睛，未命中右侧斜竹、左侧竖长框草书《千字文》及并置非同画解说等核心事实，且'画龙点睛'属参考答案不支持的编造性评价。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答皆为空泛套话，未命中竹子方位形态、左侧草书《千字文》摘文及书画并置非解说等任何必须事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：\"画龙点睛\"为通用评价套话，未断言文字是解释竹子的说明文字（禁止项未触）；遗漏只扣strict"
+}

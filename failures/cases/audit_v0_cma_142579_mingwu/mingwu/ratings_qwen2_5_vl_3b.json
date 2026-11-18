@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将崖误说成有人居住的山间建筑，并泛称描绘生活场景；未提舟上戴笠持篙的小人物、枯梅及历史象征。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，且虚构了山间有人居住及建筑等生活场景细节，违背了无明确建筑的事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

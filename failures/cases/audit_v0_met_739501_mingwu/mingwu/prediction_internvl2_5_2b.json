@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_739501_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中的人物是画家，正在磨墨。莲花位于画面左侧。"
+}

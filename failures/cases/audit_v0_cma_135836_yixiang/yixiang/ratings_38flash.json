@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中云雾深山、清幽出世、留白表现天空、虚实相生与视线引导等核心事实，但加入参考答案不支持的'藏印题跋空间'及'天人合一'等编造内容，故strict_hit为0、hallucination为1。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "较好命中了出世意境、云雾深山环境及留白带来的虚实相生与空灵感，但遗漏了留白引导观者视线自下而上逐层上移的作用。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言留白处“右上可见红印”、留白为题跋钤印提供载体，属无据断言具体可核查的印章事实（参考答案未提印章；同 Gemini 4 Argon · High 线 135836_yixiang 判例）；“天人合一”泛泛措辞本身不计。"
+}

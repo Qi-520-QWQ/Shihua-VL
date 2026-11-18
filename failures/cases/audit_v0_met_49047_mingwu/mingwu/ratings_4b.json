@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "题款名称基本读出，但误称赵文俶为清代书画家、将丁卯误作1837年，且未提及馆方著录为佚名仿作，反而断定作者身份与年代，含禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答未提及馆方著录为仿赵文俶的佚名作品，且将丁卯年误算为1837年清代，触犯断定其为真迹及无保留当作实际绘制年代的禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

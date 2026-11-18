@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出远离尘嚣的出世意趣，但未提江南家园、归乡之意及馆方所述赵氏文人传统；“两位渔夫”是参考答案不支持的具体画面断言，且以需结合背景为由含糊收尾。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提及远离尘嚣的出世理想，未命中江南家园归乡之意以及馆方提及赵氏文人等关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：\"两位渔夫\"与目检记录相合（左缘小舟 1–2 人影＋中左篷船红袍渔人，渔人 2 名），非编造；遗漏江南家园/归乡之意/赵氏文人传统只扣分。"
+}

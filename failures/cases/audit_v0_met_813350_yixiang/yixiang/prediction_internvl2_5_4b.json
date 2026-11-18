@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_813350_yixiang",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅中国古画以风竹为主题，常寄托画家的高洁品格和坚韧精神。画面情绪显得刚劲，通过竹子的挺拔和风中摇曳的姿态，表现出一种坚韧不拔的力量感。"
+}

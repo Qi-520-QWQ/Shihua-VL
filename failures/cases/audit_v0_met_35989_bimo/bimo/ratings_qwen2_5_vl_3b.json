@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提到人物细笔及留白作用，未命中绳状层叠笔触、王蒙、金笺设色与金地本色；还编造斧劈皴、披麻皴等具体皴法。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未命中绳状笔触、王蒙、红袍及金笺等核心考据事实，全凭通用套话作答且编造了披麻皴等皴法名称。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

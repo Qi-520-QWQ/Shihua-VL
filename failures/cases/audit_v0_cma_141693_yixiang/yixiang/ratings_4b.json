@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答只泛泛描写壮丽生机，未命中任何必须事实（黄帝传说得名、朱砂仙药、生日贺礼、最早黄山图之一），且编造'新的开始和希望''美好未来向往'等参考答案不支持的内容，属幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答仅为泛泛的套话描述，未命中任何一项必须考据事实（黄山、求仙传说、朱砂仙药、祝寿贺礼、最早黄山图等）。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“新的开始和希望/美好未来向往”为泛泛抒情措辞，未断言与参考答案矛盾的具体事实，也未无据断言具体可核查事实；遗漏黄帝传说/朱砂仙药/生日贺礼/最早黄山图只扣 strict/partial，不计幻觉。"
+}

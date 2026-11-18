@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "把披麻皴用于远山云雾表现，既未命中淡墨晕染与云雾留白等必须事实，也无近景浓远山淡的对比，属对技法对象的错误断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "错误将披麻皴当作表现云雾的墨法，遗漏了淡墨晕染、留白衬托及墨色浓淡对比等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

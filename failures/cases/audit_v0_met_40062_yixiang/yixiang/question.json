@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_met_40062_yixiang",
+ "artwork_id": "met_40062",
+ "group_id": "met_40062",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "隐居于松石之间的画面传达了怎样的士人理想？",
+ "answer": "画面以松崖、茅屋、溪流与空阔水面构成幽僻之境：松树覆崖、崖顶松枝俯垂，小茅屋隐于石树之间，前临溪流，左侧一片空明水景与远岸礁石。这种「松壑隐栖」的图式寄托士人避世高蹈、以山林为归的理想，松象征岁寒坚贞与高士品格，茅舍点出栖隐生活，传达出远离尘嚣、寄情山水的心境。",
+ "required_facts": [
+  "画面表现幽僻山林之境",
+  "茅屋点出栖隐生活",
+  "松象征坚贞与高士品格",
+  "寄托士人避世隐逸、寄情山水的理想"
+ ],
+ "accepted_variants": [
+  "松壑隐栖",
+  "高士隐逸理想",
+  "岁寒松柏之节",
+  "远离尘嚣的幽居意境"
+ ],
+ "forbidden_claims": [
+  "画面表现繁华市井或宫廷宴乐",
+  "松树象征富贵荣华",
+  "此画主题为饯别送行"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/40062",
+   "page": "Met 馆方页",
+   "quote": "Because there is no signature on this painting, its attribution must be made on the basis of style alone"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

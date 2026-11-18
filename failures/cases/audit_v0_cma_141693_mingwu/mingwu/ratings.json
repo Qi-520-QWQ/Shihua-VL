@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答承认未画日轮且用留白晕染表现晨光，但编造了多处具体建筑（坡顶屋舍、单孔拱桥、高士童子）及远峰淡赭红等参考答案不支持的内容，并违反'未见明确建筑'这一必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽然正确指出未直接描绘太阳实体并提到设色与云气，但触犯了禁止断言，详细臆测并描述了山间屋舍、坡顶建筑及桥梁形制，且未完全命中全部必须事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

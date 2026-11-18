@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答将季节误判为秋天（参考答案为春夏生机、非萧瑟秋冬，属禁止断言方向），未命中竹叶青绿、雀鸟褐色清雅小景与安谧生动等事实，仅部分涉及君子高洁与天趣，故部分正确且有幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "季节误判为秋天且编造与秋天相符，遗漏雀鸟褐色的色彩与清雅小景描述，但命中了君子高洁意境及宁静氛围。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

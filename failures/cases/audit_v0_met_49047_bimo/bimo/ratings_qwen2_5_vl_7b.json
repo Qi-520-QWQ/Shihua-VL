@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中湖石墨色浓淡及花朵鲜艳的部分信息，但未明确红橙色及与灰石形成强烈对比；将蝴蝶断言为写意且称细节不多，与参考答案不符。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了湖石墨色浓淡与花朵鲜明对比，但遗漏馆方笔法欠精的评价，且错误将接近工笔细描的蝴蝶断言为写意风格，未体现判断的不确定性。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

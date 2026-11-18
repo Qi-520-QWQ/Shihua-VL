@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未指出建筑极小且难以辨认，也未解释「蘭若」为寺院或僧舍；还将其断言为隐居者或文人住所，并误引题名。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "误将题名写为《溪山图》，断言建筑为一座文人墨客居所，未命中佛寺性质与无法精确确认建筑形制的事实，触发禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

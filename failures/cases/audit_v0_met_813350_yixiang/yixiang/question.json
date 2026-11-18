@@ -1,0 +1,48 @@
+{
+ "id": "audit_v0_met_813350_yixiang",
+ "artwork_id": "met_813350",
+ "group_id": "met_813350",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "风竹题材在中国画中常寄托何种品格？画面情绪是刚劲还是柔弱？",
+ "answer": "风竹在中国画中常寄托坚韧不屈的品格：竹可弯曲而不折断，象征在逆境中保持节操的柔性抵抗。馆方指出，十七世纪中期风竹图像常与“遗民”画家相联系，这些画家拒绝为新建立的清朝（非汉族统治者）效力，他们在竹的柔韧中看到静默抵抗的象征。故画面情绪是刚劲而非柔弱，狂风中的竹愈显其骨力与气节。",
+ "required_facts": [
+  "风竹寄托坚韧不屈的品格",
+  "竹弯曲而不折，象征柔性抵抗",
+  "与遗民画家拒绝仕清相关",
+  "画面情绪刚劲而非柔弱"
+ ],
+ "accepted_variants": [
+  "气节",
+  "遗民情怀",
+  "静默抵抗",
+  "柔中带刚"
+ ],
+ "forbidden_claims": [
+  "称画面情绪柔弱无力",
+  "称风竹仅表现自然景色而无寄托",
+  "称风竹象征屈服顺从",
+  "称遗民画家服务于清廷"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/813350",
+   "page": "Met 馆方页",
+   "quote": "images of windswept bamboo were often associated with 'loyalist' (yimin) painters, who refused to serve the non-Chinese rulers of the newly established Qing dynasty"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/813350",
+   "page": "Met 馆方页",
+   "quote": "In bamboo, whose flexibility allowed it to bend without breaking, loyalists saw a powerful symbol of quiet resistance."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

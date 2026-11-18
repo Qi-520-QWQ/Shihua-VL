@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只说云气山石自然交融、山石墨重云气轻盈，未明确淡墨晕染与边界柔和，也未提馆方含蓄墨染淡彩及雨后湿润云气；松针虽答工细但缺成簇点写与工放对照，故未全命中，属部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出了松针工细与墨色渲染交融，但遗漏了馆方评价、淡彩、边界柔和、成簇点写以及工放对照等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

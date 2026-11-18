@@ -1,0 +1,36 @@
+{
+ "answer": "全作为纯水墨绢本，不施色。松皮以粗犷皴笔写出，笔触厚重，显出树干的粗糙质地与多节疤结；松针成簇点写于枝端，笔致相对细密整齐，枝间留白使叶簇分明。树干墨色浓淡对比强烈，浓墨强调节疤与转折，淡墨晕染受光面与体积，以墨色层次表现苍老斑驳之感，而非依靠设色。",
+ "required_facts": [
+  "纯水墨绢本、不施色",
+  "松皮用粗犷皴笔",
+  "松针成簇生于枝端、枝间留白",
+  "树干墨色浓淡对比强",
+  "以浓淡墨表现苍老质感"
+ ],
+ "forbidden_claims": [
+  "画面使用了青绿或赭石设色",
+  "松针为细线双钩工笔",
+  "墨色通篇均匀一致、无浓淡变化",
+  "树皮以湿笔平涂不见皴笔"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41462",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DT8082.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41462",
+  "sha256": "dd0b4a8f90a8bedbbbda96de29ab9de1720435dff3f297e5680fe43f7edc1edc"
+ },
+ "catalogue": {
+  "title": "Crooked Pine",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "dated 1335",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1985.120.1",
+  "credit_line": "Purchase, The Dillon Fund Gift, 1985"
+ }
+}

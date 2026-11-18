@@ -1,0 +1,41 @@
+{
+ "id": "audit_v0_met_41468_bimo",
+ "artwork_id": "met_41468",
+ "group_id": "met_41468",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "人物面部与衣纹的用笔有何特点？水面波纹的画法与人物有何不同？",
+ "answer": "馆方描述称吴镇好作「墨戏」，用笔有漫画式的简率与直接，人物面部与衣纹即以这种简练、率直的笔墨写就，不求精细刻画。水面则用淡墨细线勾出波纹，笔致轻淡、绵延，与人物浓重简率的用笔形成对比；左岸芦苇树丛用浓墨，也与大片留白的水面构成虚实对照。整体是水墨语言中浓淡、疏密的对照，而非工细描摹。",
+ "required_facts": [
+  "馆方称吴镇好作墨戏，用笔有漫画式简率直接",
+  "人物面部衣纹用笔简练率直",
+  "水面以淡墨细线画波纹，笔致轻淡",
+  "浓墨芦苇树丛与留白水面形成虚实对比"
+ ],
+ "accepted_variants": [
+  "简笔、写意式人物",
+  "淡墨细线波纹",
+  "浓淡对比、虚实相生"
+ ],
+ "forbidden_claims": [
+  "称人物面部衣纹为工笔细描、毫发毕现",
+  "称水面波纹用浓墨粗笔或完全无笔",
+  "编造具体笔法名称如某家描法而无依据"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41468",
+   "page": "Met 馆方页",
+   "quote": "Wu was fond of doing 'ink-plays,' and his drawing shows a cartoonlike simplicity and directness."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

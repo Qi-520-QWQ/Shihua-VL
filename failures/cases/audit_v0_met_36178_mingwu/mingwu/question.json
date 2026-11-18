@@ -1,0 +1,43 @@
+{
+ "id": "audit_v0_met_36178_mingwu",
+ "artwork_id": "met_36178",
+ "group_id": "met_36178",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中鹰、松、梅、石各处何位？四者的组合有何传统含义？",
+ "answer": "鹰栖居画面上方约三分之一处，立于虬曲松枝上，面朝左；松干自左下盘旋而上，处于中部；红梅一枝位于右中偏右，花朵向右伸展；淡色山石则在下部左侧。鹰、松、梅、石并置是传统花鸟画常见组合：松耐岁寒、梅报春先，鹰寓雄健刚猛，借岁寒之景寄托刚强不屈之气。",
+ "required_facts": [
+  "鹰位于画面上方约三分之一处，栖于松枝",
+  "松干自左下盘旋而上，居中部",
+  "红梅一枝在右中，向右伸展",
+  "淡色山石在下部左侧",
+  "鹰、松、梅、石并置属传统岁寒刚健意象组合"
+ ],
+ "accepted_variants": [
+  "鹰在画面上部",
+  "松在画面中部",
+  "梅在右中",
+  "石在左下"
+ ],
+ "forbidden_claims": [
+  "鹰立于画面下方或梅枝上",
+  "石头位于右下角",
+  "画面只有鹰与松而无梅无石"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/36178",
+   "page": "Met 馆方页",
+   "quote": "The hawk stands stolidly on a wizened old pine as flowering plum—a sign of spring renewal—blossoms below."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

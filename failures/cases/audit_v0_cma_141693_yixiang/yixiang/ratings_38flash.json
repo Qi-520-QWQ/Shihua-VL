@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答描述了雄浑气势与仙道意境，但未命中任何必须事实（黄帝得名、朱砂仙药、生日贺礼、最早黄山图之一），故不能算全对；无禁止断言与明显编造，且对不确定性有所说明。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "未命中任何必须考据事实（黄帝得名传说、朱砂仙药寓意、生日贺礼、最早黄山图之一），仅进行了通用的画面视觉描述与意境分析。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

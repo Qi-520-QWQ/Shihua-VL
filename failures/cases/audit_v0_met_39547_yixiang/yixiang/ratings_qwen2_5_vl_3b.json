@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到清雅及部分君子品格，但误称本幅有兰花，并未指出题材为枯木竹石、枯木寓意及水墨绢本；对可确定内容无端表示不确定。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答误认画面中有兰花，触犯禁止断言，未纠正本幅为枯木竹石题材，遗漏吴镇及枯木象征等必须事实，仅答出画面清雅。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

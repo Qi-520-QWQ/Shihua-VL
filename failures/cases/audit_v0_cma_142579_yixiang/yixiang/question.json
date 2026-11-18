@@ -1,0 +1,45 @@
+{
+ "id": "audit_v0_cma_142579_yixiang",
+ "artwork_id": "cma_142579",
+ "group_id": "cma_142579",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "秦淮河题材在中国绘画与文学中常承载何种怀古情绪？本图是繁华还是萧索？",
+ "answer": "秦淮河自六朝以来即为咏史怀古的典型题材，文学与绘画中常借其旧迹寄托朝代兴亡、盛衰无常之感。本图并不表现繁华：画面只一危崖、一孤舟、一微小人物与一枝枯梅，人物仰视巨崖如面对压顶的历史，气氛萧索而含敬畏。馆方亦以「压倒性的历史」解读此崖，正与怀古的苍凉情绪相合，而非描绘市井喧闹。",
+ "required_facts": [
+  "秦淮题材常寄托朝代兴亡盛衰之感",
+  "本图不表现繁华而偏萧索",
+  "画面仅危崖孤舟微小人物与枯梅",
+  "人物仰视巨崖如面对压倒性的历史"
+ ],
+ "accepted_variants": [
+  "怀古可称咏史、吊古",
+  "萧索亦可称苍凉、寂寥"
+ ],
+ "forbidden_claims": [
+  "本图描绘秦淮繁华热闹的市井景象",
+  "画面表现歌舞宴饮或灯船画舫",
+  "本图纯为无情感寄托的山水写生"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1966.31.8",
+   "page": "Met/CMA 馆方页",
+   "quote": "perhaps an image for the overwhelming history of Nanjing."
+  },
+  {
+   "url": "https://clevelandart.org/art/1966.31.8",
+   "page": "Met/CMA 馆方页",
+   "quote": "seeking a glimpse of a final plum blossom of the season."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

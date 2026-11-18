@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_39547_mingwu",
+ "model": "Qwen2.5-VL-7B (4bit) (T4, 4bit, max_num=1280, transformers 4.49.0)",
+ "answer": "竹位于画面的左下部分，石位于画面的中心偏下下方，兰位于画面的右下部分。三者的组合在中国画中被称为“岁寒三友”题材。"
+}

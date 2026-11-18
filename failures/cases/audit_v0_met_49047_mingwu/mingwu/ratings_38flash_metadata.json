@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中题款自称赵氏文淑、丁卯为1627年及馆方著录佚名仿赵文俶、疑为后人仿作；但添加了参考答案不支持的身份细节，并将实际作者断言为后人仿作。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完全命中了所有必须事实，准确区分了题款信息与馆方鉴定观点，无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言文俶为“文徵明玄孙女、嫁赵灵均”等参考答案不支持的具体身份细节，并将馆方“疑为后人仿作”升级为“实为后人仿文俶之作”（“可能”改“实为”）；四项必需事实均命中，故 strict=1。"
+}

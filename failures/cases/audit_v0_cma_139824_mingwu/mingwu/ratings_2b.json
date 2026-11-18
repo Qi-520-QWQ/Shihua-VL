@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答仅泛泛提及货物与古代特征，未命中骷髅、五孩童击蛇、货郎弃担奔护等关键事实，且将货物编造为水果布匹瓷器，属幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，捏造了水果、布匹和瓷器等货物，且未能答出具体的服饰细节与击蛇护童等核心动作。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

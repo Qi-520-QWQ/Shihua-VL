@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_39547_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中，竹占据了大部分空间，石位于下方中央，兰在上方。竹、石、兰的组合在中国画中被称为“三友图”。"
+}

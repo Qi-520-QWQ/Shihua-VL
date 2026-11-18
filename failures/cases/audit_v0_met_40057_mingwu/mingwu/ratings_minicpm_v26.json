@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未承认舟船渔具细节无法确认，反而编造可辨船身、翘头及渔网渔杆，并误称小桥流水与写实江南水乡风貌；未命中屋宇、地图式构图、退休居所及《辋川图》等关键事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，编造了舟船轮廓特征及小桥流水人家等江南水乡套话，未指出无法确认舟船细节、棒状屋宇、李结退休居所及呼应《辋川图》等核心考据。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

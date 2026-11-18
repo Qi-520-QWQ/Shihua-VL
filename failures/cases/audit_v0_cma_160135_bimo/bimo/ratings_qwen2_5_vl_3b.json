@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中远山淡墨、近岸树木较重及红衣醒目的部分事实，但遗漏江面留白和人物用笔简略；称人物笔触更细致、表情通过笔触传达，与参考答案不符且属无依据细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏了江面留白代水的关键事实，且将简括的人物用笔错误描述为细致刻画动作与表情，存在编造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

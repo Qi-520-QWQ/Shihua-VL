@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答只泛泛描述松云宁静与远离尘世，命中‘远离尘嚣、寄身林泉’的隐逸意境，但未提馆方断代、明立国前两年、隐者宁静心态及元末溪畔草堂象征等必须事实，故未全中；无不实断言，但不确定性说明近于无端保留，不给恰当承认分。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛泛提及远离尘世喧嚣的隐逸意境，完全遗漏了馆方说明该画作于明立国前两年以及元末溪畔草堂象征意义等核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

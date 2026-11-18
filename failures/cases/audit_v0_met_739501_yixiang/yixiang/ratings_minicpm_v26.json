@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中周敦颐及《爱莲说》，并提及高尚品格，但未明确莲花出淤泥而不染及君子洁身自好、高洁自守；关于画中服饰、举止和扇子的判断缺乏依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确命中了周敦颐及其作《爱莲说》与高尚道德追求，但遗漏了“出淤泥而不染”及“洁身自好”等必须事实表述。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：「服饰和举止……可能代表周敦颐」有「可能」修饰，未作肯定断言；周敦颐与《爱莲说》本身命中；遗漏「出淤泥而不染」/洁身自好/高洁自守只扣分。"
+}

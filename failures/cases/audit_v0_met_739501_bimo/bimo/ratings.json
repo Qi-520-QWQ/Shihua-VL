@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答将衣纹说成方折顿挫、莲叶说成细匀白描双钩，与参考答案中衣纹流畅细线、莲叶阔笔晕染完全相反，且花叶近乎素白不设色的说法与莲花淡粉、莲叶淡青绿不符，属于编造事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "用笔特征完全说反，且断言莲叶为细线白描双钩中锋勾勒，触犯禁止断言，设色要点亦多处脱离事实清单。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

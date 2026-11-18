@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未提及馆方未给出寓意说明，也未命中圉人骏马喻相马识才或贡马来朝的通识；'象征权势、威严或贵族身份'缺乏参考答案支持，属编造事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及馆方未提供寓意说明，且编造了权势、威严等参考答案未支持的寓意，必须事实均未命中。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

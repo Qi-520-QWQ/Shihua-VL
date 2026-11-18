@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答提到竹叶墨色较浓、墨色存在差异，但未命中竹叶尖利用笔、草书线条流利盘绕、竹叶浓黑而其余偏淡等关键事实，且未提书法线淡墨，仅部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "指出了竹叶墨浓及画与字墨色不一致，但遗漏了叶形尖利、草书线条流利盘绕等核心特征。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

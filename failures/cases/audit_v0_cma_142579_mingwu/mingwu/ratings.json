@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "承认无建筑、舟与独舟人、石涛及秦淮追忆大体正确，但将人物说成宽袍高士而非戴笠持篙，未提人物与山崖比例极悬殊，未提危崖象征南京厚重历史，且加入题跋引文、清初遗民孤寂等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确指出了无建筑、孤舟与持篙人物，但遗漏了人物与山崖比例悬殊、右下水边枯梅及馆方称危崖象征南京厚重历史等必须事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：人物作宽袍高士与参考答案戴笠持篙矛盾，且逐字引述题跋诗句无据"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答笼统提到线条流畅、矿物色感与金色装饰象征，但未命中绢本贴金、石青石绿朱红、右上金字题识及衬托光晕等关键事实；无明显禁止断言，末尾承认不确定性。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未命中绢本设色贴金、矿物颜料名称（石青/石绿/朱红）以及金色题识、衬托光晕等核心考据事实，回答多为泛泛而谈。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

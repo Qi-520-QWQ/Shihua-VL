@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中了市井生活与情绪热闹，但漏掉戏剧性冲突和宁宗子嗣暗喻，且编造了'乡村场景'与'欢快氛围'等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出了市井生活、儿童围绕及热闹情绪，但遗漏了击蛇护童的戏剧性冲突以及暗喻宁宗九子早夭的核心事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：2B断言\"乡村场景\"，与参考答案南宋市井/货郎入巷矛盾；\"欢快氛围\"亦与击蛇护童的戏剧张力不符"
+}

@@ -1,0 +1,35 @@
+{
+ "answer": "湖石以灰黑墨色表现，靠墨的浓淡干湿堆叠出多孔石的体积与孔洞深浅，整体沉着偏暗；萱花为红橙色，花瓣细长，设色鲜明饱和，与灰石形成强烈冷暖、明暗对比，淡绿兰叶则起调和作用。两只蝴蝶体量很小，翅形与斑纹勾勒较细，接近工笔细描，但馆方指出全画笔法欠精，未见明显写意水墨放纵之势；仅凭图像无法确认其严格画法归属与所用颜料。",
+ "required_facts": [
+  "湖石以灰黑墨色的浓淡层次表现",
+  "萱花为红橙色、设色鲜明",
+  "红花与灰石形成强烈对比",
+  "蝴蝶画法接近细笔勾勒",
+  "馆方称此画笔法欠精"
+ ],
+ "forbidden_claims": [
+  "称蝴蝶为大写意泼墨",
+  "断言使用了某具体矿物颜料",
+  "称全画笔法精工绝伦"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/49047",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-35899-002.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/49047",
+  "sha256": "12a6b36bf16bc1e1375366f59b3e0baa4c6cf2720df71ce1b34854a30dede3ed"
+ },
+ "catalogue": {
+  "title": "Rock, Tiger Lily and Orchid",
+  "attribution_verbatim": "Unidentified",
+  "date_verbatim": "dated 1627",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Hanging scroll; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1989.363.125",
+  "credit_line": ""
+ }
+}

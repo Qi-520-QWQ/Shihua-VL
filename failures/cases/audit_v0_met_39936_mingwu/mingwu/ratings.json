@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "禽鸟数量与相向关系基本命中，但将位置描述为左上竹梢与右下低枝、未提竹自右侧石壁生出及湖石，并编造双钩填彩、重彩、文鸟定种、徽宗《竹禽图》等参考答案不支持的具体事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了禽鸟数量（两只）、栖于竹枝、相向对望及宋代院体花鸟画传统，但遗漏了“竹自右侧石壁生出、枝叶向左伸展”这一必须事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：断言此画即徽宗《竹禽图》局部并作文鸟科定种，参考答案仅言徽宗画院风格、无作者断言"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出松针攒簇、山石侧锋皴擦方硬及右浓左淡的总体分布，但未明确墨色偏绿褐，且补充了参考答案不支持的具体皴法、部位与背景资料等断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中了松针成簇、山石侧锋方硬、浓墨在右侧松崖、左侧水面淡墨留白及浓淡对比明显等要点，但遗漏了墨色深沉偏绿褐这一事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答将山石皴法确指为“小斧劈皴”，并称松针为“车轮形/扇形”攒簇，均为参考答案不支持的具体技法/形态断言（同基线 40062_bimo 与 41185_bimo 判例）；遗漏“墨色偏绿褐”只扣 strict。"
+}

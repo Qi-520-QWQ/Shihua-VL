@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答仅笼统提到长袍、小船和钓竿，未命中独坐船尾、戴帽深色袍、舟尾篷盖、渔具仅一竿或篙且无显著钓钩鱼篓及断代依据等关键事实；还称舟式钓具有助缩小时代并推测宋元，属禁止的凭形制断代。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏了戴帽、深色袍、船尾篷盖等细节，且未指出断代依据为馆方著录与吴镇自题诗，反而错误认为可凭舟船衣着推测宋元时代。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

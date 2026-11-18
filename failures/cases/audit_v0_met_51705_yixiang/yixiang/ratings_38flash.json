@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及相马识才与贡马来朝的通识寓意，但未说明馆方未提供寓意说明，并编造画题、题跋及画面细节，还将象征说法过度断定为具体场景。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答命中了画史通识中相马识才与贡马来朝的寓意，但遗漏了'馆方未提供该组合的寓意说明'这一必须事实，且引入了参考答案不支持的具体画面细节依据。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

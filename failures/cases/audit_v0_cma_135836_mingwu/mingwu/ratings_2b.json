@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将建筑说成亭子、茶馆，未命中「极小不可辨」「蘭若即佛寺」等事实，且编造茶馆性质，属禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，且无端猜测建筑为亭子和茶馆，完全未涉及“兰若”的佛寺性质。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

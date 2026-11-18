@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "说到清雅，但错误地将本幅描述为有兰花，并遗漏枯木竹石题材及竹、枯木寓意等必需事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未指出画作无兰花而是枯木竹石，误认画面有兰花触犯禁止断言，漏掉枯木与吴镇画竹等事实，仅答出画面清雅。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

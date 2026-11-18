@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答误认人物为文成公主，未命中任何必须事实，且编造唐朝风格等画面不支持内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答完全错误，将关羽误识为文成公主，且服饰兵器等特征描述纯属捏造，未命中任何必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "命中南宋市井商业与儿童围观、情绪热闹，但未提及戏剧性冲突及馆方关于宁宗九子早夭的暗喻，未达全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中了市井商业与儿童生活及热闹情绪，但遗漏了画面具体的戏剧性冲突情节以及馆方提及的暗喻宁宗九子早夭的背景。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

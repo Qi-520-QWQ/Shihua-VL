@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未提及无日轮、深红点染植被及淡设色，且明确断言斧劈皴与披麻皴等具体皴法，属于禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中必须事实（如云气留白、无日轮、深红点染植被等），且触犯了禁止断言，明确断定为斧劈皴和披麻皴。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

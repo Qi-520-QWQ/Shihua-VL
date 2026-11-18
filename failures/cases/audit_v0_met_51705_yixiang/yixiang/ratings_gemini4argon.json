@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答给出相马识才通识寓意，但未说明馆方未提供寓意说明，且虚构题字'韩干圉人呈马'并据此断言画作主题寓意，属编造事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "命中了画史通识中识才寓意，但未提及馆方未提供寓意说明，且编造了画面题字及文献印证。"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实；称建筑可能为小庙或亭台属禁止断言，且未提松轩、溪畔小茅屋、米点启发等关键点，仅泛泛提到文人山水。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答多为泛化的AI模板套话，未命中茅屋（松轩）、前景松间溪畔位置、董巨/元代松石书斋传统及米点等核心事实，还将草堂误猜为小庙或亭台。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

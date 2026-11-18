@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 0,
+    "notes": "回答传达了隐逸、清幽自得及松云仙境意境，但未命中馆方'明立国前两年'、元末溪畔草堂象征、远离尘嚣寄身林泉等必须事实，且加入题跋诗句等参考答案外内容，故未达严格命中。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答仅部分命中了远离尘嚣的隐逸意境，完全遗漏了馆方指出的明立国前两年背景及元末草堂象征意义，且编造了参考答案不支持的题跋内容。"
+  }
+}

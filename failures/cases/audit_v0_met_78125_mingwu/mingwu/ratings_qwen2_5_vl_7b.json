@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出竹与文字并列，但将文字位置说成右上角且编造“清风两竿”和装饰、传达主题等作用；未命中左侧竖框内草书《千字文》摘文及非图解说明。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅答出竹与文字是并列关系，但编造了文字内容为“清风两竿”及位置，遗漏了右侧斜竹与左侧草书千字文等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

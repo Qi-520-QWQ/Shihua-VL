@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将建筑断定为亭子并编造其休憩、隐士居所等性质，未说明其极小难辨，也未结合「蘭若」解释为佛寺或僧舍。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，将建筑误判为凉亭及隐士居所，完全未提及“兰若”所指的佛寺、僧舍性质。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

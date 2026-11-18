@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未指出本幅无兰却详述兰叶用笔墨色，属禁止断言；竹叶描述为细腻流畅、淡墨，与书法化重复图案化及较浓不符；石块未提董巨皴笔点苔，墨色过渡说成淡到浓自然过渡而非浓淡相间，多处编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯‘兰叶用笔如何如何’的禁止断言，全篇凭空编造不存在的兰叶及其墨色过渡，未命中任何核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

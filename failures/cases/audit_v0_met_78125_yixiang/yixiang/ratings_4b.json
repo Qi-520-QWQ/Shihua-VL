@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到竹的高洁及书法文化趣味，但未说明《千字文》无重复字、为基础学习文本，也未提及詹景凤；“追求精神自由”等内容缺乏参考依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅命中了竹象征坚韧高洁这一事实，遗漏了千字文为无重复字基础蒙学文本以及作者詹景凤书画兼擅等关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“宁静致远/追求精神自由”在此处仅作泛泛意境措辞，未作为画论通识含义断言（与 39936_yixiang 直接作答通识不同）；未触禁止断言；遗漏千字文无重复字/詹景凤只扣分。"
+}

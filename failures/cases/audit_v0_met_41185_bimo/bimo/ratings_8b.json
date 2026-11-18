@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中淡墨晕染交融、边界柔和及松针工细，但未提馆方含蓄墨染与淡彩、成簇点写及工放对照；称松针兼写意属轻微偏离，未达全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了淡墨晕染过渡和松针工细等部分事实，但遗漏了馆方评价、成簇点写以及松针与云气的工放对照。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

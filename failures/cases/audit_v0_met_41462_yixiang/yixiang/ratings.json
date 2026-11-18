@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只泛泛提到坚韧孤高气节，漏掉元代政治歧视隐喻、吴镇隐居及梅花道人自号等必须事实，未命中全部关键点但方向部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅命中松树象征坚韧刚毅等普遍寓意，完全遗漏吴镇隐居及自号梅花道人、元代文人面对政治歧视的生存隐喻等核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

@@ -1,0 +1,51 @@
+{
+ "id": "audit_v0_met_40062_mingwu",
+ "artwork_id": "met_40062",
+ "group_id": "met_40062",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中松树下的建筑是什么形制？画面中山石与树木的组合指向哪个时代的山水样式？",
+ "answer": "松树覆盖的陡崖崖脚、中下偏右处有一座小茅屋，隐于石树之间，屋前有溪流，即所谓隐栖之所，形制为简朴茅舍而非楼阁寺观。画面右侧为松崖，左侧为开阔水面与远岸礁石，属南宋院体山水常见的边角式构图与松石组合样式；馆方据风格将作者定为阎次于（阎次平之弟），其父阎仲及兄弟于1160年代供职孝宗画院。",
+ "required_facts": [
+  "建筑为小茅屋",
+  "茅屋位于崖脚中下偏右、隐于石树间",
+  "屋前有溪流",
+  "右侧松崖、左侧开阔水面",
+  "属南宋院体边角式山水样式",
+  "作者依风格定为阎次于"
+ ],
+ "accepted_variants": [
+  "茅舍",
+  "草屋",
+  "隐栖之所",
+  "南宋马远夏圭一路边角构图",
+  "阎次于传称"
+ ],
+ "forbidden_claims": [
+  "建筑为多层楼阁或寺庙",
+  "画面为北宋全景式大山大水",
+  "画上有作者题名可据以定名",
+  "作者为阎次平本人（馆方定为阎次于）"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/40062",
+   "page": "Met 馆方页",
+   "quote": "Because there is no signature on this painting, its attribution must be made on the basis of style alone"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/40062",
+   "page": "Met 馆方页",
+   "quote": "the scholar and Met curator Wen Fong attributed it to his brother, Yan Ciyu."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

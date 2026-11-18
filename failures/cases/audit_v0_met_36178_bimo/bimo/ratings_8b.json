@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答未命中松针攒笔、松干枯笔、梅枝勾法、整体浓丽等关键事实，且将松针设色说成淡雅属于编造/与参考答案冲突；仅鹰羽细腻、梅花鲜艳部分接近。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "漏掉了松针攒笔黑绿、松干枯笔勾皴等关键技法，且将整体设色错误判定为淡雅，松针用笔和设色亦存在编造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

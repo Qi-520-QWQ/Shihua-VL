@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_met_49047_bimo",
+ "artwork_id": "met_49047",
+ "group_id": "met_49047",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "湖石的墨色层次与红色花朵的设色有何对比？画面中两只蝴蝶的画法是工笔还是写意？",
+ "answer": "湖石以灰黑墨色表现，靠墨的浓淡干湿堆叠出多孔石的体积与孔洞深浅，整体沉着偏暗；萱花为红橙色，花瓣细长，设色鲜明饱和，与灰石形成强烈冷暖、明暗对比，淡绿兰叶则起调和作用。两只蝴蝶体量很小，翅形与斑纹勾勒较细，接近工笔细描，但馆方指出全画笔法欠精，未见明显写意水墨放纵之势；仅凭图像无法确认其严格画法归属与所用颜料。",
+ "required_facts": [
+  "湖石以灰黑墨色的浓淡层次表现",
+  "萱花为红橙色、设色鲜明",
+  "红花与灰石形成强烈对比",
+  "蝴蝶画法接近细笔勾勒",
+  "馆方称此画笔法欠精"
+ ],
+ "accepted_variants": [
+  "墨色分浓淡表现湖石",
+  "红橙花与灰黑石对比强烈",
+  "蝴蝶为细笔小写"
+ ],
+ "forbidden_claims": [
+  "称蝴蝶为大写意泼墨",
+  "断言使用了某具体矿物颜料",
+  "称全画笔法精工绝伦"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/49047",
+   "page": "Met 馆方页",
+   "quote": "A lack of refinement in the brushwork of this example"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

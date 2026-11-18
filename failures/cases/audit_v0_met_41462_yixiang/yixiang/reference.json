@@ -1,0 +1,35 @@
+{
+ "answer": "馆方明确指出，松树因严冬仍保苍翠而象征坚忍与刚毅；对身处蒙古统治下的元代文人而言，古松图像成为面对政治歧视仍求生存的有力隐喻。吴镇本人选择隐居浙江山中、自号梅花道人，其孤松独立成画，正与这种不随流俗、守节自持的人格理想相合。故一株孤松寄托的是坚贞、耐力与隐逸不屈的品格。",
+ "required_facts": [
+  "松因冬日常青象征坚忍与刚毅",
+  "元代文人以古松隐喻政治歧视下的生存",
+  "吴镇隐居浙江山中并自号梅花道人",
+  "孤松寄托坚贞隐逸的人格理想"
+ ],
+ "forbidden_claims": [
+  "松象征富贵荣华",
+  "吴镇曾任元朝高官",
+  "画面为松梅合绘",
+  "馆方称此图寓忠君报国"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41462",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DT8082.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41462",
+  "sha256": "dd0b4a8f90a8bedbbbda96de29ab9de1720435dff3f297e5680fe43f7edc1edc"
+ },
+ "catalogue": {
+  "title": "Crooked Pine",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "dated 1335",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1985.120.1",
+  "credit_line": "Purchase, The Dillon Fund Gift, 1985"
+ }
+}

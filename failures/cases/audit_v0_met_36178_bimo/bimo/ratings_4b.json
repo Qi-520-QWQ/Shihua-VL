@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "鹰羽误作粗犷简洁、松针未提攒笔浓黑带绿、松干枯笔勾皴缺失、梅枝未提点染花朵，且称设色淡雅以水墨为主，与参考答案浓丽设色及禁止断言冲突。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "笔法与设色判断皆与参考答案完全相反，将工整细致的鹰羽误判为粗犷简洁，并将偏浓丽的设色误判为淡雅水墨为主。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

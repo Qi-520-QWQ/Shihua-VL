@@ -1,0 +1,34 @@
+{
+ "answer": "旭日初升于群峰之间的意象传达出黄山高峻幽深、云海翻涌的磅礴气势，兼有清晨初启的清朗与神秘。黄山以传说中黄帝访道求仙得名，深红点染又暗喻朱砂仙药，故画面在壮阔之外含长生祝寿之意——此轴即为生日贺礼。丁云鹏为安徽画家，此图属最早的黄山图之一，晚明以前黄山因难攀而少入画，步道修筑后方成画家题材。",
+ "required_facts": [
+  "黄山因黄帝求仙传说得名",
+  "深红喻朱砂仙药",
+  "此轴为生日贺礼",
+  "属最早黄山图之一"
+ ],
+ "forbidden_claims": [
+  "此图为送别之作",
+  "黄山自唐宋即为画家常绘题材",
+  "画面表现的是夜景"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1965.28",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1965.28/1965.28_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1965.28",
+  "sha256": "6ca90f0c5c8bf9e268ec38ff1d65d7ceafe3894cd576c3d81c3f4c810a06daa6"
+ },
+ "catalogue": {
+  "title": "Morning Sun over Heavenly Citadel Peak",
+  "attribution_verbatim": "Morning Sun over Heavenly Citadel Peak (天都曉日圖), 1614",
+  "date_verbatim": "1614",
+  "period_verbatim": "China, Ming dynasty (1368–1644)",
+  "medium": "Hanging scroll; ink and light color on paper",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1965.28",
+  "credit_line": ""
+ }
+}

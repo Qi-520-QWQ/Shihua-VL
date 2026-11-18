@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中周敦颐、《爱莲说》及莲喻君子高洁自守等必需事实，且无禁止断言；但关于题款、画家、画面细节及馆方资料的具体说法均无参考答案支持，属于编造扩展。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完全命中了周敦颐、《爱莲说》、出淤泥而不染及君子高洁品格等全部事实要点，且无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言画家为“陆鹏”并引述题款“濂溪清赏”及“筑室庐山莲花峰下、引溪水命名为濂溪”等参考答案不支持的具体可核查断言（同题 mingwu 判例）；四项必需事实均命中，故 strict=1。"
+}

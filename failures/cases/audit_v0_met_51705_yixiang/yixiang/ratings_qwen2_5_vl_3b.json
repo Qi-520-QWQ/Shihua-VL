@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "承认本画寓意不确定，但未提及馆方未提供寓意说明及相马识才、贡马来朝两类通识寓意，反而编入权力、威严、尊贵等不受参考答案支持的解释。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "未命中馆方未作说明及画史通识中相马识才或贡马来朝的寓意，且自行编造了驾驭控制、权力威严等非参考答案支持的象征意义。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽提到竹叶书法性笔意及石块皴擦、点苔和浓淡变化，但虚构兰叶并描述其用笔，且未命中董源、巨然渊源与石块笔触夸张成习气。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发禁止断言详细描述了兰叶用笔与墨色，未指出本幅无兰，且未命中石块皴法承自董巨等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

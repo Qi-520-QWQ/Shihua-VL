@@ -1,0 +1,46 @@
+{
+ "id": "audit_v0_met_41185_mingwu",
+ "artwork_id": "met_41185",
+ "group_id": "met_41185",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中山间建筑的形制与位置有何特点？松树的形态指向哪一类山水传统？",
+ "answer": "山间建筑是一座临溪的小茅屋，即题中「松轩」，位于下部前景松树之间、溪流左中侧，体量很小，屋中人不可辨；它并非宏敞的楼阁寺观，而是简朴的草堂。前景数株高松挺立，松针成簇、树身高拔，配合云雾与淡青绿设色，指向董巨一系江南山水及元代文人松石书斋图的传统；馆方另指出山体横点受传为米芾《春山松》一类「米点」启发。",
+ "required_facts": [
+  "建筑为溪边小茅屋（松轩）",
+  "茅屋位于下部前景松间溪畔，体量小，屋内人不可辨",
+  "前景高松成数株，指向江南文人书斋山水传统",
+  "馆方称山体横点或受传为米芾作品启发"
+ ],
+ "accepted_variants": [
+  "草堂、茅舍、书斋",
+  "松石书斋图",
+  "米点、米氏云山影响"
+ ],
+ "forbidden_claims": [
+  "称建筑为宏伟楼阁或寺院",
+  "称屋中人物清晰可辨",
+  "称松树属宫廷院体或界画建筑传统"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41185",
+   "page": "Met 馆方页",
+   "quote": "the depiction of a thatched studio by a stream became popular as a symbol of the scholar's condition—a life in reclusion"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41185",
+   "page": "Met 馆方页",
+   "quote": "the horizontal black and blue-green 'Mi' dots may have been inspired by Spring Mountains and Pines… attributed to Mi Fu"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

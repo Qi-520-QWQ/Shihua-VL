@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "仅笼统提到人小山大与和谐共处，未命中松象征君子、茅亭栖居等必须事实；'融入''谦卑敬畏'属参考答案不支持的添加表述，但无禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了人物渺小与山林广大的对比及人与自然和谐的关系，但遗漏了松树象征君子德操和士人坐于茅亭栖居的关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“和谐共处/谦卑敬畏”为泛泛解读，未触禁止断言（未称征服自然），未断言具体可核查事实；遗漏松象征君子/茅亭栖居只扣分。"
+}

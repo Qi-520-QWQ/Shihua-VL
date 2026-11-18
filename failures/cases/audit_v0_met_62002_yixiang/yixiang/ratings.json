@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答命中忠义勇武与护法护佑，但未提及纳入道教神系、万历封帝称关帝、清代近乎守护神并广建祠庙及水陆法会，且加入参考答案未支持的武财神、招财进宝等编造象征。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了忠义勇武、道教神系护法及水陆法会画等要点，但遗漏了万历年间封帝与清代被奉为守护神广建祠庙的历史事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：断言武财神/招财进宝象征，参考答案无据且与水陆法会语境不合"
+}

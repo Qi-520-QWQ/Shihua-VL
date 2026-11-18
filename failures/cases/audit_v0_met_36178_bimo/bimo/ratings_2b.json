@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中任何必须事实（如层层晕染、攒笔、枯笔勾皴、红梅鲜红），且将设色描述为松针梅枝淡雅、鹰羽浓墨重彩，与参考答案的偏浓丽及禁止的极淡素雅相悖，属编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，笔法描述皆为空泛套话，且将设色断为松针和梅枝淡雅，与参考答案中红梅鲜红浓丽、松针黑绿完全相反。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

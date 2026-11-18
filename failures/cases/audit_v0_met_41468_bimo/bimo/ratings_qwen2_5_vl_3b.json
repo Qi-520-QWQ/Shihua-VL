@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "答出人物用笔简练及水面波纹较细的对比，但未提墨戏与漫画式简率直接、波纹为淡墨细线且笔致轻淡，也未说明浓墨芦苇树丛与留白水面的虚实对比。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出了人物线条简练以及与水面的对比，但遗漏了吴镇墨戏/漫画式简率、淡墨细线画水纹及浓墨芦苇与留白水面的虚实对照等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

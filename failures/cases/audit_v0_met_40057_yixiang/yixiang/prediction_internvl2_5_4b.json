@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40057_yixiang",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅中国古画中的渔父形象常象征隐逸、自由自在的人生境界。画面氛围显得苍茫，给人一种宁静而深远的感觉。"
+}

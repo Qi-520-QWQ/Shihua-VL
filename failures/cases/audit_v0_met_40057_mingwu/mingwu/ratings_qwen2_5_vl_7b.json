@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "恰当说明渔船渔具细节无法确定，但未回答建筑、山树构图及风格地域意象等必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答恰当指出了渔船渔具无法确认细节，但完全遗漏了建筑、树木特征及指向李结想象居所、呼应《辋川图》等后半部分问题的全部核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

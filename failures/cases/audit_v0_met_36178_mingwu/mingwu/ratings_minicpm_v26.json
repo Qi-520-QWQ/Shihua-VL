@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中鹰栖于松枝、松居中部及四者并置，但梅、石位置描述不准确，且将寓意扩展为自由、长寿、稳固等参考答案不支持的说法。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "位置描述缺少具体方位细节（如石在左下、梅花向右伸展），误称梅花点缀在松树枝条上，且象征意义未命中‘岁寒刚健’的特定组合内涵。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

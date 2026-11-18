@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答承认渔翁不可见、人物极小无法确认，但将远山描述为'重渲染层次浑厚''体积感强'，命中禁止断言'浓墨积染、层次浑厚'；且未提及绢本淡青绿甚旧、远山正面图式化轮廓等关键事实，部分错误。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中了禁止断言（断言远山层层晕染且层次浑厚），但正确指出了前景水面水草特征，并对人物极小无法辨认特征做出了合理的审慎说明。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

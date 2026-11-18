@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出深色袍和持竿，但编造船上有两人及一人划桨，并错误暗示服饰与舟式可帮助断代；未提及船尾、篷盖及馆方著录和自题诗依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "编造了舟上有两个人及划桨等画面细节，且时代判断逻辑与参考答案相反，未命中吴镇自题诗与馆方著录等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

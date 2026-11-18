@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "提到衣纹与面部用笔细腻、设色鲜艳及金色衬托身份地位，但未命中绢本贴金、矿物颜料、金色题识及营造神圣氛围、衬托光晕等必要事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅笼统答出用笔细腻、设色鲜艳及金色衬托身份，遗漏了石青石绿朱红等矿物颜料、贴金工艺、金色用于题识写字及衬托光晕等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

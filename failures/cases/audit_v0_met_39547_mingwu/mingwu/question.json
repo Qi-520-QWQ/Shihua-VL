@@ -1,0 +1,45 @@
+{
+ "id": "audit_v0_met_39547_mingwu",
+ "artwork_id": "met_39547",
+ "group_id": "met_39547",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中竹、石、兰各占何处？三者的组合在中国画中被称为什么题材？",
+ "answer": "题干预设「竹、石、兰」三者有误：本幅并无兰花，实为枯木竹石题材。据画面，左侧中部为一丛竹叶，右上方是虬曲枯干、枝叶下垂的老树，下部中央为大石块，下部两角仅有些细叶小草，不构成兰花主体。此类组合在画史上称「枯木竹石」，由十一世纪文人画家确立典范，吴镇此图即其创造性变体。",
+ "required_facts": [
+  "画面中没有兰花",
+  "题材为枯木竹石",
+  "左侧中部为大丛竹叶",
+  "右上方为虬曲枯干的老树",
+  "下部中央为大石块",
+  "该题材由十一世纪文人画家确立典范"
+ ],
+ "accepted_variants": [
+  "枯木竹石图",
+  "老树竹石",
+  "old tree, bamboo, and rock",
+  "下部细叶草非兰花"
+ ],
+ "forbidden_claims": [
+  "画面中有兰花且位于某处",
+  "题材为竹石兰三者组合",
+  "兰叶自石间斜出",
+  "本幅为工笔设色兰竹"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/39547",
+   "page": "Met/CMA 馆方页",
+   "quote": "This painting shows Wu Zhen's creative adaptation of the 'old tree, bamboo, and rock' genre first canonized by eleventh-century scholar-artists"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。 题干缺陷记录：题干预设「竹、石、兰」有误，画面实为枯木竹石、无兰花；题干不改，参考答案已正面纠正。"
+ },
+ "version": "v0"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛泛谈隐逸闲适，未命中馆方元末失意文人象征、题诗思归放竿、退隐不求闻达等必须事实，但方向部分正确且无禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛泛提到渔人象征隐逸，完全遗漏了馆方指出元末失意文人象征、吴镇自题诗思归且放下钓竿等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出萧索与怀古兴亡感，但未命中危崖、枯梅、仰视巨崖如压倒性历史等具体事实，且未明确本图不表现繁华，故未全中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了秦淮题材的历史沧桑感与本图萧索的定调，但遗漏了危崖意象以及仰视巨崖面对压倒性历史的核心画面特征。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

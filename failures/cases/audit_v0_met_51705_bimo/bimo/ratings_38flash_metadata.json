@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及红缰、红缨及粉红衣袍等设色事实，但擅自断言马身与衣纹的具体描法，并将整体设色判为偏淡，未恰当承认笔法差异无法确证。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯禁止断言，具体指认了铁线描与兰叶描等描法，未说明馆方未记录笔法差异，且将设色错误断为偏淡彩意趣。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

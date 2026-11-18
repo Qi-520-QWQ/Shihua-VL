@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中全部必须事实，且将松针误答为写意，属禁止断言中的写法错误。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅部分答出云气与山石以晕染交融，错误将松针画法定性为写意，且遗漏馆方评价及工放对照等事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

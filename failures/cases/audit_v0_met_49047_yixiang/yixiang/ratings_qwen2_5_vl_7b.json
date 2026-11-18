@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "提到兰象征高洁，但遗漏萱草忘忧、宜男，湖石坚固与蝴蝶谐耋等要点；称整体清雅，违反禁止断言，且其他象征说法缺乏参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发了禁止断言（将画面整体气息断言为清雅），且遗漏了萱草（忘忧/宜男）、蝶（谐音耋寓长寿）、湖石（坚固）等多项必须命中的具体寓意事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

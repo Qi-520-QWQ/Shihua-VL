@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及绳状层叠笔触、王蒙、金笺设色及金地留白分隔景物；关于山石用细笔和留白营造宁静氛围的说法无参考依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答全为泛化的山水画套话，完全未命中绳状笔触/王蒙风格、红袍醒目、金笺金地本色及分隔景物等具体考据事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：「细致的笔触」「宁静空灵」均为含糊笔法/意境形容词，未断言具体可核查事实；遗漏绳状层叠笔触/王蒙/金笺设色/金地留白分隔景物只扣分。"
+}

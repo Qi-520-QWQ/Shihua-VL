@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答虚构了本幅并不存在的兰叶用笔与墨色，未指出本幅无兰，也未命中竹叶书法化程式、石块承董巨皴点及墨色浓淡相间等核心事实，属编造与禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答虚构了画中不存在的兰叶用笔与墨色，触犯禁止断言，且完全未命中董巨皴笔、书法程式化等关键考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

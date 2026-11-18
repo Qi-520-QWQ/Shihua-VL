@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅提到马夫红袍等部分相关内容，遗漏关键花斑、白面黑鬃、红缰绳与红缨、毛皮边帽镶边及胡人面貌，并错误将时代说成宋或唐；黑色马蹬、腰带等细节无参考依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏大量关键特征（白面黑鬃、红缨饰、毛皮边饰、胡人面容等），虚构了马镫和黑帽子，且时代判断错误（指向宋唐而非明代仿唐），故判分较低。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

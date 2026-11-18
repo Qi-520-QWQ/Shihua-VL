@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中刚健不屈、坚贞与松梅岁寒寓意，但未点明清末猛禽题材流行象征力量及振作自强、迎春复新的期许，故非全对；无禁止断言，不确定性说明合理。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了刚健不屈与松耐寒坚贞的气节，但遗漏了清末猛禽流行象征力量以及梅报春、迎春复新期许等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

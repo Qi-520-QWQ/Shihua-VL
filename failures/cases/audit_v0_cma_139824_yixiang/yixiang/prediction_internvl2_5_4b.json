@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_139824_yixiang",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅画是《货郎图》，描绘了宋代市井生活的一个场景。画面中，货郎带着各种商品，吸引了不少孩子围观，反映了宋代市井的繁荣和热闹景象。\n\n画面情绪是热闹的，因为画中人物众多，活动频繁，充满了生活气息。"
+}

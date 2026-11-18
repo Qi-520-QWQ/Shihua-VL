@@ -1,0 +1,48 @@
+{
+ "id": "audit_v0_cma_160135_mingwu",
+ "artwork_id": "cma_160135",
+ "group_id": "cma_160135",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中渔隐人物的舟船、钓具与居所有何特征？山水环境指向何种地域？",
+ "answer": "画面中部为大面积留白的江面，两岸分江。可见篷船：中左近岸一篷船上坐着一位红袍渔人，持短竿垂钓；左缘中部另有一叶小舟，人影不甚清晰。馆方描述称渔人各坐船尾、持装线轴的短竿在水中垂钓，但视觉上钓钩与线轴细节难以辨认。近岸有高树数株与石块，篷船带篷盖。山水为两岸夹江、远山淡墨的江南景致，馆方指出此类图景即赵氏等文人心中江南家乡，故地域指向江南。",
+ "required_facts": [
+  "画面为两岸分江构图，中部江面大面积留白",
+  "近岸篷船上有红袍渔人持短竿垂钓",
+  "左缘中部另有一小舟，人影不清晰",
+  "馆方称渔人持装有线轴的短竿，但画面细节难辨",
+  "景致指向江南"
+ ],
+ "accepted_variants": [
+  "篷船又称屋船、船屋",
+  "两岸夹江式构图",
+  "江南水乡景致"
+ ],
+ "forbidden_claims": [
+  "画面中有三艘以上清晰可见的渔船",
+  "渔人使用长竿或手执渔网",
+  "钓钩与线轴细节在画中清晰可辨",
+  "山水指向北方或蜀中山水"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1997.93",
+   "page": "Met/CMA 馆方页",
+   "quote": "In this typical southern two shores divided by a river composition, two fishermen, each seated in the stern of his covered houseboat, troll their hooks in the swirling water, holding short rods fitted with spooling reels."
+  },
+  {
+   "url": "https://clevelandart.org/art/1997.93",
+   "page": "Met/CMA 馆方页",
+   "quote": "pictured them in nature as fishermen amid vistas of Jiangnan, which they considered their home."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

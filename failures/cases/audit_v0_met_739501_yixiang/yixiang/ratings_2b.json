@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答只泛泛谈隐士与隐逸，未命中周敦颐、《爱莲说》、出淤泥而不染及君子洁身自好等任一必须事实，也未出现禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未提及周敦颐、《爱莲说》、出淤泥而不染及君子洁身自好等任何必须命中的事实，泛泛而谈隐逸生活。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

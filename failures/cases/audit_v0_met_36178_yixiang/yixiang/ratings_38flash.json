@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中松梅耐寒及坚贞寓意，但未提清末猛禽题材流行、象征力量及振作自强、迎春复新的期许，并编造画面细节与题款背景。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "仅部分命中刚健及松耐寒的气节寓意，遗漏了清末猛禽流行象征力量、梅报春先以及振作自强、迎春复新等核心事实，且包含了参考答案未支持的推论与背景信息。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

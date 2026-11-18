@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_41185_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中山间建筑的形制小巧，位于山间，与自然环境和谐共存。松树的形态指向了强调自然的山水传统，象征着坚韧与生命力。"
+}

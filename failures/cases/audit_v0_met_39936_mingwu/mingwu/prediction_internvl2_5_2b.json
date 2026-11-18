@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_39936_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中有三只禽鸟，分别栖于左上、中下和右上的树枝。竹子的画法与鸟的栖枝指向了“写意花鸟”的传统。"
+}

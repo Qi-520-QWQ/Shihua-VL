@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中远山淡墨、人物用笔简洁等部分事实，但将江面说成稍深墨且有水纹波动、人物用浓墨勾勒并突出细节，均无参考依据，且未提及红袍设色与近岸树石较重。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅答出远山淡墨及人物用笔简笔，错误地将流水描述为稍深墨色刻画波动（实为大面积留白代水），且遗漏了近浓远淡的层次和红袍设色等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

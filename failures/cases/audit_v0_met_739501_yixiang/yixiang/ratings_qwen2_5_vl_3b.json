@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将赏莲人物误说为陶渊明，触犯禁止断言，且未命中周敦颐及莲喻君子的关键事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将赏莲人物错误断言为陶渊明（触碰禁止断言），未命中任何必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

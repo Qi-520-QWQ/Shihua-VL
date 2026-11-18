@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答对了渔父象征隐逸及闲适基调，但未提及李结预先想象退休居所及古淡闲远、非苍茫萧瑟等关键事实，故未全中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了渔父象征隐逸和画面闲适的氛围，但遗漏了该画系李结预想退休居所的核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_met_51705_mingwu",
+ "artwork_id": "met_51705",
+ "group_id": "met_51705",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中马与马夫的服饰、马具各有何特征？这些细节指向哪个时代？",
+ "answer": "据馆方与视觉笔记：马为高大花马，黑白花斑、白面、黑鬃，配红缰绳与胸前红缨饰，面朝右；圉人须髯、戴毛皮边帽，着粉红长袍（黑毛皮镶边领口袖口）、红靴，右手牵红缰绳，面容具胡人特征。馆方明确指出画马以八世纪唐马为范本，但风格显示为十六世纪明人所绘，故这些细节不能直接定为唐代原作。",
+ "required_facts": [
+  "马为黑白花斑、白面、黑鬃",
+  "马具为红缰绳与胸前红缨饰",
+  "圉人戴毛皮边帽、着粉红长袍配黑毛皮镶边",
+  "圉人面容具胡人特征",
+  "馆方定风格为十六世纪明代，母本为八世纪唐马"
+ ],
+ "accepted_variants": [
+  "花马即黑白相间斑马",
+  "圉人即马夫",
+  "胡人特征即非汉地面貌"
+ ],
+ "forbidden_claims": [
+  "断言此画确为唐代韩幹真迹",
+  "声称服饰马具可确证为唐代原物",
+  "编造题款文字或马匹数目"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/51705",
+   "page": "Met/CMA 馆方页",
+   "quote": "The painting of a horse and groom is based on an eighth-century model, but the style reveals it was painted in the sixteenth century."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

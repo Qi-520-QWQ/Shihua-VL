@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只说建筑小巧、松树指向自然传统，未命中茅屋/松轩、溪畔松间位置、屋中人不可辨、江南文人书斋传统及米点启发等关键事实，缺失严重但无禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提及建筑小巧，未答出茅屋草堂形制与松间溪畔位置，且未指出江南文人书斋山水传统及米芾米点等核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

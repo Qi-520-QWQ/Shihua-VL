@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到远离尘嚣、淡泊世俗，但未命中元末失意文人、思归及放下钓竿等关键事实，并将情怀泛化为追求内心平静与自然和谐，缺少参考依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答仅给出泛化的文人隐逸套话，完全遗漏了馆方指出的元末失意文人象征、题诗中思归及放下钓竿不再垂钓等核心事实考据。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：与 4B 线同题同判例——只泛谈超然物外/远离尘嚣，未断言功成名就/积极入世等禁止内容；遗漏元末失意文人象征/题诗思归/放下钓竿只扣分。"
+}

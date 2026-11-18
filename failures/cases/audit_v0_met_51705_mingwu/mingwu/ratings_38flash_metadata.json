@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中马的黑白花斑、红色马具、毛皮边帽、粉红袍配毛皮镶边、胡人面貌及十六世纪明代仿唐背景；但补入参考答案不支持的细节，并编造伪托题跋文字，且将图像细节过度断言为唐代典型装束。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "遗漏马匹黑白花斑、白面、黑鬃的核心特征，且触发禁止断言编造了题款文字（韩幹圉人呈马）。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

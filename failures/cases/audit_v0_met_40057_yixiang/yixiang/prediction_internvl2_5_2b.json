@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40057_yixiang",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "在中国山水画中，渔父形象通常象征着闲适和隐逸的生活境界。这幅画通过其氛围传达出一种苍茫感，强调了自然景观的广阔和深远。"
+}

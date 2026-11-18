@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅泛泛描述气势境界，未命中任一必须事实（黄帝得名、朱砂仙药、生日贺礼、最早黄山图之一），且编造流水潺潺等参考答案不支持内容，属幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实（黄帝求仙、朱砂仙药、生日贺礼、最早黄山图之一），且臆测画面没有直接描绘旭日。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答只泛泛描述隐逸意境，未命中馆方作于明立国前两年、元末溪畔草堂象征隐居等必须事实；且称画为元代张羽《松轩高逸图》等参考答案未支持的具体信息，属编造事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中远离尘嚣的隐逸意境，但遗漏了馆方指出作于明立国前两年及元末溪畔草堂象征等关键考据事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：断言画为元代张羽《松轩高逸图》，参考答案无画家与题名断言"
+}

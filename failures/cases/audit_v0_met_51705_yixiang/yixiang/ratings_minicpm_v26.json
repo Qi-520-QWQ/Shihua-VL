@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提馆方未说明寓意，也未命中相马识才或贡马来朝的通识寓意，反而编造权力、地位、忠诚等说法。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未说明馆方没有提供寓意，亦未提及相马识才或贡马来朝等通识寓意，而是自行编造了象征权力地位与忠诚的解释。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

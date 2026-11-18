@@ -1,0 +1,35 @@
+{
+ "answer": "画面中并无明确建筑，只有一叶小舟与舟上一名微小人物（戴笠持篙），仰望一座占满画面大半的危崖；右下水边另有一枝枯梅。人物与山崖比例极悬殊，凸显自然与历史的压倒性分量。馆方说明此崖或象征南京厚重的六朝历史，画作约1695年作，为石涛与友人同游秦淮古迹而绘，故所指向的是六朝古都南京的历史追忆，而非具体街市楼阁。",
+ "required_facts": [
+  "画面中无明确建筑，仅有舟、人物与崖",
+  "舟上一名微小人物戴笠持篙仰望危崖",
+  "人物与山崖比例极悬殊",
+  "右下水边有一枝枯梅",
+  "馆方称危崖或象征南京厚重的历史"
+ ],
+ "forbidden_claims": [
+  "画中描绘了秦淮河畔楼阁、屋舍等明确建筑",
+  "画中有众多人物或舟船往来",
+  "画面指向宋代或清代市井繁华街景"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1966.31.8",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1966.31.8/1966.31.8_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1966.31.8",
+  "sha256": "f309cb15a70329cfaf31aa16a35fff55df580beb87080eba4243a8b655affc8e"
+ },
+ "catalogue": {
+  "title": "Reminiscences of Qinhuai River",
+  "attribution_verbatim": "Reminiscences of Qinhuai River (秦淮憶舊圖冊), 1642–1707",
+  "date_verbatim": "1642–1707",
+  "period_verbatim": "China, Qing dynasty (1644-1911)",
+  "medium": "Album leaf; ink and color on Song paper",
+  "classification": "ASIAN - Album leaf",
+  "object_name": "Painting",
+  "accession_number": "1966.31.8",
+  "credit_line": ""
+ }
+}

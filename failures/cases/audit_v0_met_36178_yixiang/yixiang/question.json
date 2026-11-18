@@ -1,0 +1,39 @@
+{
+ "id": "audit_v0_met_36178_yixiang",
+ "artwork_id": "met_36178",
+ "group_id": "met_36178",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "鹰立松梅之间的画面寄托了怎样的气节寓意？",
+ "answer": "鹰立松梅之间，寄托刚健不屈、岁寒不凋的气节。馆方指出清末国势衰微之际，猛禽图像流行，画家与赞助人借鹰这类象征武力的题材为水墨传统注入力量感；松耐寒、梅报春，二者与鹰并置，既寓坚贞自守，也含对振作自强、迎春复新的期许。",
+ "required_facts": [
+  "画面寄托刚健不屈的气节",
+  "清末猛禽题材流行，象征力量",
+  "松耐岁寒、梅报春先",
+  "含振作自强、迎春复新的期许"
+ ],
+ "accepted_variants": [
+  "鹰象征武力与力量",
+  "松梅寓岁寒坚贞"
+ ],
+ "forbidden_claims": [
+  "鹰象征隐逸出世、与世无争",
+  "松梅在此仅作装饰，无寓意"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/36178",
+   "page": "Met 馆方页",
+   "quote": "Artists and patrons looked to inject a sense of strength into the ink-painting tradition through these symbols of martial power."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

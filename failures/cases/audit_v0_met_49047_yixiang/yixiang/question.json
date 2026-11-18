@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_met_49047_yixiang",
+ "artwork_id": "met_49047",
+ "group_id": "met_49047",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "石、萱草、兰、蝶的组合在中国画中常寄托何种寓意？画面整体气息是清雅还是浓艳？",
+ "answer": "此组合属传统吉祥与文人题材：萱草（谖草）常喻忘忧、宜男，并与母亲、北堂相关联；兰象征君子幽芳、高洁；湖石寓意长寿与坚固，常与花木构成「寿石」图式；蝴蝶谐音「耋」，寓长寿，也点出花香引蝶的生趣。整体气息偏浓艳而非清雅：红橙萱花饱和醒目，与灰黑湖石、淡绿兰叶对比强烈，装饰意味重于文人写意的淡逸，这也与馆方所说笔法欠精、近于后仿的评断相合。",
+ "required_facts": [
+  "萱草寓忘忧、宜男",
+  "兰象征君子高洁",
+  "湖石寓长寿坚固",
+  "蝴蝶谐音耋、寓长寿",
+  "画面气息偏浓艳"
+ ],
+ "accepted_variants": [
+  "萱草即谖草，忘忧",
+  "蝶谐耋，祝寿",
+  "寿石与花卉组合"
+ ],
+ "forbidden_claims": [
+  "称画面整体气息清雅淡逸",
+  "断言题跋中明确写出上述寓意",
+  "把萱草说成牡丹或芍药"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/49047",
+   "page": "Met 馆方页",
+   "quote": "Many women painters of the Ming dynasty focused on floral themes"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

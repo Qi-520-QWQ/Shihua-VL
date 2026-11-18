@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答明确否认画面有蛇及打蛇动作（禁止断言），且将货郎动作描述为放下担子笑脸俯身，与参考答案'弃担急奔护童'冲突；但命中货担百货、倒置骷髅、货郎须髯戴帽等部分事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发禁止断言（断言画面中并无蛇、属于婴戏货郎欢聚而无冲突情节），且否认了孩童击蛇及货郎急奔护童的核心事实，但命中了货担百货与倒置骷髅等事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

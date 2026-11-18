@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_41468_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中渔人的衣着简朴，身着简陋的渔网服装，舟船小巧，钓具简单。这些特征表明画作可能描绘的是古代渔民的生活场景，但具体年代难以确定。"
+}

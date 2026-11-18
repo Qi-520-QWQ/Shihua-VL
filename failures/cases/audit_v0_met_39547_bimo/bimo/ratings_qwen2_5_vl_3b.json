@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未指出本幅无兰叶，反而编造兰叶用笔和墨色；也未提竹叶书法化图案化及董巨皴点，虽提到石块粗笔和浓淡对比。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "本幅无兰却凭空描述兰叶用笔与墨色，触发禁止断言，且核心考据事实（董巨皴法、书法化程式等）完全未命中。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答否认竹叶朝向一致、称叶尖指向多变，与必须事实和参考答案直接冲突，且未明确命中竹子被大风吹动及整体同向倾倒，属禁止断言式错误。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答错误地断言竹叶朝向不完全一致、指向多变，触犯禁止断言，未能命中核心事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

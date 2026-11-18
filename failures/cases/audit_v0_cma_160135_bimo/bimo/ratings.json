@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中远山淡墨、江面留白、近浓远淡、红袍点景、人物简略等核心事实，但加入‘白衣’‘白粉’‘小舟人影’细化、披麻皴及元代吴镇等参考答案未支持的编造细节，且‘细墨勾勒衣纹’与禁止的‘工笔精细刻画’有擦边，故判有幻觉、未严格全中。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答完整且准确地命中了所有必须事实，逻辑清晰，对比分析到位，未触碰任何禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "分判：五项必须事实全中（远淡、水空、近浓、红袍、人物简略）故strict=1；但断言白衣人物，与参考答案「左缘小舟人影模糊」冲突，故hallucination=1"
+}

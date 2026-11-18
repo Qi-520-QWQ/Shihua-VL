@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答称墨色细腻、人物用笔与山水有明显区别，与参考答案及事实清单相反，且含有禁止断言中的对比性臆断，未承认人物过小无法确认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，且违背事实断言墨色处理非常细腻、人物与山水用笔有明显区别，存在幻觉且未合理拒答。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

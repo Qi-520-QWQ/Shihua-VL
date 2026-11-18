@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_135836_bimo",
+ "model": "InternVL2.5-8B (int8) (T4, int8-8bit, max_num=12, tokenizer patched)",
+ "answer": "这幅中国古画运用了“披麻皴”技法来表现远山的云雾缭绕。近景树木的用笔较为细腻，线条较为清晰，而远山的用笔则较为简略，线条较为模糊，以表现远近的空间感。"
+}

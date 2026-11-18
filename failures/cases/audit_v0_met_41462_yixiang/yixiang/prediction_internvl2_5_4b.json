@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_41462_yixiang",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅中国古画中，一株孤松独立成画，寄托了“傲骨”或“坚韧”的人格象征。画面依据是松树的形态，其枝干曲折，象征着不屈不挠的精神。不确定性在于，不同观者可能有不同的解读，但松树常被视为坚韧和高洁的象征。"
+}

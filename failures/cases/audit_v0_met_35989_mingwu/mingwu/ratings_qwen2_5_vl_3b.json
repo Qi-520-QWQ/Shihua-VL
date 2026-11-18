@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及红衣士人坐于茅亭及亭在巨松之下，虽指出人物相对山石较小，但无依据地补充沉思读书、居画面中心及哲学主题等内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中红衣、茅亭、巨松等核心判断细节，且包含人物处于画面中心、沉思读书等无依据推断。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

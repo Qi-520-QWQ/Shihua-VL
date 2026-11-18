@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到浓淡相间及墨色表现风势，但将浓墨说成勾勒轮廓、淡墨渲染风的轻拂，且称笔触轻快灵动，未命中浓墨撇叶、笔锋凌厉及竹竿弯曲而不折等事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中纸本水墨、笔锋凌厉、竹竿弯曲不折等关键事实，且将水墨撇叶错误描述为‘浓墨勾勒轮廓、淡墨渲染’，存在工笔画法幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

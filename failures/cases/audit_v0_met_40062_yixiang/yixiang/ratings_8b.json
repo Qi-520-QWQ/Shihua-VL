@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答覆盖幽僻山林、隐逸超脱、松象征坚贞与高尚品格等核心事实，但未明确点出茅屋栖隐生活，故未全命中，属接近全对。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了幽僻隐逸之境、松象征坚贞品格及士人避世理想，但遗漏了'茅屋点出栖隐生活'这一必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

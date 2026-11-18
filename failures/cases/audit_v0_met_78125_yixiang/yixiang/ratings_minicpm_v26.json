@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及竹的高洁及《千字文》作为启蒙读物，但未命中无重复字、詹景凤书画兼擅及书画一体趣味；将画面内容说成左侧印章并推断其与《千字文》有关，属于无依据编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了竹的君子象征及千字文为蒙学读物，但遗漏了无重复字特征与作者詹景凤的背景，且臆造了画面左侧有“千字文印章”。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

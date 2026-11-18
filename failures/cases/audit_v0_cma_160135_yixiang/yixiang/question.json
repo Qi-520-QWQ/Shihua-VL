@@ -1,0 +1,40 @@
+{
+ "id": "audit_v0_cma_160135_yixiang",
+ "artwork_id": "cma_160135",
+ "group_id": "cma_160135",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "渔隐于山水之间的画面寄托了怎样的出世理想？",
+ "answer": "此图将文人置于江南山水间垂钓，寄托避世隐居、以渔为隐的出世理想：两岸夹江、江面空阔，远山淡墨、留白浩渺，营造远离尘嚣的清远之境；篷船短竿、红袍点景，写渔人悠然自适的江湖生涯。馆方指出赵雍之父赵孟頫等文人喜绘自身作渔人徜徉江南，他们视江南为家园，故渔隐既是归乡之思，也是不慕荣利、寄情山水的人格自许。",
+ "required_facts": [
+  "寄托避世隐居、渔隐出世的理想",
+  "江南被视为文人家园，渔隐含归乡之意",
+  "馆方称赵氏等文人喜绘自身作渔人徜徉江南"
+ ],
+ "accepted_variants": [
+  "渔隐图传统",
+  "江湖之思、林泉之志",
+  "不慕荣利的人格自许"
+ ],
+ "forbidden_claims": [
+  "画面表达入仕建功的抱负",
+  "渔人形象象征渔樵耕读中的渔夫劳作之苦",
+  "该图寄托思乡而不得归的悲愤"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1997.93",
+   "page": "Met/CMA 馆方页",
+   "quote": "scholar-artists like the Zhaos delighted in paintings that pictured them in nature as fishermen amid vistas of Jiangnan, which they considered their home."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

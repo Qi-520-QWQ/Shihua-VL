@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_cma_142579_bimo",
+ "artwork_id": "cma_142579",
+ "group_id": "cma_142579",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "水面、建筑与人物的用笔、设色各有何不同？画面是工笔还是写意？",
+ "answer": "全画以墨色为主，设色清淡：危崖用淡墨加淡赭石渲染，配竖向皴纹，笔致纵放；水面留白简淡，几乎不加刻画；小舟与人物用细笔点写，形体极小。整体不事工整勾勒与层层敷色，属写意一路，而非工笔。馆方著录为宋笺设色，说明是淡彩写意而非重彩工笔。",
+ "required_facts": [
+  "以墨色为主，设色清淡",
+  "危崖用淡墨加淡赭石染并有竖向皴纹",
+  "水面留白简淡少刻画",
+  "小舟人物用细笔点写且形体极小",
+  "整体属写意而非工笔"
+ ],
+ "accepted_variants": [
+  "淡彩可称浅绛",
+  "写意亦可称意笔、粗放",
+  "竖向皴纹可称纵向皴笔"
+ ],
+ "forbidden_claims": [
+  "画面为工笔重彩",
+  "建筑刻画细致、界画严整",
+  "水面用细密水波纹工整描绘"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1966.31.8",
+   "page": "Met/CMA 馆方页",
+   "quote": "This album leaf was probably created in 1695 for a friend Shitao had traveled with to visit ancient sites along the Qinhuai River from the Six Dynasties period."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

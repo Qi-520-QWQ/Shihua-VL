@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答释读了题款且年代正确，但直接断定作者为文俶、将款年当作实际年代，未提馆方著录为佚名仿赵文俶及笔法欠精疑为后人仿作，违反禁止断言并漏关键事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "结论直接断定作者为文俶并坐实1627年绘制，触发禁止断言，且遗漏馆方著录为佚名仿作及笔法欠精等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

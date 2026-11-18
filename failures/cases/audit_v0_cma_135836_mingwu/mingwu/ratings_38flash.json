@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "提到了建筑极小难辨、有不确定性，但把建筑判为茅舍/水阁/文人隐居草堂或村舍，违背了必须命中的'最可能为佛寺兰若'这一事实，且出现禁止断言性质的'文人隐士隐居草堂'等表述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未结合题名考据出「兰若」为佛寺僧舍，且错误断言建筑为文人隐士草堂、精舍或村舍，触犯禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

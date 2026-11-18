@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到竹与文字，未指出左侧竖框内的草书《千字文》摘文及书画并置关系；编造文字位置和“清风拂竹”内容，并称文字与竹不直接互动。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，将并置关系误判为主辅，且严重编造了文字内容（“清风拂竹”）及版面位置。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

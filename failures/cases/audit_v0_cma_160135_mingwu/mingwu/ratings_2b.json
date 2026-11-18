@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中红袍渔人、短竿、左缘小舟、馆方线轴说明等必须事实，且编造竹制简篷、鱼网、茅草屋等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中山水指向江南，遗漏了绝大部分核心事实，且臆造了鱼网与茅草屋等参考答案中没有的要素。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

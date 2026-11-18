@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_39547_mingwu",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅画中竹、石、兰各占画面的中央位置，竹子在画面的上部，石块在中部偏下，兰草在下部。这三者在中国画中被称为“兰竹石”题材，常用来表现自然的清雅和高洁。"
+}

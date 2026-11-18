@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答提到避世隐居、江南归乡和赵氏文人画渔人，接近命中主要事实，但加入参考答案未支持的“身在仕途”“吏隐”“异族统治”等编造背景，且未明确馆方称赵氏文人画自身为渔人，故strict_hit为0、partial为2、hallucination为1。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了渔隐出世理想及江南归乡之意，且分析深入无禁止断言，但未完整准确复述馆方指出‘赵氏等文人喜绘自身作渔人徜徉江南’这一核心观点。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言画家“身在仕途却向往归隐”、“吏隐”及“异族统治的复杂政局”，均为参考答案不支持的具体历史背景断言；遗漏“馆方称赵氏文人喜绘自身作渔人”只扣 strict。"
+}

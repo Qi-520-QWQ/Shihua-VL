@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中远离尘世、隐居的意境，但未提及馆方所述创作时间及元末溪畔草堂的象征；关于松树象征坚韧长寿、画家崇敬自然与向往隐居的说法不受参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答仅体现了远离尘嚣的隐逸意境，完全遗漏了明立国前两年的时代背景及元末溪畔草堂的象征意义。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：与 3B 线同题同判例——「松象征坚韧长寿」「崇敬自然、向往隐居」为通用文化常识性说法与泛泛抒情，未断言具体可核查事实；遗漏明立国前两年/元末溪畔草堂象征只扣分。"
+}

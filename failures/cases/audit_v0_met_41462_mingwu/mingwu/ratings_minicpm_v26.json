@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "提及树干盘曲及坚韧生命力的象征，但漏掉树木占画面、枝叶与大石等形态细节，也未提吴镇自题和馆方说法。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了树干盘旋及象征坚韧不拔等涵义，但遗漏了单株占满画面、自左下而上、孔洞疤结、右下大石及吴镇自题等具体事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

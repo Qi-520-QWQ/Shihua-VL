@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答只用泛泛山水画套话，未命中任何必须事实（黄帝传说、朱砂仙药、生日贺礼、最早黄山图之一），虽无禁止断言，但实质偏题。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实（黄帝求仙传说、朱砂仙药、生日贺礼、最早黄山图等），内容仅为泛泛而谈的套话。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

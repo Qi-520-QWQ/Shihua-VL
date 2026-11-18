@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "提到红衣人物及人物渺小与山石对比，但未明确坐于茅亭中、亭在巨松下、红色醒目等必须事实，且将比例关系解读为和谐谦卑而非山水主人物点景，缺失较多。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了红衣、人物与山石的大小对比，但遗漏了巨松、红色醒目以及明确判断其为文人士人身份等必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

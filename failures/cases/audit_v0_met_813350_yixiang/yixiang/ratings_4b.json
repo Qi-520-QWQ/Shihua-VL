@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中坚韧品格及画面刚劲，但未提竹弯而不折、柔性抵抗和遗民拒仕清廷；“挺拔”与风中摇曳的描述不受参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出了坚韧品格与刚劲情绪，但遗漏了与遗民画家拒绝仕清的背景关联以及弯而不折代表柔性抵抗的具体象征。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“挺拔”为泛泛形容，未断言具体可核查事实；答案命中坚韧品格与刚劲情绪，遗漏弯而不折/柔性抵抗/遗民拒仕清只扣分。"
+}

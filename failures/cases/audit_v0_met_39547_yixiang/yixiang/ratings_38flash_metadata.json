@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽答出竹的虚心有节及画面清雅、水墨设色，但断言本幅有兰草并绘竹石兰，违背题材为枯木竹石且无兰花的事实；也未说明枯木寓老而弥坚及吴镇晚年专精画竹。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未能纠正本幅无兰花的事实，反而强行认定画面底部有幽兰并套用竹石兰组合，触犯禁止断言，且遗漏了吴镇晚年专精画竹等要点。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

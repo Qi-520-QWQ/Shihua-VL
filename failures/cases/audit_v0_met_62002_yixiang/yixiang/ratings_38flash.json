@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中忠义勇武与护法护佑等部分象征，但未提及万历封帝、清代奉祀及水陆法会背景；另加入参考答案不支持的武财神、伽蓝菩萨及画面细节等断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了象征忠义勇武、道教神祇及水陆画护佑功能，但遗漏了万历年间封帝及清代奉为守护神广建祠庙的历史事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言“武财神（招财保平安）”与“佛教护法神伽蓝菩萨”，与参考答案“道教神系、水陆法会护法”不符，属无据断言具体象征归属；遗漏“万历封帝、清代奉祀”只扣 strict。"
+}

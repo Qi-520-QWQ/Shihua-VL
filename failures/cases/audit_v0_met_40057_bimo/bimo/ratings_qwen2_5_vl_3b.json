@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中绢本淡青绿甚淡旧、远山图式化且层次简率、水面与点状水草及人物极小无法确认等事实；编造近水浓墨、渔翁细致生动等细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答未命中任何必须事实，捏造了近水用浓墨以及渔翁人物动作表情细腻生动等虚假细节，且未能依事实指出人物极小无法确认用笔。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

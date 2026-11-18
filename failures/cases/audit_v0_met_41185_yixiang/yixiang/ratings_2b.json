@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答传达了远离尘嚣、隐逸宁静的意境，但未命中馆方作画年代、元末草堂象征等必须事实，属部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅命中了远离尘嚣的隐逸意境，遗漏了馆方提到的作画年份背景（明立国前两年）以及元末溪畔草堂象征文人隐居生活的考据要点。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

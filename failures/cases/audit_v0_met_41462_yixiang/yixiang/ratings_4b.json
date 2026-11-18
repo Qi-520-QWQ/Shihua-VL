@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提到坚韧高洁，未命中元代文人隐喻、吴镇隐居自号梅花道人及坚贞隐逸等核心事实，属部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提及坚韧高洁的象征，未命中元代文人生存隐喻、政治歧视背景以及吴镇隐居自号等关键考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答称建筑为亭子、时代为魏晋南北朝，均与参考答案（茅舍、南宋院体边角式）不符，且未命中任何必须事实，属编造错误。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "建筑形制误答为亭子（应为小茅屋），时代风格误答为魏晋南北朝（应为南宋院体边角式山水），未命中任何事实且存在严重捏造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

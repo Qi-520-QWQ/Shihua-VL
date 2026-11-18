@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_51705_yixiang",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅画中牵马人物与马的组合常寓意“马上”或“马上权”，象征权力、威严和军事力量。古代绘画中，马常被用来象征帝王的权威和军事力量，而人物牵马则进一步强化了这种象征意义。"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将建筑定位为画面中上部、依山而建的亭台楼阁，与参考答案的溪边松间小茅屋不符，且未命中屋内人不可辨、馆方米点启发等关键事实；松树仅泛泛联系文人画松竹梅传统，未指向江南文人书斋山水，并含禁止断言的楼阁表述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "建筑位置误答为画面中上部，形制猜测为亭台楼阁，且山水传统答成泛指的松竹梅品德传统，完全未命中参考事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只笼统提到坚韧不屈，未命中元代文人隐喻、吴镇隐居自号梅花道人、坚贞隐逸等关键事实，但无禁止断言或编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛泛答出松树象征坚韧不拔，遗漏了元代文人面对政治歧视的生存隐喻、吴镇隐居自号以及寄托隐逸品格等核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "仅笼统认定为关羽并提及绿袍、长髯、大刀，但缺少蓝头巾、头后光晕、两名从者、右上题识等关键标志，且将头饰误述为红色羽饰、未提青龙偃月刀全称，属部分命中且有细节错误。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "正确识别出关羽及绿袍、美髯、大刀等特征，但遗漏了题识、从者、光晕和蓝头巾等关键依据，误称头戴红色羽饰，且在已有明确题识的情况下错误地声称还需结合更多背景信息。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

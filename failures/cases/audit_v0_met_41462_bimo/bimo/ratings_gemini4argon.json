@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "答案涉及松针成簇、墨色浓淡对比与苍老感，接近全对，但将松皮皴法具体化为长披麻兼解索皴、中锋攒针法等参考答案不支持的细节，且引入赭石色可能性讨论，属编造事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中了松皮皴擦、松针攒簇及树干浓淡墨表现苍老感等核心技法，但遗漏了“纯水墨不施色”和“枝间留白”的事实，且推测可能含有赭石色。"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中全部必须事实（货物细笔繁密、人物衣纹工致且货郎孩童有别、担架相对简括、淡设色墨线为主），无禁止断言；担架描述略细化为挺拔规整但不算编造，整体接近全对。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了货物细笔繁密与淡设色墨线为主等核心事实，但未明确指出货郎与孩童线条有别以及担架结构的相对简括。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：担架仅称挺拔规整未言简括，货郎与孩童线条之别未明确区分；无禁止断言"
+}

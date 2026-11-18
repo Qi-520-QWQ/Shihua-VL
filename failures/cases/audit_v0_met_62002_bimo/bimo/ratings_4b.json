@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答仅泛泛描述衣纹面部与金色象征意义，未命中绢本设色贴金、工笔精细、石青石绿朱红矿物颜料、金色题识标识等必须事实；且编造金色用于冠饰、宝剑等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中绢本贴金、矿物颜料（石青/石绿/朱红）及金色用于右上题识写字等核心事实，且泛泛编造了宝剑等参考答案不支持的细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

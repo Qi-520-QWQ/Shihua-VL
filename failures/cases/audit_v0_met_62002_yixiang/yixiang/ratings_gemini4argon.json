@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "仅命中忠义勇武等部分象征义，未提道教神系、万历封帝、清代守护神与水陆法会护法功能，且编造宫廷画家版本等画面信息。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "仅命中了象征忠义勇武等内容，遗漏了纳入道教神系、万历封帝、清代崇奉及水陆法会护法等关键事实，且臆测该画为清代宫廷画家所作。"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中深山云雾藏寺、清幽出世、留白为云雾天空、虚实相生、高远空灵及视线自下而上等核心事实，无禁止断言；但混入禅宗道家、冥想哲学空间等参考答案未支持的引申，略偏离北宋纪念碑式崇高感的要点，故不全对。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完整命中所有必须事实，准确阐释了出世意境与留白的多重功能，无任何禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：五项必需事实均命中（“将视线向上延伸至无极”即留白引导视线自下而上）；“禅宗/道家”“冥想空间”为泛泛引申，未断言具体可核查事实，不扣 strict。"
+}

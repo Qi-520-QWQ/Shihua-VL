@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_62002_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "这幅画描绘的是文成公主的形象。服饰和剑具有典型的唐朝风格，面容特征包括胡须和头饰。标志包括服饰上的纹饰和头饰上的红色装饰。"
+}

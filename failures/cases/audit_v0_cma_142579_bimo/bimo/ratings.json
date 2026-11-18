@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "写意判断及水面留白、人物淡赭等部分命中，但把危崖误作披麻皴而非竖向皴纹，且断言画面无建筑，与参考答案的建筑用笔要求不符，属编造或误判。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中了写意非工笔、水面留白等事实，但遗漏了小舟人物形体极小等要点，且臆断画作作者为石涛并编造了大段行书题跋等参考答案不支持的内容。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

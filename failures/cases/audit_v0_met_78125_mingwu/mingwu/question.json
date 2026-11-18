@@ -1,0 +1,40 @@
+{
+ "id": "audit_v0_met_78125_mingwu",
+ "artwork_id": "met_78125",
+ "group_id": "met_78125",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中的竹子与文字是什么关系？文字内容在画面中起何种作用？",
+ "answer": "画面右侧约三分之二是一株自左下向右上斜出的竹，左侧一竖长框内书写草书《千字文》摘文，右上有作者题识与朱印两方。二者的关系是书画并置、相互映衬：竹以水墨写形，文字以草书写意，同为詹景凤笔墨修养的展示。文字并非图解竹子的说明，而是与竹并列的另一重表现对象，其流利盘绕的草书线条与竹竿、竹叶的笔势形成呼应。",
+ "required_facts": [
+  "画面右侧为一株斜出的竹",
+  "左侧竖长框内为草书《千字文》摘文",
+  "竹与文字是并置关系，非同画解说"
+ ],
+ "accepted_variants": [
+  "书与画相配",
+  "书画合卷",
+  "草书千字文与竹同卷"
+ ],
+ "forbidden_claims": [
+  "文字是解释竹子生长过程或画法的说明文字",
+  "竹子画在文字框内",
+  "画面只有竹没有文字"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/78125",
+   "page": "Met/CMA 馆方页",
+   "quote": "he has paired a stalk of bamboo with a rendition of the Thousand-Character Classic of calligraphy"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

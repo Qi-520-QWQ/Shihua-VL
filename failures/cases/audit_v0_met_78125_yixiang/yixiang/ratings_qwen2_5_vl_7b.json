@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到竹象征清高及《千字文》是古代教育内容，但未命中其无重复字特点、詹景凤身份与书画一体趣味；“代表知识与智慧”等说法缺乏参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了竹子象征清高气节及千字文为教育基础文本，但遗漏了千字文无重复字的特点，且完全未提及詹景凤及其时代地域背景。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“代表知识与智慧”为通用文化常识性说法，未断言具体可核查事实（同 4B 78125_yixiang“宁静致远”泛泛措辞判例）；遗漏千字文无重复字/詹景凤身份只扣分。"
+}

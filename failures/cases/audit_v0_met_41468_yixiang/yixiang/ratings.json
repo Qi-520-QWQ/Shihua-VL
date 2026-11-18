@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答案准确覆盖渔隐、意不在鱼、挂竿不钓、题诗归意与不慕名利，但未明确命中“馆方称渔人为元末失意文人的象征”及“退隐江湖、不求闻达”的原表述，且缺元末失意文人的象征定位。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确解析了题诗思归、罢钓与退隐江湖的情怀，但遗漏了馆方明确将其定性为“元末失意文人象征”的核心事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

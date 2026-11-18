@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中参考答案要求的馆方未提供寓意及圉人骏马通识寓意，反而编造“马上权”等无据说法，属幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未提及馆方未提供说明，亦未命中相马识才或贡马来朝等通识，且编造了“马上权”、军事力量等未经参考答案支持的寓意。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

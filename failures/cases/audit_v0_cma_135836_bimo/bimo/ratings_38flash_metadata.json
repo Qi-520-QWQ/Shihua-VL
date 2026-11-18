@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中远山淡墨渲染、留白云雾、长披麻皴、湿点与圆石、近浓远淡等核心事实，但额外加入蟹爪枝、矾头等参考答案未列细节，且未直接复述馆方未专门说明远山墨法，未达全部必须事实故strict_hit为0。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完全命中所有必须事实（淡墨晕染与留白表现云雾、长披麻皴、山顶圆石与湿点、近浓远淡对比），未触发任何禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：四项必需事实均命中——“矾头”即山顶圆石的画论通称、“湿笔苔点”即湿点，“蟹爪”以“如”作比不构成断言；答案未编造馆方对远山墨法的专门说明，rater_a 所称缺失不成立。"
+}

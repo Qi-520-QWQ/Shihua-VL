@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "渔父象征隐逸逍遥与氛围闲适非苍茫均命中，但未提及本图为李结预先想象退休居所之作，必须事实不全故strict_hit为0；无禁止断言，画面描述虽超出参考答案但属合理观察，不判幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中渔父象征隐逸与画面闲适非苍茫的要点，但完全遗漏了“本图为李结预先想象退休居所之作”这一必须事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

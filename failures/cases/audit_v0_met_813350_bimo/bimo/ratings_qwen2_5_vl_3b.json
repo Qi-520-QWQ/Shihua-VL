@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到墨色浓淡对比及以笔墨表现风势，但未明确竹叶浓墨撇出、笔锋凌厉、墨色浓重、竹竿弯曲而不折；并编造作者、年代及画面细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "编造了作者萧云从及竹林背景，且遗漏了纸本水墨、竹竿弯曲不折、浓墨撇出及笔锋凌厉等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

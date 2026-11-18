@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到云雾与山峰，但未说明尖峭山峰、旋涡状云气及下部松林溪流，也未说明晨光以留白和淡设色暗示；编造阳光透出照亮山峰及山间建筑形制。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "顺应题干编造了山间建筑的形制，且未指出画中无明确建筑与日轮，未命中任何必须事实，存在严重幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

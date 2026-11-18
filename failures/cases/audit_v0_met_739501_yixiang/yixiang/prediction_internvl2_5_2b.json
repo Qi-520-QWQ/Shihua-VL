@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_739501_yixiang",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "赏莲人物在中国画中常与隐士相关，特别是文人隐士。这类人物通常被描绘在宁静的自然环境中，与自然和谐共处，体现了中国文人对隐逸生活的向往。"
+}

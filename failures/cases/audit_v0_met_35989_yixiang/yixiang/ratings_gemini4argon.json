@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "回答提到松树华盖与茅亭栖居，但未明确说松象征君子德操，也未明确指出人物极小、山石松树巨大的对比；且加入晚明动荡避世等画面不支持的内容，并含'天人合一'等扩展，属编造/过度解读。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "未命中'松象征君子德操'以及'人物极小、山石巨大（人小山大）'的构图核心事实，仅命中文人坐于茅屋栖居自然与非征服的关系。"
+  }
+}

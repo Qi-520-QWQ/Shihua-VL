@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答承认有风并有局部一致朝向，但称风向多向、无法判定单一主风向，与参考答案要求的整幅一致顺风横扫相悖，且编造了旋风/乱风等画面不支持的事实，未命中全部必须事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "虽然命中了山崖飞瀑与风吹竹子，但错误断言竹叶受山谷旋风影响呈多向、非单一朝向，违背了竹竿竹叶整体向同一方向倾倒的一致性事实。"
+  }
+}

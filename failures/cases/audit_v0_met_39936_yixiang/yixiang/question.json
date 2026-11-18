@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_met_39936_yixiang",
+ "artwork_id": "met_39936",
+ "group_id": "met_39936",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "画面营造了怎样的季节与氛围？禽鸟与竹的组合在传统画论中常寄托何种意境？",
+ "answer": "画面以青绿竹叶、褐色雀鸟与湖石构成清雅明净的小景，竹枝自石壁斜出，两雀相向栖止，气氛安谧生动，整体近于春夏生机盎然之感，而非萧瑟秋冬。禽鸟与竹的组合在传统画论中常寄托君子之德与生机意趣，竹喻高洁坚贞，禽鸟添自然天趣；此属画史通识，馆方文字未直接点明寓意。",
+ "required_facts": [
+  "画面气氛安谧生动",
+  "竹叶青绿、雀鸟褐色构成清雅小景",
+  "竹在画论中常喻君子高洁",
+  "禽鸟与竹组合寄托生机与自然天趣"
+ ],
+ "accepted_variants": [
+  "清雅静谧",
+  "生机盎然",
+  "竹喻君子坚贞",
+  "花鸟寓意天趣"
+ ],
+ "forbidden_claims": [
+  "画面表现深秋萧瑟或寒冬雪景",
+  "馆方明确说明此画寓意忠君",
+  "禽鸟与竹象征隐逸山林（此非本幅主题）"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/39936",
+   "page": "Met 馆方页",
+   "quote": "the emperor valued capturing the spirit of a subject over literal representation"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

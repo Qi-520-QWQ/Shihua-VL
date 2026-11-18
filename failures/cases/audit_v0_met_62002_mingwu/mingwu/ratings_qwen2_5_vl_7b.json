@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未识别关羽或任何必备标志，反称人物可能是天兵天将，属于参考答案不支持的推测。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未能识别出关羽身份，未命中任何标志性特征及题识，错误推测为天兵天将。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

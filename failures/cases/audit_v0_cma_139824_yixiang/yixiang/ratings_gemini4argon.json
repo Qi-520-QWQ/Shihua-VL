@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "命中南宋市井商业与儿童生活及热闹情绪，但未提戏剧性冲突（击蛇护童弃担）与宁宗九子早夭隐喻，且称情绪极其热闹欢快、回避冲突，属禁止断言方向，构成幻觉。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中了市井商业与热闹情绪，但遗漏了戏剧性冲突（击蛇护童）及馆方指出暗喻宁宗九子早夭的关键事实。"
+  }
+}

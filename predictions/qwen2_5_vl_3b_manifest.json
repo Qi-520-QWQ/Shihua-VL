@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "quantization": "bf16",
+  "tokenizer_source": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "max_num": 1280,
+  "max_new_tokens": 768,
+  "planned": 58,
+  "ok": 58,
+  "failed": 0,
+  "seconds": 2843.3,
+  "ts_cst": "2026-11-18 15:02:18",
+  "out": "predictions/qwen2_5_vl_3b.jsonl",
+  "note": "Qwen official quick-start smart resize: min_pixels=256*28*28, max_pixels=1280*28*28; max_num=1280 is max_pixels/(28*28); n_tiles=grid_h*grid_w for t=1 (pre-merge patch grid), not InternVL tiles. planned/ok/failed count this invocation only; successful earlier answers are skipped."
+}

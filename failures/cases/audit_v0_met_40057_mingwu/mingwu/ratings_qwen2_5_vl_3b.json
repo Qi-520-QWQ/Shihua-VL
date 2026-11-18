@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未指出舟船渔具极小且细节无法确认，也漏掉棒状屋宇、地图式构图、李结退休居所及王维《辋川图》；推测渔网、渔民住所、松树和写实江南水乡风貌均无依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中棒状屋宇、图式化构图、李结想象居所及王维《辋川图》等核心考据事实，且凭空臆测渔民棚屋、松树及生态多样性等内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

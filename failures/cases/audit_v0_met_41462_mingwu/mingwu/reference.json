@@ -1,0 +1,37 @@
+{
+ "answer": "这株松树并非直立乔木，而是单株巨松占满画面，树干自左下盘曲而上，虬曲多节，带孔洞疤结，枝干向四方伸展，针叶成簇生于枝端，枝间多留白，右下方衬一大石。虬曲老松在画论中多被解读为历经风霜而仍具生意的象征，与馆方所述松树象征坚忍、耐力相通；吴镇自题亦记其见「crooked and twisting ancient tree」而写此图。",
+ "required_facts": [
+  "单株巨松占满画面",
+  "树干自左下盘曲而上、虬曲多节并有孔洞疤结",
+  "针叶成簇生于枝端、枝间多留白",
+  "右下方有一方大石",
+  "馆方称松象征坚忍与耐力",
+  "吴镇自题记所见为虬曲古树而写图"
+ ],
+ "forbidden_claims": [
+  "画面为多株松树成林",
+  "松树直立挺拔、形态规整",
+  "题款中写有具体咏松诗句原文",
+  "虬曲仅因画法求奇而无象征意味"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41462",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DT8082.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41462",
+  "sha256": "dd0b4a8f90a8bedbbbda96de29ab9de1720435dff3f297e5680fe43f7edc1edc"
+ },
+ "catalogue": {
+  "title": "Crooked Pine",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "dated 1335",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1985.120.1",
+  "credit_line": "Purchase, The Dillon Fund Gift, 1985"
+ }
+}

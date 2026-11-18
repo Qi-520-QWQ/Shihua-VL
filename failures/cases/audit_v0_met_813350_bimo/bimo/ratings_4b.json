@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到墨色浓淡变化表现风势，但遗漏浓墨撇叶、笔锋凌厉及竹竿弯曲不折；“笔触轻盈”“细腻”与参考答案的迅疾有力不符。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅命中了通过墨色浓淡表现风的动势，遗漏了纸本水墨、浓墨撇出、笔锋凌厉、竹竿弯曲不折等核心事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“笔触轻盈/细腻”为含糊风格形容词，未触禁止断言（未称纤弱迟缓），未断言具体可核查事实；遗漏浓墨撇叶/笔锋凌厉/竹竿弯而不折只扣分。"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "该回答将底部细叶认定为兰草并归为“兰竹石”题材，与参考答案明确“无兰花、实为枯木竹石”相悖，且部分位置描述（竹在石后偏右）与事实清单（左侧中部大丛竹叶）不符。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答顺应了题干的错误预设，给出了兰的具体位置并断言三者题材为兰竹石，触发了禁止断言，漏掉了十一世纪文人画典范等事实，仅命中石与枯木的部分位置和古木竹石的题材提法。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

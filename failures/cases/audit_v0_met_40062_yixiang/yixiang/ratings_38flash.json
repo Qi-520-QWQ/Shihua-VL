@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中幽僻山林、松象征坚贞高洁及避世寄情山水等核心事实；但加入栈道、木栏桥或水榭、断代风格及人物细节等参考答案不支持的推断，故有幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了松象征坚贞高洁、避世隐逸与寄情山水理想及幽僻之境，但遗漏了“茅屋点出栖隐生活”这一具体意象（误作水榭木构/幽亭）。"
+ },
+ "adjudicated": true,
+ "basis": "分判：strict 上 rater_b 正确（“茅屋点出栖隐生活”未命中——答案误作木栏桥/水榭）；hallu 上 rater_a 正确（“木栏桥/水榭式结构”为无据断言的具体建筑，另有画派归属与鉴藏印等具体断言）。"
+}

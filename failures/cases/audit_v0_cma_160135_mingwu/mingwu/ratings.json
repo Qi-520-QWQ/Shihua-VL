@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答指向江南且提及篷船垂钓，但称钓具为细长钓竿（参考答案为短竿且反对长竿），且编造前景左侧两叶扁舟、左白衣右红衣等画面不支持的细节，未命中红袍渔人、左缘小舟人影不清、馆方线轴描述等关键事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯禁止断言（称渔人手执细长钓竿），编造了白衣人、篷内侍童等画面细节，遗漏了两岸分江构图及馆方关于短竿线轴的考据说明。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

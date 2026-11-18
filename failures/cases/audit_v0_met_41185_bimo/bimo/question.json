@@ -1,0 +1,41 @@
+{
+ "id": "audit_v0_met_41185_bimo",
+ "artwork_id": "met_41185",
+ "group_id": "met_41185",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "云气与山石的墨色如何交融？松针的画法是工细还是写意？",
+ "answer": "云气与山石以淡墨晕染相接：山腰云雾带用清淡墨色与淡青绿渲染，与山体墨色相互渗化、边界柔和，表现春雨初歇后湿润浓密的云气消散之态，馆方称此为「含蓄的墨染与淡彩」所传达的诗意。松针则画得相对工致，成簇点写、交代清楚，并非粗放写意的大笔涂抹；前景高松的细密松针与山石云气的淡墨晕染形成工与放的对照。",
+ "required_facts": [
+  "云气与山石以淡墨晕染交融，边界柔和",
+  "馆方称用含蓄墨染与淡彩表现雨后湿润云气",
+  "松针画得相对工致，成簇点写",
+  "松针与山石云气形成工放对照"
+ ],
+ "accepted_variants": [
+  "淡墨渲染、水墨晕染",
+  "青绿淡彩",
+  "松针细密、点簇"
+ ],
+ "forbidden_claims": [
+  "称云气用浓墨重彩勾勒轮廓",
+  "称松针为大写意泼墨、一笔扫出",
+  "称全画纯水墨无设色"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41185",
+   "page": "Met 馆方页",
+   "quote": "Zhang Yu's poetic sensibility is expressed through the subtle use of ink wash and pale colors and in the suggestion of dense moisture-laden clouds dissipating after a spring shower"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

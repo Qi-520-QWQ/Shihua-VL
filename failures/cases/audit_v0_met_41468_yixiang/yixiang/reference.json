@@ -1,0 +1,33 @@
+{
+ "answer": "馆方明确指出，这位隐逸渔人是元末失意文人的象征。吴镇自题诗写红叶映夕照、黄芦笼月影，渔人轻摇桨、思归家，放下钓竿不再垂钓，正寄托了乱世中退隐江湖、不求闻达的文人情怀：以渔隐为精神归宿，钓而不在得鱼，重在归意与自适。本件象征由馆方文字与题诗点明。",
+ "required_facts": [
+  "馆方称渔人为元末失意文人的象征",
+  "题诗写渔人思归、放下钓竿不再垂钓",
+  "寄托退隐江湖、不求闻达的文人情怀"
+ ],
+ "forbidden_claims": [
+  "称渔人象征功成名就或仕途得意",
+  "称题诗表达积极入世、求取功名",
+  "把竹喻君子的说法当作本件馆方依据"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41468",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-18549-001.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41468",
+  "sha256": "670afd08278f6d41bd4bc18282e68785e3decd1eb0a4f396fd96effcaf6664a1"
+ },
+ "catalogue": {
+  "title": "Fisherman",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "ca. 1350",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Handscroll; ink on paper",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "1989.363.33",
+  "credit_line": "Bequest of John M. Crawford Jr., 1988"
+ }
+}

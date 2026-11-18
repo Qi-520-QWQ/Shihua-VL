@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "禽鸟数量为二正确，但栖位描述与'相向'及竹从右壁生出等必须事实未命中，且将风格误判为写意，属事实错误/编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅答对有两只禽鸟，栖息位置描述不准确（误作树枝），遗漏竹子生势与两鸟相向细节，且将院体写实传统误判为写意风格。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

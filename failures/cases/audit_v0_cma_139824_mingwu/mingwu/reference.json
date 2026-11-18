@@ -1,0 +1,35 @@
+{
+ "answer": "货担两筐密布罐、壶、盒、玩具、工具、旗幡等日常百货，馆方另指出左筐上方倒置一具骷髅。货郎为须髯戴帽长袍成年人，被五名短衣发髻孩童围绕；孩童以棍石击左下细蛇，一幼儿伸手，一童向右下奔向货担，货郎则急奔护童，弃担不顾。服饰动作皆具南宋市井写实特征。",
+ "required_facts": [
+  "货担筐内有罐壶盒玩具工具旗幡等百货",
+  "馆方称左筐上方有倒置骷髅",
+  "货郎须髯戴帽长袍",
+  "五名短衣发髻孩童以棍石击蛇",
+  "货郎奔向孩童，弃货担于不顾"
+ ],
+ "forbidden_claims": [
+  "货担上悬挂书画卷轴与文房雅器为主",
+  "孩童在嬉戏货郎并无冲突情节",
+  "画面中并无蛇"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1963.582",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1963.582/1963.582_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1963.582",
+  "sha256": "17581f96e85152ec89f41b519f30be6e1575636d57ec42000547272b82b0dd68"
+ },
+ "catalogue": {
+  "title": "The Knickknack Peddler",
+  "attribution_verbatim": "The Knickknack Peddler (嬰戲貨郎圖), 1212",
+  "date_verbatim": "1212",
+  "period_verbatim": "China, Southern Song dynasty (1127-1279)",
+  "medium": "Album leaf; ink and color on silk",
+  "classification": "ASIAN - Album leaf",
+  "object_name": "Painting",
+  "accession_number": "1963.582",
+  "credit_line": ""
+ }
+}

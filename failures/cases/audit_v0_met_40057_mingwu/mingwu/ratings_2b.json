@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中任何必须事实，且断言舟船简朴、渔具基本与'极小不显著、无法确认'相矛盾，属编造；地域风貌泛化为古代东亚，未及李结想象居所与辋川图。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中任何必须事实，且在细节无法看清时进行了含糊的编造，未能指出其指向文人理想隐逸意象及王维《辋川图》风格。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

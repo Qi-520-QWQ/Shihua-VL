@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_51705_yixiang",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "这幅画描绘了牵马的人物与马的组合，这在古代绘画中通常象征着权势、威严或贵族身份。"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中粗犷用笔、松针细密、墨色浓淡表现苍老等部分事实，但未提纯水墨绢本不施色、枝间留白、浓墨强调节疤转折等，且细化描述如上部淡下部浓缺乏参考答案支撑，未达全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "未提及纯水墨不施色、皴笔技法及松针成簇留白等核心事实，仅泛化地答出了松皮粗犷、松针细密及墨色浓淡表现苍老感。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

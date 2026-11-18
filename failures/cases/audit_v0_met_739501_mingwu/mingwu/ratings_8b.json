@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中莲花位于右下角；人物身份、持团扇、观莲、莲花生于树干脚下均未命中，且将团扇误作镜子属编造事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中坐石及莲花在右下角，但未识别出周敦颐，且将手持团扇观莲误判为手持镜子整理仪容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

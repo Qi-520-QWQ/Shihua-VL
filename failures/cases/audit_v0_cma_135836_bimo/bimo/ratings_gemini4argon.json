@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "命中淡墨晕染、留白云雾、披麻皴与浓淡对比等核心事实，但添加了'蟹爪'枯枝、'矾头'、'硬毫'等参考答案未支持的细节，且未明确'湿点与山顶圆石'的原表述，属编造性扩写。"
+  },
+  "rater_b": {
+    "strict_hit": 1,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中所有必须事实（淡墨留白衬云雾、长披麻皴、山顶圆石/矾头与苔点、近浓远淡对比），无禁止断言，不确定性表述严谨。"
+  }
+}

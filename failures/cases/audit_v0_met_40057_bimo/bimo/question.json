@@ -1,0 +1,41 @@
+{
+ "id": "audit_v0_met_40057_bimo",
+ "artwork_id": "met_40057",
+ "group_id": "met_40057",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "远山与近水的墨色层次如何处理？渔翁人物的用笔与山水有何区别？",
+ "answer": "全卷为绢本淡青绿山水，墨色与设色甚淡且陈旧，远山以正面图式化轮廓为主，墨色层次简率，并非层层积染的浑厚山水；前景大面积留作水面，下部成片点状水草，水与山的墨色对比清淡。渔翁人物在画面中极小，视觉笔记无法确认其用笔与山水有何具体区别，故不宜臆断人物线条与山石皴法之异。",
+ "required_facts": [
+  "绢本设色，青绿甚淡旧",
+  "远山正面图式化，墨色层次简率",
+  "前景大面积水面，下部成片点状水草",
+  "渔翁人物极小，无法确认其用笔特征"
+ ],
+ "accepted_variants": [
+  "淡青绿",
+  "古拙简率",
+  "点状水草"
+ ],
+ "forbidden_claims": [
+  "远山用浓墨多次积染，层次浑厚",
+  "人物以细笔白描、与山石皴法形成鲜明对比",
+  "水面用细密波浪线勾出"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/40057",
+   "page": "Met 馆方页",
+   "quote": "an archaic 'blue-and-green' color scheme"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

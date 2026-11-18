@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答把整体气息判为清雅（属禁止断言），且未命中萱草忘忧宜男、湖石长寿坚固、蝶谐耋等必须事实，只有兰的高洁部分正确，故严格未命中且有幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发禁止断言称画面整体气息为清雅，且遗漏萱草忘忧宜男、蝶谐音耋寓长寿等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

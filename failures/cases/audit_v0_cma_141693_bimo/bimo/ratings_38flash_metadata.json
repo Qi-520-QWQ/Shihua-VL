@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中云气留白表现晨光、无日轮、深红点染植被呼应朱砂、线条勾勒加皴与淡设色等核心事实，但断言'短披麻皴、小斧劈皴'等具体皴法名称，属禁止断言，构成幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了无日轮、云气留白烘托晨光及朱砂点染等事实，但断言山石使用了披麻皴、小斧劈皴等具体皴法，触犯了禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

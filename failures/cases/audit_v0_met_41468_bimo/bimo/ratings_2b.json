@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到对比，未命中“墨戏/漫画式简率”“淡墨细线”“浓墨芦苇与留白虚实”等必须事实，且“力遒劲、线条流畅”“波光粼粼”属参考答案不支持的编造描述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未命中吴镇墨戏简率直接、人物简练率直、水面淡墨细线及虚实对照等核心事实，内容多为空泛套话。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：\"力遒劲、线条流畅、波光粼粼\"为通用笔法赞语，未断言工笔细描、未编造具体描法名；水面\"细致笔触\"与淡墨细线方向一致"
+}

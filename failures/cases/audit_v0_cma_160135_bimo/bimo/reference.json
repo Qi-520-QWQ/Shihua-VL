@@ -1,0 +1,35 @@
+{
+ "answer": "全幅以墨色层次区分空间：上半对岸远山用淡墨，虚淡推远；中部江面大面积留白，以空白代水，不施繁笔；下半近岸树石墨色较重，形成近浓远淡的对照。人物方面，近岸篷船上的渔人以红袍设色点出，在淡墨山水间格外醒目；左缘小舟人影模糊，用笔简略。总体人物用笔简括、以色彩提神，与山水树石的墨笔皴染形成工写与浓淡之别。",
+ "required_facts": [
+  "远山以淡墨表现，位于上半对岸",
+  "中部江面大面积留白代水",
+  "近岸树石墨色较重，形成近浓远淡层次",
+  "渔人以红袍设色突出",
+  "人物用笔简略，与山水笔墨有别"
+ ],
+ "forbidden_claims": [
+  "远山用浓墨重笔反复皴擦",
+  "江面以细密水纹线描满绘",
+  "人物用工笔重彩精细刻画五官衣纹"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1997.93",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1997.93/1997.93_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1997.93",
+  "sha256": "3d783f196f94b05029cbfb058bdc02ee7f3f76a21ca4c34a95795f61e20c4592"
+ },
+ "catalogue": {
+  "title": "Fishermen-Hermits in Stream and Mountain",
+  "attribution_verbatim": "Fishermen-Hermits in Stream and Mountain (溪山漁隱圖), 1300s",
+  "date_verbatim": "1300s",
+  "period_verbatim": "China, Yuan dynasty (1271-1368)",
+  "medium": "Hanging scroll; ink and color on silk",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1997.93",
+  "credit_line": ""
+ }
+}

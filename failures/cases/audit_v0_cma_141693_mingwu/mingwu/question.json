@@ -1,0 +1,41 @@
+{
+ "id": "audit_v0_cma_141693_mingwu",
+ "artwork_id": "cma_141693",
+ "group_id": "cma_141693",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中山峰与日光的关系如何表现？山间建筑的形制有何特点？",
+ "answer": "题干预设画面中有明确的山间建筑，但据视觉笔记，山间未见明确建筑，无法确认其形制，不应臆测。日光亦未画成日轮，而是以留白与淡设色表现晨光，群峰尖峭居上，中下部大片旋涡状云气，下部松林溪流，林间深红点染植被象征朱砂。山峰与日光的关系是通过云气与留白烘托出晓日照临之意，而非直接描绘太阳。",
+ "required_facts": [
+  "画面中未见明确建筑",
+  "未见明确日轮",
+  "以留白和淡设色表现晨光",
+  "山峰尖峭，云气旋涡，下部松林溪流"
+ ],
+ "accepted_variants": [
+  "无建筑可辨",
+  "日光以留白暗示",
+  "晓日不画日轮"
+ ],
+ "forbidden_claims": [
+  "画面中有寺庙或亭台并描述其形制",
+  "画中有一轮红日",
+  "山峰平缓圆浑"
+ ],
+ "answerability": "evidence_insufficient",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1965.28",
+   "page": "Met/CMA 馆方页",
+   "quote": "Deep red strokes accentuate vegetation and allude to cinnabar, the alleged elixir of immortality"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified_evidence_insufficient",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。 本题部分子项证据不足（见 answer 标注），answerability=evidence_insufficient。"
+ },
+ "version": "v0"
+}

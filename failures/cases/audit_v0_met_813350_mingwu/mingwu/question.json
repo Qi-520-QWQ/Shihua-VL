@@ -1,0 +1,43 @@
+{
+ "id": "audit_v0_met_813350_mingwu",
+ "artwork_id": "met_813350",
+ "group_id": "met_813350",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中竹子的生长状态如何？风吹之下竹叶的朝向有何一致性？",
+ "answer": "画面中竹子生长在瀑布与悬崖之前，正被猛烈的大风吹动，竹竿与竹叶整体向同一方向倾倒横扫，动势强烈。竹叶朝向高度一致，叶尖一律顺着风向，几近遮满画面。这种整幅一致的倾斜与密集排布，正是画家用来表现“风”的关键手段，使观者不看风而能感到风的猛烈。",
+ "required_facts": [
+  "竹子被大风吹动",
+  "竹竿竹叶整体向同一方向倾倒",
+  "竹叶朝向一致、叶尖顺风",
+  "背景有瀑布与悬崖"
+ ],
+ "accepted_variants": [
+  "风吹竹斜",
+  "满幅风竹",
+  "叶尖一致朝向",
+  "自左上向右下横扫"
+ ],
+ "forbidden_claims": [
+  "称竹子静止无风",
+  "称竹叶朝向杂乱无规律",
+  "称画面为晴竹或雨竹而非风竹",
+  "称背景无瀑布悬崖"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/813350",
+   "page": "Met 馆方页",
+   "quote": "Backed by a waterfall and cliff, stalks of bamboo shake in a violent wind."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中绢本设色、竹叶青绿、鸟身褐、鸟羽细密、鸟眼点漆及院体写实等核心事实，但加入'山石水墨写意粗放笔法''双钩填色''丝毛法'等参考答案不支持的细节，且未提印章与鸟眼点漆，故非全对且有编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了院体风格、绢本设色、竹叶青绿、鸟身褐色及鸟羽刻画细密等大部分要点，且无禁止断言，但遗漏了“鸟眼点漆”这一必须事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：双钩填色/丝毛为院体通用笔法描述、未触禁止断言；遗漏鸟眼点漆故strict=0"
+}

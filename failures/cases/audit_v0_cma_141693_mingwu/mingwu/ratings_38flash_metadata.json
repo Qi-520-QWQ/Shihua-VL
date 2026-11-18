@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "建筑部分正确指出无建筑；但日光部分编造了朱红/赭红暖色晕染峰峦的表现，与参考答案'留白与淡设色'不符，且有少量禁止倾向的描述，未完全命中必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "准确指出画面无日轮且纠偏了建筑预设，但漏提了以“留白”表现晨光的核心要素，并出现了参考答案不支持的山峰朱红暖色晕染与人物细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

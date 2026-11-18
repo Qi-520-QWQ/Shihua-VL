@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及云雾缭绕但未命中留白淡设色、尖峭山峰及松林溪流等事实，并臆称建筑有飞檐翘角。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "臆造了山间建筑的形制（飞檐翘角），未指出画面未见明确建筑及未画日轮的事实，且未命中留白与淡设色等核心要点。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

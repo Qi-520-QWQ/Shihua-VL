@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中红衣、茅亭、松树、人物极小等部分事实，但编造了面朝幽水、案几书房陈设，且未明确点出人物极小、红色醒目及山水为主人物点景的比例说明，含禁止断言外的多余虚构细节。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确命中了坐于亭中红衣士人、巨松之下、山大人物极小等核心事实，未出现禁止断言，分析透彻。"
+ },
+ "adjudicated": true,
+ "basis": "分判：strict 上 rater_b 正确（红衣士人、茅亭、巨松之下、人物极小红色醒目、山大人物极小五项必需事实均命中）；hallu 上 rater_a 正确（“面朝幽水”“案几书房陈设”为参考答案不支持的具体画面细节，属无据断言）。"
+}

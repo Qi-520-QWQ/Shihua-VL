@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提云气留白与无日轮，也未说明林间深红点染及淡设色；还断言斧劈皴、披麻皴，属于禁止的具体皴法断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，且触犯禁止断言将山石皴法确指为斧劈皴和披麻皴，存在严重幻觉与编造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

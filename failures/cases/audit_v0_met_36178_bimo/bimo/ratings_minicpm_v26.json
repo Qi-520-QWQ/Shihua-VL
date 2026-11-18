@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅提到鹰羽有层次感及松针以墨色为主，未命中多项必需用笔细节；并错误断言设色以淡雅为主，与设色偏浓丽相反。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏松干枯笔勾皴、松针墨色带绿、花朵点染等细节，且设色判断与参考事实完全相反（误答为淡雅且称梅花淡雅），存在事实编造与错漏。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

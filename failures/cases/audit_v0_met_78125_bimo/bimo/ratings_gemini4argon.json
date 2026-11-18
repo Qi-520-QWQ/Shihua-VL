@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "命中竹叶浓墨、草书线条流利、墨色浓淡对比等核心事实，但称书法线条淡墨且笔法核心与参考答案的使转连绵不完全一致，并混入中锋提按等参考未支持说法，故未全对且有轻微幻觉。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中了竹叶浓墨、书法淡墨及线条连绵等特征，但在墨色一致性上矛盾地定性为“基本一致”，且遗漏了竹叶尖利如剑的核心形态特征。"
+  }
+}

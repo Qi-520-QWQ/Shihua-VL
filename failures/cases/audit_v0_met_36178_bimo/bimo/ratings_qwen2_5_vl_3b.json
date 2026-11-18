@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "仅提到设色浓艳；未命中鹰羽层层晕染、松针攒笔且墨色浓黑带绿、松干枯笔勾皴、梅枝细笔勾出及红梅鲜红等事实，并无依据地称松针粗犷、梅枝柔和。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中鹰羽细腻和设色偏浓，遗漏了松干、梅花点染、层层晕染等多项必须事实，且松针粗犷、梅枝柔和的描述与参考答案相悖。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

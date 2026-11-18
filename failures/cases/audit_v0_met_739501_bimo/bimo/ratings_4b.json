@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中人物衣纹细线流畅，但莲叶晕染、人物白袍素净浅淡及莲花淡粉或白色均未体现；另编造人物浅蓝浅绿、莲叶深绿墨绿等设色，且与整体淡雅不符。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了人物衣纹用细线流畅勾勒，但遗漏了莲叶晕染、白袍素净及莲花颜色，且编造了人物着浅蓝浅绿、莲叶用深绿墨绿等与事实不符的设色描述。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,34 @@
+{
+ "answer": "朝阳的光感不靠日轮，而以山间大片白色旋涡状云气的留白与淡设色烘托，使尖峭群峰浮于云海之上，晨光由空白处透出；林间深红笔触点染植被，呼应朱砂意象。山石以细劲线条勾勒并施皴，配合淡设色，表现黄山的峭拔岩体，具体皴法名称图录未载，不宜确指为某家皴法。整幅墨色清淡，与深红点苔形成冷暖对照。",
+ "required_facts": [
+  "以云气留白表现晨光",
+  "无日轮",
+  "林间深红点染植被，呼应朱砂",
+  "山石以线条勾勒加皴，淡设色"
+ ],
+ "forbidden_claims": [
+  "画中太阳以朱砂圆轮画出",
+  "确定为披麻皴或斧劈皴等具体皴法",
+  "纯水墨无设色"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1965.28",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1965.28/1965.28_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1965.28",
+  "sha256": "6ca90f0c5c8bf9e268ec38ff1d65d7ceafe3894cd576c3d81c3f4c810a06daa6"
+ },
+ "catalogue": {
+  "title": "Morning Sun over Heavenly Citadel Peak",
+  "attribution_verbatim": "Morning Sun over Heavenly Citadel Peak (天都曉日圖), 1614",
+  "date_verbatim": "1614",
+  "period_verbatim": "China, Ming dynasty (1368–1644)",
+  "medium": "Hanging scroll; ink and light color on paper",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1965.28",
+  "credit_line": ""
+ }
+}

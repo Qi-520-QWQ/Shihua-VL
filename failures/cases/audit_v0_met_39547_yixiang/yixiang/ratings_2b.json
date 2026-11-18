@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答直接套用「竹石兰组合」并称画面有淡雅色彩，未纠正本幅无兰花、为枯木竹石且纯水墨，含禁止断言与幻觉，基本不对。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅命中了画面气息清雅，未纠正本幅画并无兰花，遗漏了枯木竹石的君子寓意、纯水墨绢本以及吴镇专精画竹等核心事实，且给出泛泛的不确定性套话。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：直接套用\"竹石兰组合\"并称\"淡雅的色彩\"，触犯禁止项——本幅无兰花、为枯木竹石纯水墨绢本"
+}

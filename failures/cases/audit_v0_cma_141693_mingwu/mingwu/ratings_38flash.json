@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答承认无日轮且建筑不显见，但编造了淡赭红/朱砂染峰象征旭日、隐约茅舍草亭等参考答案不支持或禁止的形制描述，未命中全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答虽指出了未直接画红日和日光靠空白衬托，但对建筑部分臆测了木板桥、石梁、高士对坐及隐现茅舍草亭轮廓等细节，未能明确断定山间未见建筑，且漏掉了群峰尖峭、旋涡状云气等必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_met_739501_bimo",
+ "artwork_id": "met_739501",
+ "group_id": "met_739501",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "人物衣纹与莲叶的用笔有何区别？设色如何区分人物与花叶？",
+ "answer": "人物衣纹以流畅细线勾勒，白袍线条连绵，衣褶起伏交代清楚，属较工整的白描式画法；莲叶则以稍阔的笔触涂抹晕染，叶面较大而笔意较放。设色上人物以淡墨勾线、白袍素净，面部与须髯浅淡着色；花叶用淡彩，莲花淡粉、白色，莲叶淡青绿，整体设色淡雅，以颜色轻重区分人物与花叶。",
+ "required_facts": [
+  "衣纹以细线勾勒，线条流畅",
+  "莲叶以较阔笔触晕染",
+  "人物白袍素净、设色浅淡",
+  "莲花淡粉或白色",
+  "整体设色淡雅"
+ ],
+ "accepted_variants": [
+  "衣纹白描",
+  "莲叶写意晕染",
+  "淡墨淡彩"
+ ],
+ "forbidden_claims": [
+  "人物衣纹用大泼墨",
+  "设色浓艳重彩",
+  "莲叶用极细工笔逐叶勾勒"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/739501",
+   "page": "Met 馆方页",
+   "quote": "a gentleman gazes lovingly at a pond of blossoming lotus"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

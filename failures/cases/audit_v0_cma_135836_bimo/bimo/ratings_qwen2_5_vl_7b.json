@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中远山淡墨渲染，但未提云雾留白、长披麻皴及湿点与山顶圆石；“近景细致清晰、远山松散柔和”的用笔差异缺乏参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅命中了远山淡墨渲染，缺失长披麻皴、湿点圆石、云雾留白及近浓远淡的墨色对比等核心事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“近景细致清晰、远山松散柔和”为含糊风格形容词，未断言与参考答案矛盾的具体事实，也未无据断言具体可核查事实（未点名具体皴法/器物/题款）；遗漏长披麻皴/湿点/山顶圆石/云雾留白/近浓远淡只扣 strict/partial，不计幻觉。"
+}

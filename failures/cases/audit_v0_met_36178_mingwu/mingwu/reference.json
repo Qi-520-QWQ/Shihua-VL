@@ -1,0 +1,35 @@
+{
+ "answer": "鹰栖居画面上方约三分之一处，立于虬曲松枝上，面朝左；松干自左下盘旋而上，处于中部；红梅一枝位于右中偏右，花朵向右伸展；淡色山石则在下部左侧。鹰、松、梅、石并置是传统花鸟画常见组合：松耐岁寒、梅报春先，鹰寓雄健刚猛，借岁寒之景寄托刚强不屈之气。",
+ "required_facts": [
+  "鹰位于画面上方约三分之一处，栖于松枝",
+  "松干自左下盘旋而上，居中部",
+  "红梅一枝在右中，向右伸展",
+  "淡色山石在下部左侧",
+  "鹰、松、梅、石并置属传统岁寒刚健意象组合"
+ ],
+ "forbidden_claims": [
+  "鹰立于画面下方或梅枝上",
+  "石头位于右下角",
+  "画面只有鹰与松而无梅无石"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/36178",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-24795-002.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/36178",
+  "sha256": "dcec5394f8726b81bb323af08e17fb3fc37a23acde635010020ab37589248032"
+ },
+ "catalogue": {
+  "title": "Hawk, pine, plum, and rock",
+  "attribution_verbatim": "Zhu Cheng",
+  "date_verbatim": "dated 1873",
+  "period_verbatim": "Qing dynasty (1644–1911)",
+  "medium": "Hanging scroll; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1986.267.65",
+  "credit_line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986"
+ }
+}

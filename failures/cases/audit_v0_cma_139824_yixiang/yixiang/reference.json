@@ -1,0 +1,33 @@
+{
+ "answer": "货郎图题材反映南宋城市商业繁荣与市井生活：走街货郎携百货入巷，儿童围观争购，货担器物即当时日用商品之缩影。本图情绪非静穆，而是热闹中带戏剧张力——孩童以棍石击蛇、货郎急奔护童、弃担不顾，动感强烈。馆方并指出此危难孩童情节或暗喻宁宗九子早夭、无直系男嗣，故热闹之下另有寄托。",
+ "required_facts": [
+  "反映南宋市井商业与儿童生活",
+  "画面情绪热闹，有戏剧性冲突",
+  "馆方称情节或暗喻宁宗九子早夭"
+ ],
+ "forbidden_claims": [
+  "画面情绪静穆平和，无冲突",
+  "题材纯为文人雅集",
+  "与宁宗子嗣之事毫无关联且馆方未提及"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1963.582",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1963.582/1963.582_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1963.582",
+  "sha256": "17581f96e85152ec89f41b519f30be6e1575636d57ec42000547272b82b0dd68"
+ },
+ "catalogue": {
+  "title": "The Knickknack Peddler",
+  "attribution_verbatim": "The Knickknack Peddler (嬰戲貨郎圖), 1212",
+  "date_verbatim": "1212",
+  "period_verbatim": "China, Southern Song dynasty (1127-1279)",
+  "medium": "Album leaf; ink and color on silk",
+  "classification": "ASIAN - Album leaf",
+  "object_name": "Painting",
+  "accession_number": "1963.582",
+  "credit_line": ""
+ }
+}

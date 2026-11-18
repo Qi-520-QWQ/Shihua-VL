@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "答出竹叶朝向一致，但未说明竹竿竹叶整体向同一方向倾倒，也未提及瀑布与悬崖；“姿态各异”缺乏依据并与整体倾斜的描述不符。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中了风吹及竹叶朝向一致的事实，但遗漏了竹竿竹叶整体倾倒的动势以及背景有瀑布悬崖的必须事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：\"竹叶姿态各异\"与参考答案\"竹竿竹叶整体向同一方向倾倒、竹叶朝向高度一致、叶尖一律顺风向\"直接矛盾（目检记录亦称皆向同一方向倾倒）；遗漏瀑布与悬崖只扣分。"
+}

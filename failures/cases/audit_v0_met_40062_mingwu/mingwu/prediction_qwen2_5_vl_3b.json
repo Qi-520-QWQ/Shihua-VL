@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40062_mingwu",
+ "model": "Qwen2.5-VL-3B (bf16) (T4, bf16, max_num=1280, transformers 4.49.0)",
+ "answer": "1. 画面中松树下的建筑是方形的。\n2. 山石与树木的组合指向宋代的山水样式。"
+}

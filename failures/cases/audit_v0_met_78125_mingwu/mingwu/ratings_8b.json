@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答称文字起'解释作用'和'补充说明'，与必须事实中'非同画解说'相悖，且未命中画面右侧斜竹、左侧竖框草书《千字文》等具体事实，属禁止断言，仅笼统提及书画相配。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "完全未命中任何必须事实（未指出右侧斜竹、左侧竖长框草书千字文，且误将文字视为补充解释而非并置对象），通篇为空泛推测。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：断言文字起“解释作用/补充说明”，与参考答案“文字并非同画解说、而是并置对象”直接矛盾，触禁止断言。"
+}

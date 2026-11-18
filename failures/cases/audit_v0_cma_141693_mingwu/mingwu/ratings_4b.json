@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答臆测山间建筑形制并描述光影明暗，未提及留白淡设色表现晨光、无日轮等关键事实，且含禁止断言（描述建筑形制），属编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答完全未命中参考事实，且臆造了山间房屋建筑的形制特点及光影明暗对比。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

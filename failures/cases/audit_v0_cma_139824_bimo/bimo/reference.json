@@ -1,0 +1,34 @@
+{
+ "answer": "馆方称李嵩擅长对孩童、货郎及其杂货作精微描绘，故货物以细笔刻画，罐壶盒玩器物繁密可辨；人物衣纹动作亦工致，货郎长袍与孩童短衣线条有别；担架结构则相对简括，起承托与分割画面作用。设色为绢本淡设色，墨线为主、敷色清淡，属工致细密一路，而非浓丽重彩。",
+ "required_facts": [
+  "货物以细笔精微描绘，器物繁密",
+  "人物衣纹工致，货郎与孩童线条有别",
+  "担架结构相对简括",
+  "绢本淡设色，墨线为主、敷色清淡"
+ ],
+ "forbidden_claims": [
+  "画面为浓丽重彩、色彩浓艳",
+  "货物仅粗笔写意、不可辨",
+  "人物与货物用笔完全一致"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1963.582",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1963.582/1963.582_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1963.582",
+  "sha256": "17581f96e85152ec89f41b519f30be6e1575636d57ec42000547272b82b0dd68"
+ },
+ "catalogue": {
+  "title": "The Knickknack Peddler",
+  "attribution_verbatim": "The Knickknack Peddler (嬰戲貨郎圖), 1212",
+  "date_verbatim": "1212",
+  "period_verbatim": "China, Southern Song dynasty (1127-1279)",
+  "medium": "Album leaf; ink and color on silk",
+  "classification": "ASIAN - Album leaf",
+  "object_name": "Painting",
+  "accession_number": "1963.582",
+  "credit_line": ""
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提到黑白相间与红衣，未命中白面黑鬃、红缰红缨、毛皮边帽与镶边、胡人特征及明代风格唐马母本等关键事实，且断言指向唐代并编造红金装饰等细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅模糊提及马匹黑白相间，缺失白面、黑鬃、红缰绳红缨、毛皮边饰及胡人特征等关键细节，且错误地将时代断言为唐代，完全遗漏了十六世纪明代风格这一核心考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

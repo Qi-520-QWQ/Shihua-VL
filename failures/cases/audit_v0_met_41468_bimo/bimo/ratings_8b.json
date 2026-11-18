@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将人物面部衣纹描述为细腻柔和、流畅有韵律，属工细描摹式说法，与参考答案的简练率直相悖；亦未命中淡墨细线波纹、浓墨芦苇树丛与留白水面虚实对比等必须事实，且含有禁止断言式表述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未命中任何必须事实，且与事实相反地将简率写意的人物面部与衣纹断言为细腻刻画。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

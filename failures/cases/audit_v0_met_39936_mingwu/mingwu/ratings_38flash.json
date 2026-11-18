@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "禽鸟数量、左右朝向及院体花鸟传统基本命中，但未说明竹自右侧石壁生出、枝叶向左伸展，并加入参考答案不支持的鸟种、技法及印鉴等细节。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "待评回答准确命中了全部必须事实（两只鸟、各自位置与相向姿态、竹枝伸展及宋代院体写实传统），未触犯任何禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：strict 上答案未提“竹自右侧石壁生出、枝叶向左伸展”（rater_b 误判全中）；hallu 上答案断言鸟种“文鸟/蜡嘴雀”、“双钩填彩”技法及“天下一人花押、葫芦印、双龙印”等参考答案不支持的具体可核查事实。"
+}

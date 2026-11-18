@@ -1,0 +1,34 @@
+{
+ "answer": "画面以松崖、茅屋、溪流与空阔水面构成幽僻之境：松树覆崖、崖顶松枝俯垂，小茅屋隐于石树之间，前临溪流，左侧一片空明水景与远岸礁石。这种「松壑隐栖」的图式寄托士人避世高蹈、以山林为归的理想，松象征岁寒坚贞与高士品格，茅舍点出栖隐生活，传达出远离尘嚣、寄情山水的心境。",
+ "required_facts": [
+  "画面表现幽僻山林之境",
+  "茅屋点出栖隐生活",
+  "松象征坚贞与高士品格",
+  "寄托士人避世隐逸、寄情山水的理想"
+ ],
+ "forbidden_claims": [
+  "画面表现繁华市井或宫廷宴乐",
+  "松树象征富贵荣华",
+  "此画主题为饯别送行"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/40062",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-19288-001.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/40062",
+  "sha256": "d0d17b0465d9ae83e01493bb5bce219ebf77a1403fb73486ed2e99b439b642da"
+ },
+ "catalogue": {
+  "title": "Hermitage by a pine-covered bluff",
+  "attribution_verbatim": "Yan Ciyu",
+  "date_verbatim": "second half 12th century",
+  "period_verbatim": "Southern Song dynasty (1127–1279)",
+  "medium": "Fan mounted as an album leaf; ink and color on silk",
+  "classification": "Paintings",
+  "object_name": "Fan mounted as an album leaf",
+  "accession_number": "1973.121.12a, b",
+  "credit_line": "Ex coll.: C. C. Wang Family, Purchase, Gift of Mr. and Mrs. Jeremiah Milbank and Gift of Mary Phelps Smith, in memory of Howard Caswell Smith, by exchange, 1973"
+ }
+}

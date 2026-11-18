@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中江南水乡地域判断及垂钓、岸边树木等部分信息，但遗漏两岸分江、江面留白、红袍渔人和左缘小舟等关键事实，并编造居所、小桥流水、烟雨等画面细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中山水指向江南这一事实，遗漏了两岸分江构图、红袍渔人持短竿、左缘小舟及线轴细节等核心考据点，且虚构了岸边居所与小桥流水人家等内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

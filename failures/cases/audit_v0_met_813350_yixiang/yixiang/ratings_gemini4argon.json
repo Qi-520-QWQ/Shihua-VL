@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "回答命中了坚韧不屈、刚劲非柔弱、弯曲不折等要点，但未提及遗民画家拒绝仕清这一必须事实，且编造了断崖飞瀑、题款纪年等参考答案不支持的具体画面内容，故strict_hit为0、partial为1、hallucination为1。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "回答命中了坚韧品格、弯而不折以及情绪刚劲而非柔弱，但完全遗漏了与遗民画家拒绝仕清相关的考据事实。"
+  }
+}

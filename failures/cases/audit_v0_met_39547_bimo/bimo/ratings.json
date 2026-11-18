@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答大篇幅描述兰叶用笔与墨色，违反禁止断言且未命中'本幅无兰叶可述'；虽提及竹叶撇法、石块披麻皴擦与浓淡苔点，但未明确董巨来源与'书法化重复图案化'，并编造兰叶过渡关系。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "严重违背‘本幅无兰’的事实，编造了大量兰叶用笔分析，触发禁止断言；漏掉董巨源流和竹叶图案化特征，仅答出墨色浓淡相间。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

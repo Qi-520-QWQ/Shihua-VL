@@ -1,0 +1,34 @@
+{
+ "answer": "云气与山石以淡墨晕染相接：山腰云雾带用清淡墨色与淡青绿渲染，与山体墨色相互渗化、边界柔和，表现春雨初歇后湿润浓密的云气消散之态，馆方称此为「含蓄的墨染与淡彩」所传达的诗意。松针则画得相对工致，成簇点写、交代清楚，并非粗放写意的大笔涂抹；前景高松的细密松针与山石云气的淡墨晕染形成工与放的对照。",
+ "required_facts": [
+  "云气与山石以淡墨晕染交融，边界柔和",
+  "馆方称用含蓄墨染与淡彩表现雨后湿润云气",
+  "松针画得相对工致，成簇点写",
+  "松针与山石云气形成工放对照"
+ ],
+ "forbidden_claims": [
+  "称云气用浓墨重彩勾勒轮廓",
+  "称松针为大写意泼墨、一笔扫出",
+  "称全画纯水墨无设色"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41185",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-36818-002.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41185",
+  "sha256": "9029e4cf759585cbef0b11dc7ce47e2946e10e62bc6e991e484877672e4ffd03"
+ },
+ "catalogue": {
+  "title": "Spring Clouds at the Pine Studio",
+  "attribution_verbatim": "Zhang Yu",
+  "date_verbatim": "dated 1366",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1980.426.3",
+  "credit_line": "Gift of Douglas Dillon, 1980"
+ }
+}

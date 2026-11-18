@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中全部必须事实：货物细笔精微、人物衣纹工致且货郎与孩童线条有别、担架结构相对简括、绢本淡设色墨线为主敷色清淡；未出现禁止断言，虽有少量技法细说不影响核心事实。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确回答了货物精微繁密、人物工致生动、担架平直框定结构的区别，以及绢本淡设色、墨线为主的特征，无禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

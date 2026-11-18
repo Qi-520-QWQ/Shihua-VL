@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及大片水面留白、点状水草及人物极小，但臆断远山层次丰满厚重、人物细密线描等特征，且未恰当承认人物用笔无法确认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发禁止断言（臆断微小人物采用细密铁线描勾勒并与山水对比）；虽在末尾提及不确定性，但主体部分仍强行断言；未能命中远山正面图式化与层次简率等事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

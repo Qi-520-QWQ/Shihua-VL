@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中渔人戴帽、舟为小扁舟及细节不足以精准断代等部分内容，但编造了多根竹制钓竿、篷席等画面细节，并推断更倾向明代且援引题诗和印鉴风格断代；未说明馆方著录与吴镇自题诗才是定年依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "编造了数根钓竿、船中部竹篾篷席等细节，且遗漏了馆方著录与吴镇自题诗这一核心断代依据，误判为明代追摹。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

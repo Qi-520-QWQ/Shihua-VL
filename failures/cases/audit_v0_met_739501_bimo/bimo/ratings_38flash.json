@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽提及人物白袍浅淡及荷花白色等部分信息，但将用笔特点、花叶设色与参考答案相反，并断言人物衣纹浓重、花叶纯白描，含不支持的细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答完全相反，错误断言莲叶为细线白描勾勒（触犯禁止断言相关含义）、人物具象实色而花叶水墨素雅，未命中任何必须事实且严重偏离参考答案。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

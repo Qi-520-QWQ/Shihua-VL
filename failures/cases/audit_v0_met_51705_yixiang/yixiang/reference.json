@@ -1,0 +1,31 @@
+{
+ "answer": "馆方未就牵马人物与马的组合给出寓意说明，仅称其母本为八世纪唐画、风格属十六世纪，且题款与印章真伪杂糅。画史通识中，圉人与骏马常象征相马识才、贤才待遇，或用于表现贡马与异域人物来朝。本题只能作通识性说明，不能视为本件馆方定论。",
+ "required_facts": [
+  "馆方未提供该组合的寓意说明",
+  "画史通识中圉人骏马可喻相马识才或贡马来朝"
+ ],
+ "forbidden_claims": [
+  "声称馆方明确记载此画寓意",
+  "断言该寓意即作者本意并有文献可证"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/51705",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP202661_CRD.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/51705",
+  "sha256": "af4f9d0a247f588335904db459dae1cf790ebd08139aed8b79baa823c30faad0"
+ },
+ "catalogue": {
+  "title": "Horse and groom",
+  "attribution_verbatim": "Unidentified artist",
+  "date_verbatim": "16th century",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Handscroll; ink and color on silk",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "47.18.93",
+  "credit_line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947"
+ }
+}

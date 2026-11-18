@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到近浓远淡，未命中松针细密成簇、侧锋皴擦方硬、墨色偏绿褐、浓墨集中右侧、左侧清淡留白及浓淡对比等核心事实，且以披麻皴/斧劈皴等参考答案未支持的皴法猜测作答，属编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "待评回答大量使用套话泛泛而谈，未能命中侧锋方硬、墨色偏绿褐以及右浓左淡留白等具体画面事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：断言山石用“披麻皴/斧劈皴”，为参考答案不支持的具体皴法命名，与侧锋皴擦不符，属无据断言可核查事实。"
+}

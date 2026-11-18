@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未指出左侧草书《千字文》摘文及其与竹并置、非作解说的关系，还臆测文字可能是相关诗句或说明，并称其点明主题。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未命中画面的具体布局与千字文草书事实，且误将文字泛化猜测为点题说明或相关诗句，存在与事实不符的编造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

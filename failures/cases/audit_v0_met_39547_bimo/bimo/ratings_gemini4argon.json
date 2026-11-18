@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 0,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答大段描述兰叶用笔与墨色，违反“本幅无兰”的核心事实，属禁止断言；同时未准确说明竹叶书法化重复图案、石块承董巨皴点及墨色浓淡相间而非平涂，故基本不对。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答触发了禁止断言，详细描述了并不存在的兰叶用笔，未能指出本幅无兰，且漏掉了石块皴法源自董巨的事实。"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "答出人与自然和谐及人的谦卑位置，但未提松象征君子德操、人物极小以及士人坐于茅亭栖居山林；关于人物姿态、氛围和相互依存的说法无参考依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "未命中松树象征君子德操、人小山大构图以及士人坐于茅亭中等必须事实，仅泛泛空谈人与自然和谐。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：全篇只泛谈人与自然和谐/平衡/相互依存/崇敬与谦卑，未断言具体可核查事实；遗漏松象征君子德操/人小山大/士人坐于茅亭栖居山林只扣分。"
+}

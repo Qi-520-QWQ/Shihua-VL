@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中绢本设色、竹叶青绿、鸟身褐色、鸟羽细密、鸟眼点漆及院体写实风格等要点，但添加了双钩填色、丝毛法、矿物色及具体分染等参考答案未支持的细节，且将设色描述为饱和典丽，与清雅不浓艳不符。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完全命中了绢本设色、竹叶青绿、鸟身褐色、鸟羽细密、鸟眼点漆及院体工整写实等全部核心事实，分析详尽且无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "分判：strict 上 rater_b 正确（六项必需事实均命中）；hallu 上 rater_a 正确（断言“双钩填色”“丝毛法”等具体技法及“色彩饱和”，与参考答案“设色清雅而不浓艳”有张力，属无据断言具体技法/设色）。"
+}

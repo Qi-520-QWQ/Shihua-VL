@@ -1,0 +1,46 @@
+{
+ "id": "audit_v0_cma_135836_mingwu",
+ "artwork_id": "cma_135836",
+ "group_id": "cma_135836",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面下方的溪流边有哪些建筑？结合题名，这些建筑最可能是什么性质的处所？",
+ "answer": "画面下方溪流边的树丛间只有极小的建筑数间，几不可辨，具体间数与形制无法精确确认，也未见馆方文字对这些建筑作直接描述。结合题名「溪山蘭若圖」，「蘭若」为佛寺、僧舍的通称，且馆方说明本幅作者巨然为僧、承续江南山水传统，故这些建筑最可能是溪畔佛寺（兰若）一类的宗教处所，而非普通民居或亭榭。",
+ "required_facts": [
+  "溪流边的建筑极小、几不可辨，间数与形制无法精确确认",
+  "题名中的「蘭若」指佛寺或僧舍",
+  "这些建筑最可能为佛寺性质的处所"
+ ],
+ "accepted_variants": [
+  "兰若即寺院、僧舍",
+  "建筑为佛寺/山寺一类",
+  "无法数清间数，只能说数间"
+ ],
+ "forbidden_claims": [
+  "明确说出建筑的具体间数（如三间、五间）",
+  "断言建筑为普通民居、书斋或官署",
+  "编造题款或馆方对建筑的形制描述",
+  "把「蘭若」解释为人名或地名而否定其寺舍含义"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1959.348",
+   "page": "Met/CMA 馆方页",
+   "quote": "Monk Juran served the Southern Tang (937–75) imperial house in Nanjing, where he studied with Dong Yuan"
+  },
+  {
+   "url": "https://clevelandart.org/art/1959.348",
+   "page": "Met/CMA 馆方页",
+   "quote": "Both founded the southern landscape tradition, or Jiangnan school, known for gentle misty riverscapes in wet ink."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

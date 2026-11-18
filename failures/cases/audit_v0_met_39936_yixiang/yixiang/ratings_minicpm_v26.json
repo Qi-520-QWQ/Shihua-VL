@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出宁静氛围及竹鸟高洁、自然意趣，但未提竹叶青绿与雀鸟褐色，也未明确说竹喻君子高洁及组合寄托生机；春天或初夏属合理推断。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中画面宁静清新的氛围及竹鸟的高洁、自然和谐意境，但遗漏了竹叶青绿、雀鸟褐色等色彩构景的核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

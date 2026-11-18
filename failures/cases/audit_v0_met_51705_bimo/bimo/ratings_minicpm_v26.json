@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "编造马身与衣纹的具体笔法差异及马身黑白淡雅设色，且未承认笔法差异无法确证；仅提到衣纹有红色，未完整命中设色事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未说明馆方未描述笔法细节，擅自编造马身粗犷与衣纹细腻的笔法差异，且遗漏绢本设色及具体设色物象。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

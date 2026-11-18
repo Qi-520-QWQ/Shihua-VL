@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未纠正本幅无兰花，反而默认竹石兰组合并套用君子品格；虽言清雅但不涉及任何必须事实，且含有与参考答案冲突的题材断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅答出画面整体气息为清雅，未能纠正题目关于兰花的错误前提（本幅无兰花），且遗漏了竹石枯木的具体君子象征与作者背景等多数关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：回答未纠正“竹石兰”错误预设、只泛称“清雅”（气息清雅本身与参考答案一致），未描述不存在的兰叶、未断言三友并绘；属遗漏纠正，不计幻觉。"
+}

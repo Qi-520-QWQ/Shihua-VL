@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40057_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中渔人的舟船是简朴的，渔具是基本的。江岸的建筑与树木指向古代的东亚地域风貌。"
+}

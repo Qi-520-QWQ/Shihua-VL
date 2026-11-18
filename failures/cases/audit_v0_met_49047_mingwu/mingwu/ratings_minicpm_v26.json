@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "误读题款为“天水顾氏文笔”，未指出赵文淑、1627年及馆方著录为佚名仿作；还编造了姓氏、氏族和笔名等解释，并无端称无法确定具体年份。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "题款识读错误（误读为'顾氏文笔'），未命中自称赵氏文淑、1627年、馆方著录为佚名仿作等任何核心事实，并产生关于作者姓氏的幻觉编造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

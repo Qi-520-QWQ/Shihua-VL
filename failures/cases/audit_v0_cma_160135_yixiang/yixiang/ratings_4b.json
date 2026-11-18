@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "只笼统提到出世隐居，未命中江南为家园、渔隐含归乡及馆方赵氏文人自绘渔人等必须事实，但方向基本正确，无禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了避世隐居与出世理想，但完全遗漏了江南家园归乡之思以及馆方关于赵氏文人绘自身为渔人的考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

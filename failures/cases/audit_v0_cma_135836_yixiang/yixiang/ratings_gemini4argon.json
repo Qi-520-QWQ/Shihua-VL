@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答命中云雾深山、出世意境、留白表现天空、虚实相生与视线引导等核心事实，但对留白作用的表述偏向构图压迫感与主观审美，且编造留白处钤有藏家印章，属于禁止的题跋印章编造，故扣分。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中了绝大部分意境与留白作用的要点，但遗漏了留白具有引导视线自下而上逐层移动的功能。"
+  }
+}

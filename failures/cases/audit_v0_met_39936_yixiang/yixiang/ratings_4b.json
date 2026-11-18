@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中初春生机与清雅氛围，但未明确提及气氛安谧生动、竹喻君子高洁及禽鸟添自然天趣等必须事实，并把组合寓意表述为“宁静致远”，偏离参考答案。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中竹喻君子高洁及清雅小景等核心事实，且编造了禽鸟与竹常寄托“宁静致远”的画论寓意。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：以禽鸟与竹组合“常寄托‘宁静致远’”作答传统画论通识含义，属具体可核查的画论断言，与参考答案所定通识（竹喻君子高洁、禽鸟添自然天趣）不符。"
+}

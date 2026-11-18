@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提到浓淡对比，未命中远山淡墨、江面留白、近岸树石、红袍渔人、人物简略等关键事实；且称人物用笔更细致、线条明确，与参考答案‘简括’及禁止断言相近，属编造/错误。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏江面留白代水、红袍设色及近浓远淡等核心事实，且将以虚带实的简略人物误判为细致工笔重墨。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

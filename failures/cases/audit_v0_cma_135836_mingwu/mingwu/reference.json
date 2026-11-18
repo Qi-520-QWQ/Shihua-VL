@@ -1,0 +1,34 @@
+{
+ "answer": "画面下方溪流边的树丛间只有极小的建筑数间，几不可辨，具体间数与形制无法精确确认，也未见馆方文字对这些建筑作直接描述。结合题名「溪山蘭若圖」，「蘭若」为佛寺、僧舍的通称，且馆方说明本幅作者巨然为僧、承续江南山水传统，故这些建筑最可能是溪畔佛寺（兰若）一类的宗教处所，而非普通民居或亭榭。",
+ "required_facts": [
+  "溪流边的建筑极小、几不可辨，间数与形制无法精确确认",
+  "题名中的「蘭若」指佛寺或僧舍",
+  "这些建筑最可能为佛寺性质的处所"
+ ],
+ "forbidden_claims": [
+  "明确说出建筑的具体间数（如三间、五间）",
+  "断言建筑为普通民居、书斋或官署",
+  "编造题款或馆方对建筑的形制描述",
+  "把「蘭若」解释为人名或地名而否定其寺舍含义"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1959.348",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1959.348/1959.348_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1959.348",
+  "sha256": "da04ddf6fd342b268d2ecadd16a4bd30e8aa8fbcf396e370a77b07a22e068217"
+ },
+ "catalogue": {
+  "title": "Buddhist Retreat by Stream and Mountains",
+  "attribution_verbatim": "Buddhist Retreat by Stream and Mountains (溪山蘭若圖), 960–85",
+  "date_verbatim": "960–85",
+  "period_verbatim": "China, Northern Song dynasty (960–1127)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1959.348",
+  "credit_line": ""
+ }
+}

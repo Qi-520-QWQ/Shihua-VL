@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "将兰草视为画面元素并称题材为兰竹石，含禁止断言；未命中无兰花、枯木竹石、右上方老树等关键事实，但竹石位置部分正确。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "触发禁止断言（断言兰花位于石脚处且题材为兰竹石），未能明确指出画面无兰花及题材为枯木竹石，且遗漏十一世纪文人画家确立典范的事实。"
+  }
+}

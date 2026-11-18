@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_739501_yixiang",
+ "model": "Qwen2.5-VL-3B (bf16) (T4, bf16, max_num=1280, transformers 4.49.0)",
+ "answer": "赏莲人物在中国画中常与陶渊明及隐逸品格相联系。"
+}

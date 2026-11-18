@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中孤松坚韧守节的部分寓意，但遗漏松冬日常青、元代政治歧视下的生存隐喻及吴镇隐居与自号等必须事实；还编造画面细节并否认可确定的作者与特定历史寓意。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅泛化提到了松树坚韧刚毅的气节，完全遗漏了吴镇生平背景（梅花道人、隐居浙江）及元代文人面对政治歧视的隐喻等核心考据事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：回答只泛谈孤松坚贞守节与隐逸品格，未断言与参考答案矛盾的具体事实；“作者难辨、寓意难定性”为不确定性 hedge 而非否认，遗漏“冬日常青、元代政治歧视隐喻、吴镇隐居浙江与梅花道人”只扣 strict（同 8B 线 41468_yixiang 判例）。"
+}

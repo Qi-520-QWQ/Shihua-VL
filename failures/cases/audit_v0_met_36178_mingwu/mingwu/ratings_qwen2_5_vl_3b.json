@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到鹰在松上及四者组合，但未交代各自方位，且编造了参考答案不支持的传统含义。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未说明各物象在画面的具体空间方位，且编造了四者的成语寓意，与参考答案严重不符。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

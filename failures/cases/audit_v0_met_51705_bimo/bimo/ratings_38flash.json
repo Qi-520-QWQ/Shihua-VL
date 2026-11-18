@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽提及红缰、红缨、粉袍等设色，但将设色判为整体淡雅，并编造马身与衣纹的具体描法及馆方未描述的笔法细节；未恰当承认笔法差异无法确证。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答触发禁止断言，虚构了铁线描与兰叶描等具体描法，且设色断言为淡彩为主，与参考答案相反，亦未指出笔法差异馆方未予描述。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中坚韧不屈、竹弯而不断的象征及刚劲情绪，但未提及遗民拒绝仕清；关于具体画面细节和风竹、雨竹辨析等内容无参考依据，含编造性描述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确回答了风竹坚韧品格与画面刚劲情绪，但遗漏了与明末清初遗民画家拒绝仕清相关的核心考据事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答以“宁折不弯”概括风竹品格，与参考答案“竹弯曲而不折，象征柔性抵抗”直接矛盾（刚性折断 vs 柔性抵抗）；“雨竹”辨析在不确定性说明中有“可能”限定，本身不计；遗漏“遗民拒绝仕清”只扣 strict。"
+}

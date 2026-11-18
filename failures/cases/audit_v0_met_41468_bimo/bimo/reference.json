@@ -1,0 +1,34 @@
+{
+ "answer": "馆方描述称吴镇好作「墨戏」，用笔有漫画式的简率与直接，人物面部与衣纹即以这种简练、率直的笔墨写就，不求精细刻画。水面则用淡墨细线勾出波纹，笔致轻淡、绵延，与人物浓重简率的用笔形成对比；左岸芦苇树丛用浓墨，也与大片留白的水面构成虚实对照。整体是水墨语言中浓淡、疏密的对照，而非工细描摹。",
+ "required_facts": [
+  "馆方称吴镇好作墨戏，用笔有漫画式简率直接",
+  "人物面部衣纹用笔简练率直",
+  "水面以淡墨细线画波纹，笔致轻淡",
+  "浓墨芦苇树丛与留白水面形成虚实对比"
+ ],
+ "forbidden_claims": [
+  "称人物面部衣纹为工笔细描、毫发毕现",
+  "称水面波纹用浓墨粗笔或完全无笔",
+  "编造具体笔法名称如某家描法而无依据"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41468",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-18549-001.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41468",
+  "sha256": "670afd08278f6d41bd4bc18282e68785e3decd1eb0a4f396fd96effcaf6664a1"
+ },
+ "catalogue": {
+  "title": "Fisherman",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "ca. 1350",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Handscroll; ink on paper",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "1989.363.33",
+  "credit_line": "Bequest of John M. Crawford Jr., 1988"
+ }
+}

@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_135836_bimo",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "远山用了“泼墨法”表现云雾缭绕，而近景树木则用了“点景法”。"
+}

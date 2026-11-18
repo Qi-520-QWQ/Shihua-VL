@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "位置与组合含义基本命中，但虚构了题跋、纪年、作者等信息，属参考答案不支持的编造，且鹰“正上方最高处/回首俯视”与参考“上方约三分之一、面朝左”略有出入。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确命中了鹰、松、梅、石四者的画面位置及岁寒刚健的传统组合意象，无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：鹰“正上方最高处、回首俯视”与参考答案“上方约三分之一处、面朝左”不符，且虚构题跋“同治癸酉”纪年与作者归属，属无据断言具体可核查事实；其余位置与组合含义命中只影响 partial。"
+}

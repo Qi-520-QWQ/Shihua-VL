@@ -1,0 +1,39 @@
+{
+ "id": "audit_v0_met_35989_mingwu",
+ "artwork_id": "met_35989",
+ "group_id": "met_35989",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中山间人物的身份可从哪些细节判断？山石与人物的比例关系说明了什么？",
+ "answer": "馆方描述：一红衣士人坐于简陋茅亭中，亭在巨松之下。视觉笔记补充：人物极小、红色醒目，亭上亭后数株巨松，左侧山石，右上题款朱印。由此可知其身份为文人居士一类，而非仆役或仙佛。山石松树巨大而人物极小，说明画家以山水为主、人物为点景，人处于自然之中的从属位置。",
+ "required_facts": [
+  "人物为坐于茅亭中的红衣士人",
+  "亭在巨松之下",
+  "人物在画面中极小、红色醒目",
+  "山石松树巨大而人物比例极小"
+ ],
+ "accepted_variants": [
+  "红袍士人即文人高士",
+  "点景人物"
+ ],
+ "forbidden_claims": [
+  "断言人物为具体历史人物或神仙",
+  "声称人物是画面主体、占据较大比例"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/35989",
+   "page": "Met/CMA 馆方页",
+   "quote": "A red-robed scholar sits in a humble thatched pavilion beneath towering pines"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

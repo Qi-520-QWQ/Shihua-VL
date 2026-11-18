@@ -1,0 +1,35 @@
+{
+ "answer": "风竹在中国画中常寄托坚韧不屈的品格：竹可弯曲而不折断，象征在逆境中保持节操的柔性抵抗。馆方指出，十七世纪中期风竹图像常与“遗民”画家相联系，这些画家拒绝为新建立的清朝（非汉族统治者）效力，他们在竹的柔韧中看到静默抵抗的象征。故画面情绪是刚劲而非柔弱，狂风中的竹愈显其骨力与气节。",
+ "required_facts": [
+  "风竹寄托坚韧不屈的品格",
+  "竹弯曲而不折，象征柔性抵抗",
+  "与遗民画家拒绝仕清相关",
+  "画面情绪刚劲而非柔弱"
+ ],
+ "forbidden_claims": [
+  "称画面情绪柔弱无力",
+  "称风竹仅表现自然景色而无寄托",
+  "称风竹象征屈服顺从",
+  "称遗民画家服务于清廷"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/813350",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/LC-2018_850-01.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/813350",
+  "sha256": "edc6c809729577d6e44030ea9a25477ec5700c35c2723af0445079dd34dc12d8"
+ },
+ "catalogue": {
+  "title": "Windblown bamboo",
+  "attribution_verbatim": "Yang Han",
+  "date_verbatim": "1686",
+  "period_verbatim": "Qing dynasty (1644–1911)",
+  "medium": "Hanging scroll; ink on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "2018.850",
+  "credit_line": "Gift of Matthew J. Edlund, 2018"
+ }
+}

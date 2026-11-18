@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答正确指出两岸分江留白、篷船红衣人物、江南指向，但将钓竿描述为细长竿（与短竿不符），称红袍者为文士而非渔人，并编造董巨披麻皴、矾头、芦草垂柳等画面未支持细节，且未提及左缘中部小舟人影不清及馆方线轴描述，故未全命中且含幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯了‘渔人使用长竿’的禁止断言；将红袍文士与垂钓者割裂为两船两人，且遗漏了两岸分江构图及馆方线轴细节难辨等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

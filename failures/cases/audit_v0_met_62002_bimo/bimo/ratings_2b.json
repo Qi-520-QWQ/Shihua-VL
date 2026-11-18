@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答提到用线精细和金色增强神圣感，部分正确；但未命中绢本贴金、石青石绿朱红矿物颜料、金色用于题识写字等必须事实，且'金色背景'表述不够准确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中了用线精细及金色增强神圣感，但遗漏了矿物颜料种类、绢本贴金质地以及金色用于右上题识写字等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

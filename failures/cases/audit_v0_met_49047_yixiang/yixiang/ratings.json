@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中湖石长寿、蝶谐耋、萱草忘忧及兰高洁等部分寓意，但将整体气息判为清雅，属禁止断言，且未命中萱草宜男、画面偏浓艳等关键事实，并有编造文俶款识等画面信息。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了石、兰、蝶及萱草忘忧的寓意（漏宜男），但将画面气息判定为清雅，触犯禁止断言且未命中气息偏浓艳的事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

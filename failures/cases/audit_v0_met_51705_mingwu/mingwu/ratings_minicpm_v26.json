@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅提到黑白斑马、红缰绳和红鞋等部分特征，遗漏白面黑鬃、胸前红缨、毛皮边帽及镶边长袍、胡人面貌和明代风格与唐马母本；另编造腰带并误称时代指向汉代或唐代。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中黑白斑纹与红缰绳等零星细节，遗漏胡人容貌、毛皮镶边等关键特征，且错误将十六世纪明代画作断代为汉代或唐代。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答把建筑误判为亭子（应为茅屋/茅舍），否定参考答案的建筑形制，不属命中；“宋代山水”过于笼统，未指出南宋院体边角式与阎次于，且建筑判断含编造性形制描述，故有幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "建筑形制误判为亭子，时代仅泛称宋代而未命中南宋院体边角式样式，核心考据事实全未命中。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

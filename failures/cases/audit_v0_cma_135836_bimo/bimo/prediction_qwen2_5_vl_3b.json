@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_135836_bimo",
+ "model": "Qwen2.5-VL-3B (bf16) (T4, bf16, max_num=1280, transformers 4.49.0)",
+ "answer": "远山用了淡墨法表现云雾缭绕。近景树木用细笔勾勒，而远山则用粗笔渲染，形成对比。"
+}

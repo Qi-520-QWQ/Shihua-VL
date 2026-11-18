@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中了人物极小、山石松树巨大、士人坐茅亭栖居山林及人与自然和谐相安，但未明确点出松为象征君子德操的母题，故未全命中必须事实；无禁止断言，且恰当说明背景不确定性。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了人小山大、士人居茅亭寄情山林的核心解读，但遗漏了松树象征君子德操这一必须事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

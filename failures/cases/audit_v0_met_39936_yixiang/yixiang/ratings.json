@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "季节判断为深秋或初冬且称'不畏严寒'，属禁止断言之秋冬萧瑟方向；并添加隐逸幽情、祥瑞和鸣等参考答案不支持内容；虽命中君子品格与生机，但整体偏离清雅春夏安谧之论。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答触发了禁止断言（判定为深秋初冬草木凋零之季，以及将意境引申为隐逸幽情），但命中了竹喻君子高洁及动静生机等部分事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

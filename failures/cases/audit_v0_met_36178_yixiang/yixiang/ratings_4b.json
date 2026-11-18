@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "只答出坚韧不屈、松梅象征等部分，未涉及清末猛禽题材流行、武力力量象征及迎春复新期许，未命中全部必须事实，故strict_hit=0、partial=1；无禁止断言，也无明显编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答仅提及坚韧不屈的气节，遗漏了清末背景与力量象征、松耐岁寒梅报春、以及振作自强迎春复新的核心期许。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中黑白花斑与红缰绳，漏白面黑鬃、红缨、粉红袍黑毛皮镶边、胡人特征及明代/唐马范本断代；且称马具仅红缰无装饰、时代指向元代或更早，并编造画中文字印章，属幻觉与误判。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中了黑白马、红缰绳及毛皮帽等零星细节，遗漏胸前红缨、胡人容貌及明仿唐的核心考据，且编造画中文字印章并错误断代为元代。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

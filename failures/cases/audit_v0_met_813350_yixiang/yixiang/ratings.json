@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中坚韧品格、弯曲而不折、刚劲不柔弱等要点，但未提及遗民画家拒绝仕清这一必须事实，故未全中；无禁止断言与编造，且恰当说明图像限制。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确指出了坚韧品格、弯曲不折的抗争性及刚劲情绪，但遗漏了与明末清初遗民画家拒仕清朝相关的考据事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

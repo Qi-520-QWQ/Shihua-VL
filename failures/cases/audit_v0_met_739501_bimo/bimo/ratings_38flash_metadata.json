@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答误称人物衣纹顿挫浓淡、莲叶以纤细双勾，并断言人物暖色精敷、花叶近纯水墨白描；未命中莲叶较阔笔触晕染及莲花淡粉或白色，且含参考答案不支持的具体画面与题跋信息。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯禁止断言（将莲叶断言为纤细游丝双勾铁线用笔），未命中莲叶以阔笔晕染的核心事实，仅命中了人物白衣素净及整体淡雅设色。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

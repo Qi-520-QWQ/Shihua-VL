@@ -1,0 +1,34 @@
+{
+ "answer": "山间建筑是一座临溪的小茅屋，即题中「松轩」，位于下部前景松树之间、溪流左中侧，体量很小，屋中人不可辨；它并非宏敞的楼阁寺观，而是简朴的草堂。前景数株高松挺立，松针成簇、树身高拔，配合云雾与淡青绿设色，指向董巨一系江南山水及元代文人松石书斋图的传统；馆方另指出山体横点受传为米芾《春山松》一类「米点」启发。",
+ "required_facts": [
+  "建筑为溪边小茅屋（松轩）",
+  "茅屋位于下部前景松间溪畔，体量小，屋内人不可辨",
+  "前景高松成数株，指向江南文人书斋山水传统",
+  "馆方称山体横点或受传为米芾作品启发"
+ ],
+ "forbidden_claims": [
+  "称建筑为宏伟楼阁或寺院",
+  "称屋中人物清晰可辨",
+  "称松树属宫廷院体或界画建筑传统"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41185",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-36818-002.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41185",
+  "sha256": "9029e4cf759585cbef0b11dc7ce47e2946e10e62bc6e991e484877672e4ffd03"
+ },
+ "catalogue": {
+  "title": "Spring Clouds at the Pine Studio",
+  "attribution_verbatim": "Zhang Yu",
+  "date_verbatim": "dated 1366",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1980.426.3",
+  "credit_line": "Gift of Douglas Dillon, 1980"
+ }
+}

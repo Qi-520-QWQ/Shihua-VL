@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到松石图传统及松树挺拔，但未指出溪边小茅屋在下部前景松间、体量小且屋中人不可辨，也遗漏江南文人书斋山水与米点影响；臆称重檐歇山顶及宫殿庙宇用途，违背建筑并非宏敞楼阁寺观的要求。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "建筑形制被严重误判为宫殿庙宇的重檐歇山顶（实为简朴小茅舍），且遗漏董巨文人传统与米芾米点等核心事实，存在严重幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

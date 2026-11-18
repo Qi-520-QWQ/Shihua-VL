@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出竹叶用笔流畅、鸟羽刻画细腻，但遗漏绢本设色、鸟身褐色、鸟眼点漆及院体写实风格，并无依据地称鸟羽为淡青色、背景为米黄色。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏了绢本设色、写实院体、鸟身褐色及鸟眼点漆等关键事实，且捏造鸟羽为淡青色。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

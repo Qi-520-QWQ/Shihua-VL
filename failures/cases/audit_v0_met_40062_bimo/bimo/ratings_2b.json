@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到点状笔法与皴法，未命中侧锋方硬、墨色绿褐及右浓左淡对比等关键事实，且“点状笔法”与参考答案的细密放射状笔线不合，属不支持的编造表述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答过于笼统空泛，未命中侧锋方硬、墨色偏绿褐以及右浓左淡留白等绝大部分关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：\"松针采用点状笔法\"与参考答案\"细密放射状笔线簇写\"矛盾——点法与笔线是不同具体技法断言，非通用术语"
+}

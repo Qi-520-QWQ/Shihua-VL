@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "未命中危崖淡墨加淡赭石与竖向皴纹、整体写意定性正确但缺建筑对比；声称无建筑且引入石涛、青灰冷调、渴笔长皴等参考答案不支持内容，属编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "准确指出了写意非工笔、水面留白简淡及小舟人物简略，但遗漏了危崖用淡墨淡赭加竖向皴纹、人物形体极小等要点，且臆测该画为清代石涛、设色含花青及大段题跋，判定为存在幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

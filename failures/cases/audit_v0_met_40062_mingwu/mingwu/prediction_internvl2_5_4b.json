@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40062_mingwu",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅画中松树下的建筑是亭子的形制。画面中山石与树木的组合指向了宋代的山水样式。"
+}

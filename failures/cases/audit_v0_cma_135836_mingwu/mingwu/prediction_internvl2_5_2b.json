@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_135836_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中溪流边有亭子。根据题名，这些建筑可能是茶馆。"
+}

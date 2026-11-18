@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "提到人物与货物线条细致、设色淡雅，但未说明器物繁密、人物线条有别及墨线为主，并称担架描绘细致复杂，与其结构相对简括不符；另有宁静、内省等无依据描述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了设色清淡与货物细致，但遗漏了货郎与孩童线条差异，且将简括的担架误描绘为同样细致复杂，存在事实违背。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

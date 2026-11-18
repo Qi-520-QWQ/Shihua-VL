@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答未纠正本幅无兰花，反而描述兰草生于石隙，命中禁止断言，且未完整覆盖枯木喻老而弥坚等事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "待评回答未纠正画面并无兰花的事实，反而虚构了兰草生于石隙，触犯禁止断言；漏掉了枯木寓意及吴镇专精画竹等要点，仅答出清雅及竹石部分象征。"
+  }
+}

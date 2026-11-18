@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及黑白花马、红缰绳与红缨及圉人毛皮边帽和袍服、胡人面貌，但误判为金元风格并编造服饰细节，未命中十六世纪明代风格、八世纪唐马母本；含大量参考答案不支持的断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了马匹黑白花斑、红缰绳红缨饰及圉人皮帽皮边长袍和非汉人面貌等部分细节，但年代完全答错（误判为元代，遗漏馆方所定十六世纪明代与八世纪唐马母本），且触犯禁止断言编造了题款文字与乾隆题跋。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

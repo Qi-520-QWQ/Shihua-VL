@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答提到留白与墨色表现光感，但未命中无日轮、深红点染植被呼应朱砂、山石线条勾勒加皴淡设色等关键事实；且出现“墨分五法”等参考答案不支持内容，并自行以墨色层层叠加解释皴法，属编造/偏离。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何核心事实（漏掉云气留白、无日轮、深红点染植被及淡设色线条勾勒），且泛化臆测光影并编造了所谓的‘墨分五法’等内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

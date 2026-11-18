@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答对关羽、绿袍和青龙偃月刀，但“面带严肃之色”和“红色装饰物是特有标志”缺乏参考答案支持，且遗漏多项必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "正确识别出关羽、绿袍及青龙偃月刀，但遗漏了长髯、蓝巾、光晕、从者及右上题识等关键特征，且虚构了‘服饰上的红色装饰物是其特有标志’。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

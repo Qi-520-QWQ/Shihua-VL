@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中扁舟、舟尾篷盖及衣着与舟式不能单独断代的要点，但臆称可见明确钓竿、篷棚细节及题诗内容，并以吴镇风格等扩展论证；未说明时代判断依据是馆方著录与自题诗。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答虽正确指出不能单凭衣饰船具断代并提及吴镇自题诗，但过度编造了黑色折角软巾、交领长衫等未支持的衣冠制度细节，触犯禁止断言，且遗漏了钓钩鱼篓不显著等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

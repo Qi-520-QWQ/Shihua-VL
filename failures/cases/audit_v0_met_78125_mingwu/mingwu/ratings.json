@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将画心竹位置说成中央、把题识误作右侧文字并编造'清风独足/独立'等释文，且将左侧千字文框说成界栏与引首/题跋区隔，未命中'右侧竹、左侧竖长框草书千字文、并置非同画解说'等必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了斜出竹子与书画并置的大体关系，但未能命中左侧框内为草书《千字文》摘文，且虚构编造了右上角题款字样及左侧仅三字等细节。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

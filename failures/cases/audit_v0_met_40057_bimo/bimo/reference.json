@@ -1,0 +1,34 @@
+{
+ "answer": "全卷为绢本淡青绿山水，墨色与设色甚淡且陈旧，远山以正面图式化轮廓为主，墨色层次简率，并非层层积染的浑厚山水；前景大面积留作水面，下部成片点状水草，水与山的墨色对比清淡。渔翁人物在画面中极小，视觉笔记无法确认其用笔与山水有何具体区别，故不宜臆断人物线条与山石皴法之异。",
+ "required_facts": [
+  "绢本设色，青绿甚淡旧",
+  "远山正面图式化，墨色层次简率",
+  "前景大面积水面，下部成片点状水草",
+  "渔翁人物极小，无法确认其用笔特征"
+ ],
+ "forbidden_claims": [
+  "远山用浓墨多次积染，层次浑厚",
+  "人物以细笔白描、与山石皴法形成鲜明对比",
+  "水面用细密波浪线勾出"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/40057",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-15820-005_crd.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/40057",
+  "sha256": "fda5a03d062eedce83bc63f1f5ea0c97da43ed0294ef9bd1d2d77838a9d4bac6"
+ },
+ "catalogue": {
+  "title": "Fisherman's Lodge At Mount Xisai",
+  "attribution_verbatim": "Li Jie",
+  "date_verbatim": "ca. 1170",
+  "period_verbatim": "Southern Song dynasty (1127–1279)",
+  "medium": "Handscroll; ink and color on silk",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "1989.363.10a, b",
+  "credit_line": "Bequest of John M. Crawford Jr., 1988"
+ }
+}

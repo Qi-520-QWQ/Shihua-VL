@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅笼统提到隐士与自然和谐，命中避世隐逸意境，但未明确茅屋栖隐、松象征坚贞及寄情山水等关键事实，未达全对。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛泛提及隐士理想，遗漏了松象征坚贞品格、茅屋点出栖隐生活及幽僻山林之境等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

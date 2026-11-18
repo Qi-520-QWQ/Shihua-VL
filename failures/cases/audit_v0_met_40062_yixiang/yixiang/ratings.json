@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中幽僻山林、松象征坚贞高士、隐逸寄情山水等核心事实，但把茅屋具体化为“小桥/幽径/似有屋宇”，未明确点出茅屋栖隐生活，故未全中必须事实；无禁止断言，并恰当说明图像辨认的不确定性。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了幽僻意境、松象征气节品格、士人避世寄情山水等要点，但在不确定性说明中对茅屋的存在存疑，未确凿肯定茅舍点出栖隐生活。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

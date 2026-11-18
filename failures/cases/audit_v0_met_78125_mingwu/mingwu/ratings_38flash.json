@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未说明左侧竖长框内为草书《千字文》摘文及其与竹并置、非解说关系，反而编造题识内容并称文字点明竹意。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "严重虚构画面构图与文字内容（捏造右上题“清风独立”、中部为竹等），完全未命中左侧竖长框草书《千字文》摘文与右侧斜出竹并置的核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

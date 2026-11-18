@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答只泛泛提到隐逸向往，未命中馆方所称元末失意文人象征、题诗思归放下钓竿、不求闻达等必须事实，且将渔人形象泛化为文人画常见题材，属于参考答案不支持的编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提及隐逸与远离尘嚣，未命中馆方指出元末失意文人象征以及题诗写思归、放下钓竿等关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：只泛谈隐逸向往/远离尘嚣与对官场厌倦，未断言功成名就/积极入世等禁止内容；未命中馆方元末失意文人象征与题诗思归只扣分。"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_813350_mingwu",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅中国古画中的竹子生长状态是直立的，竹子的茎干挺拔，竹叶向四周展开。画面中竹叶的朝向一致性较好，大多数竹叶都朝向画面的左上方，显示出一种自然的风向。"
+}

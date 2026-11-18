@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中出世意境、留白表现云雾天空、空灵深远与虚实平衡，但未明确'引导视线自下而上'及'山寺处于云雾掩映深山'的具体表述，属接近全对但有小缺失。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了远离尘嚣的出世意境与部分空灵作用，但未明确指出留白代表天空、虚实相生以及引导视线逐层上移的作用。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

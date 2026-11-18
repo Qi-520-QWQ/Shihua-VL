@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中周敦颐、《爱莲说》及莲花出淤泥而不染、纯洁高洁之意，但未明确说明莲花寓君子洁身自好、高洁自守。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了周敦颐、《爱莲说》及出淤泥而不染的高洁象征，但未明确指出比喻君子洁身自好的品格。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答提到长袍、小船和钓竿，部分接近，但编造了宽袖高领、船头微翘、钓线钓钩可见等参考答案不支持的内容，且未命中戴帽、船尾篷盖等关键事实，并错误暗示细节可辅助断代。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答触发禁止断言断定了明确的钓钩与钓线，且未命中戴帽、深色袍、篷盖及依据馆方著录与吴镇自题诗断代等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

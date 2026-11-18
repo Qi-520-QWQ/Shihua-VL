@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到江南和小船垂钓，未命中红袍渔人、短竿线轴难辨、左缘小舟、两岸分江留白等关键事实；且编造鱼篓、茅草屋/竹屋及几艘船等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中山水指向江南，遗漏两岸分江留白、红袍短竿篷船等必须事实，且编造了细长钓竿、鱼篓及茅草屋居所等细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

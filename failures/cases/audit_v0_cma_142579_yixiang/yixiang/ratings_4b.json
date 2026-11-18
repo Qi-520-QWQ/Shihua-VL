@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅命中秦淮题材寄托怀古与萧索两点，未提及危崖孤舟微小人物枯梅及仰视巨崖如对历史，必须事实未全命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答命中了怀古兴亡之感及画面萧索的定调，但完全遗漏了画面的具体物象（危崖、孤舟、人物、枯梅）及人物仰视巨崖如面对压倒性历史的分析。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

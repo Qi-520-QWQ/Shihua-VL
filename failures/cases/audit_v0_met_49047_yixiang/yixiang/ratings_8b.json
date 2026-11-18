@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答称气息清雅淡逸且将萱草兰笼统说成纯洁高尚，未命中萱草忘忧宜男、湖石长寿、蝶谐耋等核心寓意，并含禁止断言‘清雅’。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯禁止断言（断言画面整体气息清雅），且湖石、萱草、蝴蝶的传统寓意均未命中。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

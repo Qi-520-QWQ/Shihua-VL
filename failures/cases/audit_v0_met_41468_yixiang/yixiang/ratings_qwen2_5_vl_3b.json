@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到隐逸生活和远离尘嚣，但未命中元末失意文人、思归及放下钓竿不再垂钓等关键事实；将画面意境泛化为独立、自然欣赏等无依据说法，并称具体意图因观者而异。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛谈隐逸生活追求，遗漏了馆方指出的元末失意文人象征以及自题诗中放下钓竿、思归的依据。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：与 7B 线同题同判例——只泛谈隐逸生活/远离尘嚣，未断言功成名就/积极入世等禁止内容；遗漏元末失意文人象征/思归/放下钓竿只扣分。"
+}

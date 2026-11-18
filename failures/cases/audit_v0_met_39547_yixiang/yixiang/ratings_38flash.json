@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答虽指出画面清雅、水墨且不浓艳，但误称本幅有兰花并描述丛兰，违背题材事实；也未提枯木寓意、吴镇晚年专精画竹及绢本。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答触发禁止断言（断言画中存在丛兰及竹石兰并绘），未纠正画面实无兰花，且遗漏吴镇等考据事实，但答对了竹的品格和水墨清雅的气息。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

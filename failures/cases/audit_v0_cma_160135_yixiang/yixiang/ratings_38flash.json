@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答了避世隐居、逍遥自适的理想，但未命中'江南为文人家园、渔隐含归乡'及馆方赵氏文人自绘渔人徜徉江南两点；无明显编造或禁止断言，且对人物身份作了合理存疑。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了避世隐居的渔隐理想，但遗漏了江南家园与归乡之意，以及馆方指出的赵氏等文人自绘渔人的考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

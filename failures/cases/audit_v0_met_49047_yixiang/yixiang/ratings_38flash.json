@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "寓意部分命中萱草忘忧宜男、兰之高洁、湖石长寿坚固及蝶谐耋祝寿，但将整体气息断言为清雅，违反禁止断言；另有题款、画家及具体作画动机等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "物象寓意分析完整准确，但将画面气息断定为清雅淡逸，触犯禁止断言且未命中气息偏浓艳的必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

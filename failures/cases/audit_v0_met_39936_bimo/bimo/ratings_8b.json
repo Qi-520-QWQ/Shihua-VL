@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答仅部分涉及设色与用笔，但未命中绢本、竹叶青绿、鸟身褐色、鸟眼点漆等关键事实，且编造了淡绿、黑色、背景色及粗细线条等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "未命中绢本设色、鸟身褐色、鸟眼点漆及院体风格等核心考据事实，且将细密的鸟羽用笔误判为粗重刚劲。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：断言鸟羽“粗重刚劲”与参考答案“刻画细密”直接矛盾；编造淡绿/黑色/浅褐背景等具体设色，与竹叶青绿、鸟身褐色不符。"
+}

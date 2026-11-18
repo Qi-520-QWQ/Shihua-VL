@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "正确读出题款及丁卯为1627年，但将作者和实际绘制年代断定为文俶、1627年，且未说明馆方著录为佚名仿赵文俶并疑为后人仿作。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答命中了题款自称文俶和丁卯（1627年）夏日，但遗漏了馆方著录为佚名仿赵文俶以及笔法欠精等关键事实，并在结论中直接将作者身份判定为文俶、作画年代断定为1627年，违反了禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中山寺远离尘世、出世意境及留白营造空灵氛围，但未说明留白表现云雾与天空、使山体高远且虚实相生，也未提及引导视线自下而上。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了山寺所处的深山云雾环境及超然脱俗的出世意境，但未指出留白具体表现云雾天空、使山体高远虚实相生以及引导视线上移的作用。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

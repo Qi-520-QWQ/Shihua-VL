@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未承认笔法差异无法确证，反而编造了马身细腻流畅、衣纹粗犷简练等馆方未描述的用笔差异，且称衣纹设色淡雅与参考答案的浓设色相矛盾。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答凭空编造了用笔细节和衣纹设色淡雅等错误内容，未说明笔法无法确证的事实，亦未命中任何关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

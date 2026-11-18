@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中萧索基调、枯枝孤舟及兴亡怀古，但未命中「微小人物仰视巨崖如面对压倒性历史」与「危崖枯梅」核心画面事实；且引入石涛题诗、「八幅」册页、遗民之痛等参考答案未支持的具体信息，构成幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确答出兴亡盛衰之感与萧索基调，并提及孤舟、危壁等要素，但遗漏了“人物仰视巨崖如面对压倒性历史”这一关键意象解读。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答引述具体题诗文句并断言作品属“八幅”册页，属无据断言具体可核查的题跋/册页事实（同 Gemini 4 Argon · High 线 41185_yixiang 判例）；遗漏“人物仰视巨崖如面对压倒性历史”只扣 strict。"
+}

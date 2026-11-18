@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及松石文人画传统，但未说明溪边小茅屋的位置、体量及屋内人不可辨，也未命中高松与江南书斋山水传统及米点影响；屋顶曲线、飞檐和松树枝干盘曲等细节缺乏参考支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅模糊命中了文人松石传统，将小茅屋误描为有明显屋檐和飞檐的建筑，且遗漏了米氏云山传统与具体的茅屋位置形制特征。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

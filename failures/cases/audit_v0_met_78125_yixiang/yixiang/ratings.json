@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中竹象征君子气节与书画同源，但未明确《千字文》为无重复字蒙学文本及詹景凤晚明安徽文人书画兼擅之事实，故未全中；无禁止断言，且对引首关系存疑的说明合理。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了竹象征君子气节与书画同源，但遗漏了《千字文》为无重复字蒙学文本及作者詹景凤的晚明文人背景。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

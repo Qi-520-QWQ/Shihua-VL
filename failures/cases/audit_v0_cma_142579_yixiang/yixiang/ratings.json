@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中怀古、萧索、孤舟危崖人物枯梅及仰视巨崖等核心事实，但引入石涛、遗民之思、题跋引文等参考答案未支持的具体编造信息，故有幻觉且不能算全对。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确回答了兴亡盛衰之感与萧索基调，并提到了危崖、孤舟、人物与枯梅，但遗漏了“人物仰视巨崖如面对压倒性历史”的表述。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：逐字引述石涛题诗并断言靖江王后裔等具体信息，参考答案无据；怀古萧索定性正确但不足以抵消"
+}

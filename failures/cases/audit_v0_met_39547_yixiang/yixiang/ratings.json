@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未纠正本幅无兰花，反而称幽兰散生石畔并套用竹石兰组合，属禁止断言；虽正确指出纯水墨与清雅气息，但关键事实缺失且含幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未指出本幅无兰花并违规将幽兰作为画面依据进行描述，遗漏吴镇晚年专精画竹及枯木老而弥坚等事实，仅命中水墨绢本、气息清雅及竹的象征。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

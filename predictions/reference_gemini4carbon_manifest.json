@@ -1,0 +1,12 @@
+{
+  "model": "gemini-4-carbon",
+  "planned": 12,
+  "ok": 12,
+  "failed": 0,
+  "total_prompt_tokens": 0,
+  "total_completion_tokens": 0,
+  "est_cost_usd": 0.0,
+  "seconds": 209.6,
+  "ts_cst": "2026-11-15 16:57:55",
+  "out": "predictions/reference_gemini4carbon.jsonl"
+}

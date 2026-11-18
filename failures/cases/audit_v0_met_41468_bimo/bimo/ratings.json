@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答将人物判为简笔凝练、水波用淡墨短线且形成浓淡虚实对比，命中部分事实；但把水波说成断续水平短线，且编造了折芦描、减笔描等具体笔法名称，属禁止断言，故不得strict_hit。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答命中了人物用笔简练、淡墨水波与浓淡虚实对比，但遗漏了馆方提及吴镇好作墨戏、漫画式简率直接以及浓墨芦苇树丛等核心事实，且编造了描法名称（近似折芦描）触发禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

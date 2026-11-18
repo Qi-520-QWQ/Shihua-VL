@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答表达了远离尘俗、幽居林泉的意境，但未提及馆方所述创作年代及元末溪畔草堂的象征意义，并编造了题诗、具体构图与树石细节等依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅命中了远离尘嚣、林泉幽居的隐逸意境，完全遗漏了“作于明立国前两年”及“元末溪畔草堂成为隐居象征”等核心考据事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言画幅上方题诗内容（“松”“云”及林泉幽居之意）并确指山石皴法为“披麻/米点”，均为参考答案不支持的具体可核查断言（同 Gemini 4 Argon · High 线 41185_yixiang 判例）；遗漏“作于明立国前两年”与“元末溪畔草堂象征”只扣 strict。"
+}

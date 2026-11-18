@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "答出人与自然和谐共处及文人寄情自然，但未命中人物极小、山石松树巨大，也未说明松象征君子德操；将松说成长寿和坚韧的象征不受参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "未命中“人物极小、山石松树巨大”的构图对比及“松象征君子德操”，且将松树附会为象征长寿。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

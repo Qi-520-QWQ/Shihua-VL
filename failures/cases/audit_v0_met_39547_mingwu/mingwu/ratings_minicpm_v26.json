@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽提到竹在左侧、石在底部，但错误断言有兰花并将题材称为“岁寒三友”，未命中枯木竹石及树木位置等关键事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "顺从了题干的错误预设，编造兰花在石头右侧并误称为岁寒三友，触发了禁止断言，关键事实几乎全未命中。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

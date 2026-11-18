@@ -1,0 +1,47 @@
+{
+ "id": "audit_v0_cma_135836_bimo",
+ "artwork_id": "cma_135836",
+ "group_id": "cma_135836",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "远山用了何种墨法表现云雾缭绕？近景树木与远山的用笔有何不同？",
+ "answer": "远山以淡墨晕染表现，山间云雾主要靠留白与墨色渐淡衬托，视觉笔记所见即淡墨渲染加云气留白，馆方未就远山墨法另作专门说明。用笔上，馆方描述山体以长披麻皴（长麻纤维状线条）皴出质感，并辅以湿点与山顶圆石；近景树木墨色较浓、用笔肯定，远山则墨色清淡、以渲染为主，浓淡与虚实对比拉开前后空间。",
+ "required_facts": [
+  "远山以淡墨晕染表现，云雾以留白与墨色淡化衬出",
+  "山体用长麻纤维状线条（长披麻皴）皴出质感",
+  "辅以湿点与山顶圆石等江南传统元素",
+  "近景树木墨色较浓，远山墨色清淡"
+ ],
+ "accepted_variants": [
+  "长披麻皴即长麻纤维状皴笔",
+  "远山淡墨渲染、云雾留白",
+  "近景浓、远景淡的虚实对比"
+ ],
+ "forbidden_claims": [
+  "断言远山使用浓墨重笔或焦墨",
+  "称云雾是用白粉或颜料涂绘而成",
+  "编造馆方对远山具体墨法的专门描述",
+  "把山体皴法说成斧劈皴等北方典型皴法"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1959.348",
+   "page": "Met/CMA 馆方页",
+   "quote": "the use of long hemp fiber strokes to texture the mountains, wet dots, and round boulders on mountain tops are elements of the southern landscape tradition"
+  },
+  {
+   "url": "https://clevelandart.org/art/1959.348",
+   "page": "Met/CMA 馆方页",
+   "quote": "known for gentle misty riverscapes in wet ink"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

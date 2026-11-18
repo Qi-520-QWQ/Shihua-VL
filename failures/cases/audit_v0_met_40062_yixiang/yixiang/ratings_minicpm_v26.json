@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中隐居理想、松象征坚韧及寄情自然等要点，但未明确茅屋点出栖隐生活；“长寿”不受参考答案支持，故有轻微编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出了避世隐逸的士人理想及松象征坚韧，但遗漏了茅屋所点出的栖隐生活，且未明确指出松象征高士品格。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：与 3B 线 41462_yixiang 判例同——「长寿」为松的通用文化常识性象征，未断言具体可核查事实；遗漏茅屋点出栖隐生活/松象征高士品格只扣分。"
+}

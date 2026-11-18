@@ -1,0 +1,37 @@
+{
+ "answer": "题干预设「竹、石、兰」三者有误：本幅并无兰花，实为枯木竹石题材。据画面，左侧中部为一丛竹叶，右上方是虬曲枯干、枝叶下垂的老树，下部中央为大石块，下部两角仅有些细叶小草，不构成兰花主体。此类组合在画史上称「枯木竹石」，由十一世纪文人画家确立典范，吴镇此图即其创造性变体。",
+ "required_facts": [
+  "画面中没有兰花",
+  "题材为枯木竹石",
+  "左侧中部为大丛竹叶",
+  "右上方为虬曲枯干的老树",
+  "下部中央为大石块",
+  "该题材由十一世纪文人画家确立典范"
+ ],
+ "forbidden_claims": [
+  "画面中有兰花且位于某处",
+  "题材为竹石兰三者组合",
+  "兰叶自石间斜出",
+  "本幅为工笔设色兰竹"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/39547",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP235590.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/39547",
+  "sha256": "a93ce71b03dbd6ac53ea56a55a84b3e08014fb961fd0c065891176cd52a1a82d"
+ },
+ "catalogue": {
+  "title": "Bamboo, old tree, and rock",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "dated 1338",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "2012.526.1",
+  "credit_line": "Ex coll.: C. C. Wang Family, Gift of Oscar L. Tang Family, 2012"
+ }
+}

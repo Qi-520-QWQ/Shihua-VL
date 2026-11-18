@@ -1,0 +1,14 @@
+{
+  "model": "OpenGVLab/InternVL2_5-8B",
+  "quantization": "int8-8bit",
+  "tokenizer_source": "bundle/tokenizer_patched_8b",
+  "max_num": 12,
+  "max_new_tokens": 768,
+  "planned": 60,
+  "ok": 60,
+  "failed": 0,
+  "seconds": 2567.1,
+  "ts_cst": "2026-11-18 01:00:22",
+  "out": "predictions/internvl2_5_8b.jsonl",
+  "note": "merged: smoke 2/2 (66.1s) + full 57/58 (2479.2s) + OOM retry 1/1 (21.8s, expandable_segments); local file deduped by id keeping last record; avg_s=42.6 avg_peak_gb=11.81 over the 60 ok records"
+}

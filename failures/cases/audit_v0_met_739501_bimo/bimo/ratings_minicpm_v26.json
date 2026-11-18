@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到人物衣纹流畅、人物设色淡雅，但称莲叶用笔细致并描绘叶脉、花叶用鲜明绿色，均与参考答案不符且属无依据描述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "衣纹流畅描述尚可，但误将莲叶用笔说成更为细致、清晰勾勒叶脉，且遗漏白袍素净及莲花具体设色。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

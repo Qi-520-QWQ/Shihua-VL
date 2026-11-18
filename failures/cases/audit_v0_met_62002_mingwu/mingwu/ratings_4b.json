@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中关羽与青龙偃月刀，但误称红袍红盔，未提长髯、蓝头巾、光晕、两名从者及题识，且衣着描述与参考答案冲突。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了关羽、青龙偃月刀和胡须，但遗漏了题识、光晕和从者，且将绿袍蓝巾错误编造成红色战袍和红色头盔。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

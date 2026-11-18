@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40062_bimo",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "松针、山石的皴法特点：松针采用点状笔法，山石采用皴法。墨色浓淡：墨色从松针的细密点状笔法到山石的较为粗犷的皴法，表现出层次感。"
+}

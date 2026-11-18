@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答提到竹叶用浓墨、书法用淡墨，部分命中墨色对比，但未明确竹叶叶形尖利、草书线条流利盘绕，且称墨色'保持一致'与必须事实矛盾，属禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答自相矛盾地断言墨色保持一致，触犯禁止断言，且遗漏了竹叶尖利出锋与草书线条流利盘绕等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

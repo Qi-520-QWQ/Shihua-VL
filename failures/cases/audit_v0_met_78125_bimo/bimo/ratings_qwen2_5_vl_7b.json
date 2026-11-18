@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "仅提到竹叶与书法线条有别，未命中叶形尖利、草书流利盘绕及墨色对比，且错误断言画与字墨色一致。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答触发禁止断言，误认为画与字墨色一致，且未命中草书线条特征与浓淡对比的核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

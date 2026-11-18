@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到宋代山水，未命中茅屋及其位置、溪流、边角构图和作者；“方形”是参考答案不支持的建筑形制。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未答出建筑为小茅屋及具体位置，时代仅泛称宋代而缺失南宋院体边角式构图与阎次于等核心事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：\"建筑是方形的\"是对茅屋形制的具体断言——参考答案与目检记录均为茅顶小屋（屋顶、围栏可辨，依崖而建），\"方形\"无据且与茅顶小屋的形制不符，属无据断言具体可核查事实。"
+}

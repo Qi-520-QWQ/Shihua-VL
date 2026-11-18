@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "位置信息基本命中（鹰在上方栖松枝、松居中偏左、梅在右侧、石在下方），组合含义也涉及坚韧高洁，但未明确松干自左下盘旋而上、红梅在右中向右伸展、山石在下部左侧等细节，且未点明‘岁寒刚健’的传统意象表述，属接近全对但有缺失。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "四者位置大致对应，无禁止断言，但山石未明确在左侧、组合寓意未明确点出核心的“岁寒”刚强意象，略有细节缺失。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

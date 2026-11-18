@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答仅泛泛描述粗细笔触与留白作用，未命中绳状层叠笔触似王蒙、红袍极简细笔、金笺设色及金地本色留白等关键事实，并编造披麻皴/斧劈皴为画面所述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中绳状笔触/王蒙风格、红袍醒目、金笺金地等关键事实，且编造了披麻皴、斧劈皴等套话，泛泛而谈。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

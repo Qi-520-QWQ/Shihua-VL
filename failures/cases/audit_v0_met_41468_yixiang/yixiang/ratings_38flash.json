@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答提到渔隐、归隐及挂竿不钓，但未指出馆方所称的元末失意文人象征，也未明确渔人思归；并加入题目与参考答案不支持的画面细节及解释。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中题诗挂竿不钓及退隐江湖的情怀，但遗漏了馆方明确指出的“元末失意文人”这一核心时代背景象征。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：回答命中题诗挂竿不钓及退隐江湖情怀，所引“归来挂起渔竿不钓鱼”与参考答案所述题诗内容（放下钓竿不再垂钓）一致，非编造；“斗笠（或儒巾）”有“或”限定；遗漏“元末失意文人”与“思归”只扣 strict。"
+}

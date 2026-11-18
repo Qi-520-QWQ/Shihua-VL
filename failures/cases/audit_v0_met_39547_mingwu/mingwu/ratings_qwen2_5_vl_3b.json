@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "正确提到左侧竹子及中下部石块，但错误断言右下角有兰花并将题材称为“兰竹石”，遗漏其为枯木竹石题材。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答触发禁止断言（断言兰花在右下角且题材为兰竹石），未指出画面无兰花实为枯木竹石，仅命中了竹与石的大致方位。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

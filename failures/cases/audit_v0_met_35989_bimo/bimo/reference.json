@@ -1,0 +1,34 @@
+{
+ "answer": "馆方称，用以表现岩石与山面的绳状、层叠笔触令人想起十四世纪画家王蒙；人物则以极简细笔点出，仅红色衣袍醒目，二者用笔粗细繁简对比明显。画面为金笺设色，留白处即金地本色，用以分隔山石、松枝与远水，使景物疏密有致、气息通透，并突出红衣人物。",
+ "required_facts": [
+  "山石用绳状层叠笔触，令人想起王蒙",
+  "人物以极简细笔点出、仅红袍醒目",
+  "本幅为金笺设色",
+  "留白为金地本色，用于分隔景物"
+ ],
+ "forbidden_claims": [
+  "断言本幅确为王蒙所作",
+  "声称留白处为纸绢白地而非金笺",
+  "编造具体皴法名称如披麻皴为馆方所述"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/35989",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP153844.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/35989",
+  "sha256": "b121d11ce1d8db95839c68eb5c00b2d8e40824a1515e4535d4cfed17cec15f42"
+ },
+ "catalogue": {
+  "title": "Landscape with figure",
+  "attribution_verbatim": "Chen Jichun",
+  "date_verbatim": "1635",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Folding fan mounted as an album leaf; ink and color on gold paper",
+  "classification": "Paintings",
+  "object_name": "Folding fan mounted as an album leaf",
+  "accession_number": "13.100.75",
+  "credit_line": "John Stewart Kennedy Fund, 1913"
+ }
+}

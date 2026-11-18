@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实（绳状层叠笔触/王蒙、极简细笔红袍、金笺设色、留白金地分隔景物），且以泛泛描述替代，属编造性概括。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答仅笼统提及山石层叠与人物简练，遗漏了绳状笔触/王蒙风格、红袍醒目、金笺设色及留白为金地本色等全部核心考据事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：仅通用笔法描述（层层叠加、简练、留白突出主体），未断言具体皴法名、未称王蒙所作、未称纸绢白地；遗漏只扣strict"
+}

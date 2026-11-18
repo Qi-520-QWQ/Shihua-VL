@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中衣纹细腻流畅、莲叶较粗犷晕染及淡彩等部分事实，但称人物设色浓重、面部用色鲜艳与参考答案“白袍素净、设色浅淡”相悖，且“莲叶线条刚劲、轮廓纹理”接近禁止的细线勾勒，故有幻觉且未全命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答仅命中了人物衣纹线条流畅细腻，但遗漏了莲叶阔笔晕染及莲花具体设色，且错误断言人物设色浓重鲜艳，存在明显幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

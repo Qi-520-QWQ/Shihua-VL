@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40057_bimo",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "远山与近水的墨色层次处理得非常细腻，渔翁人物的用笔与山水有明显的区别。"
+}

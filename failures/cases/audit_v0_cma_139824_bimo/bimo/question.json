@@ -1,0 +1,41 @@
+{
+ "id": "audit_v0_cma_139824_bimo",
+ "artwork_id": "cma_139824",
+ "group_id": "cma_139824",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "货物、人物与担架的用笔各有何不同？设色是浓是淡？",
+ "answer": "馆方称李嵩擅长对孩童、货郎及其杂货作精微描绘，故货物以细笔刻画，罐壶盒玩器物繁密可辨；人物衣纹动作亦工致，货郎长袍与孩童短衣线条有别；担架结构则相对简括，起承托与分割画面作用。设色为绢本淡设色，墨线为主、敷色清淡，属工致细密一路，而非浓丽重彩。",
+ "required_facts": [
+  "货物以细笔精微描绘，器物繁密",
+  "人物衣纹工致，货郎与孩童线条有别",
+  "担架结构相对简括",
+  "绢本淡设色，墨线为主、敷色清淡"
+ ],
+ "accepted_variants": [
+  "工笔重彩",
+  "细笔",
+  "精微描绘"
+ ],
+ "forbidden_claims": [
+  "画面为浓丽重彩、色彩浓艳",
+  "货物仅粗笔写意、不可辨",
+  "人物与货物用笔完全一致"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1963.582",
+   "page": "CMA 馆方页",
+   "quote": "excelled in meticulous depictions of children, peddlers, and their various goods"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

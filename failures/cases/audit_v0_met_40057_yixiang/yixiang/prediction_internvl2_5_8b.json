@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40057_yixiang",
+ "model": "InternVL2.5-8B (int8) (T4, int8-8bit, max_num=12, tokenizer patched)",
+ "answer": "渔父形象在中国山水画中常象征隐逸、自由和超然的人生境界。本图氛围是闲适的，画面中渔父在湖边垂钓，周围环境宁静，没有明显的紧张或压抑感。"
+}

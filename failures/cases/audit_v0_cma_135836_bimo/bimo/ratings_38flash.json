@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中淡墨渲染、留白云雾、长披麻皴及近浓远淡等核心事实，但编造了蟹爪枝、解索皴、破颜点等参考答案不支持的具体笔墨细节，并提及雨点皴等未证实皴法，属过度断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "准确回答了淡墨晕染留白、长披麻皴、近浓远淡的笔墨对比，无禁止断言，但漏提了山顶圆石这一要素。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言“蟹爪”枝、“解索皴”、“破颜点”及雨点皴等参考答案不支持的具体笔墨名称，属无据断言可核查的具体事实（同 8B 线 40062_bimo 判例）；遗漏山顶圆石只扣 strict。"
+}

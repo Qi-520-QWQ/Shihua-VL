@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "回答正确传达了气势与祝寿境界，并命中生日贺礼及长生祝寿寓意，但未明确提及黄山因黄帝求仙传说得名、深红喻朱砂仙药、属最早黄山图之一等必须事实，故未全命中。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "准确命中了祝寿/生日贺礼这一事实，但遗漏了黄山因黄帝求仙得名、深红点染喻朱砂仙药及属最早黄山图之一等必须事实。"
+  }
+}

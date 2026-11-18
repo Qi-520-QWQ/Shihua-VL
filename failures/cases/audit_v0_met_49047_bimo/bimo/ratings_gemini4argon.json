@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答提到墨色浓淡、红花与灰石对比、蝴蝶细笔，但未提馆方称笔法欠精，且编造没骨点染、朱红藤黄、粉绿斑点等具体颜料与画法，并断言工笔，与参考答案及禁止断言冲突。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "未提及馆方认为全画笔法欠精，且违规断言使用了朱红、藤黄等具体颜料并过度编造蝴蝶细节。"
+  }
+}

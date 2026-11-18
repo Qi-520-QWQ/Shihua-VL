@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到日用品和孩童，未命中具体货物、骷髅、击蛇及货郎奔向孩童弃担等事实；布匹、手持长柄伞、步履稳健及孩童赤脚或穿布鞋均无依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何核心必须事实（如倒置骷髅、击蛇情节、弃担护童等），且严重编造了“手持长柄伞、肩挑货担步履稳健”等与画面情节相反的内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

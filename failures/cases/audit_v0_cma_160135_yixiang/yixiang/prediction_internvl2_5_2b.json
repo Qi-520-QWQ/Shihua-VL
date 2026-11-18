@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_160135_yixiang",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "这幅画描绘渔隐在山水之间的生活，寄托了出世理想，即远离尘世喧嚣，追求宁静与隐逸。画中的渔舟和渔夫暗示了这种生活方式，与自然和谐共处，远离世俗的烦扰。"
+}

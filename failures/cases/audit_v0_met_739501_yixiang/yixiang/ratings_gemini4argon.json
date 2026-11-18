@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 1,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中周敦颐、《爱莲说》、出淤泥而不染及君子高洁自守等全部必须事实，无禁止断言；关于作者年代的存疑说明属合理不确定表述，不影响核心得分。"
+  },
+  "rater_b": {
+    "strict_hit": 1,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "完全命中周敦颐、《爱莲说》、出淤泥而不染及君子高洁自守等全部事实，且无禁止断言。"
+  }
+}

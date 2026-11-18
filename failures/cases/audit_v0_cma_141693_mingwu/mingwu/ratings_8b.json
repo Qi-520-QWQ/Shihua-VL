@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答断言山间有亭台楼阁并描述其形制，属禁止断言；且完全未提及留白淡设色、旋涡云气、松林溪流等关键事实，与参考答案相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答臆测编造了亭台楼阁等山间建筑形制，触犯禁止断言，且未能命中任何必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

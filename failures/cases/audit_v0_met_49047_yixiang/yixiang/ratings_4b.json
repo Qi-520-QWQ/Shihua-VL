@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中兰象征高洁一点，萱草寓意错误、未提湖石长寿坚固与蝶谐耋，且断言画面清雅淡逸属禁止断言，故判幻觉并部分命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯禁止断言（将画面定为清雅），且遗漏了萱草忘忧宜男、蝶谐音耋寓长寿等核心寓意事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

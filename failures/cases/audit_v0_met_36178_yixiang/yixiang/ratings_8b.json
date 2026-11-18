@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中坚韧不屈与松梅岁寒高洁之意，但未提及清末猛禽题材流行、象征力量及振作自强迎春复新的期许，未达全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了刚健不屈的气节及松梅耐寒、鹰象征力量，但遗漏了清末背景与迎春复新、振作自强的期许。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

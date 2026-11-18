@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到用笔劲道、浓淡干湿，未命中纯水墨不施色、粗犷皴笔写松皮、松针成簇及枝间留白等必须事实，属部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答较为泛泛，仅命中墨色浓淡相间表现苍老感，遗漏了纯水墨绢本不施色、松皮粗犷皴笔以及松针成簇与枝间留白等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

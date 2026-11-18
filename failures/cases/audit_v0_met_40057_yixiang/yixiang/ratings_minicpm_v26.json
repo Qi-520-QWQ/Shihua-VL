@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出渔父淡泊自然、悠然自得及画面闲适而非苍茫，但未指出其象征隐逸人生境界，也未说明本图是李结预先想象退休居所之作。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答正确指出了渔父象征的隐逸悠然境界及画面的闲适非苍茫基调，但完全遗漏了本图系李结预想退休居所之作这一必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

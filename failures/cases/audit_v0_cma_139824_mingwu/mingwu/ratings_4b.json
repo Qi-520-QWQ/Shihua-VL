@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答仅泛称货担有货物，未命中罐壶盒玩具工具旗幡、倒置骷髅、五名孩童击蛇、货郎弃担护童等关键事实，且编造布匹布帽布袋布鞋等具体货物并误判为明清，属幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "严重偏离画面考据事实，未命中倒置骷髅、孩童击蛇、弃担护童等核心要点，货物内容与时代推断均属虚构编造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

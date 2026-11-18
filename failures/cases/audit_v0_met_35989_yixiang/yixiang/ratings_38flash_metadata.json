@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中松象征君子德操、人物极小及士人坐茅亭栖居山林等要点，也回答了人与自然和谐相安；但加入明末乱世、安贫乐道及具体画面细节等参考答案不支持的断言。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "待评回答完整命中了三个必须事实，未出现禁止断言，分析准确且恰当说明了解读来源与不确定性。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言题跋“乙亥初秋”及作者“陈继春”，并确指“明末乱世”背景，均为参考答案不支持的具体可核查断言（同题跋引述判例）；三项必需事实均命中，故 strict=1。"
+}

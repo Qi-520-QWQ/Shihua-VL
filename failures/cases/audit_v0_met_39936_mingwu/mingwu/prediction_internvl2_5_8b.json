@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_39936_mingwu",
+ "model": "InternVL2.5-8B (int8) (T4, int8-8bit, max_num=12, tokenizer patched)",
+ "answer": "这幅画中有两只禽鸟。一只鸟栖息在画面左侧的树枝上，另一只鸟栖息在画面右侧的树枝上。画面中的竹子画法细腻，鸟的种类为麻雀，指向了传统中的“写意”花鸟画风格。"
+}

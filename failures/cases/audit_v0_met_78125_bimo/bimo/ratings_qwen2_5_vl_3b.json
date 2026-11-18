@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中墨色不一致及竹叶浓、书法淡，但未说明竹叶尖利和草书流利盘绕，并无依据地称竹叶用笔粗犷、书法更细腻。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了墨色画浓字淡且不一致的事实，但用笔比较泛泛，遗漏了竹叶尖利如剑/撇捺出锋以及草书线条流利盘绕等具体事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：\"竹叶粗犷/书法细腻\"为含糊笔法形容词，未触禁止断言（未称纤弱迟缓/设色重彩，同 7B 813350_bimo 判例）；结论\"墨色画浓字淡不一致\"与参考答案一致；遗漏竹叶尖利如剑/草书流利盘绕只扣分。"
+}

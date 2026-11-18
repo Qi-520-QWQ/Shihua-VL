@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到竹叶尖利及书法线条连绵，但错误断言画心题字与竹叶墨色几乎一致、均为浓墨，违背竹叶浓黑而其余偏淡的事实，并加入多项无依据的笔法与题款细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "用笔异同部分命中要点，但墨色判断严重错误，断言墨色基调高度统一（触犯禁止断言），未能指出竹叶浓黑而题字偏淡的墨色不一致事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

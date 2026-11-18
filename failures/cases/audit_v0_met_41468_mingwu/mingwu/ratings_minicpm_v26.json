@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到长袍、简朴舟船和竹竿，但遗漏船尾、帽子、篷盖及钓具不显著等事实，并错误地以衣着和舟式推测唐宋时代。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏了独坐船尾、戴帽着深色袍、篷盖、馆方著录与自题诗等核心事实，且主观臆测为唐宋时期文人画。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

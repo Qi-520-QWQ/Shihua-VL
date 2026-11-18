@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中秦淮题材怀古及画面萧索，但未提朝代兴亡盛衰、枯梅与人物仰视巨崖；擅自称人物坐船、植被稀疏，且未体现压倒性的历史。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了怀古兴亡感与萧索氛围，但遗漏了“枯梅”意象以及“人物仰视巨崖如面对压倒性历史”的核心事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“人物坐于小船上”与参考答案“危崖孤舟微小人物”大体相容；“荒凉山崖/稀疏植被”为含糊景物印象，未断言具体可核查事实；遗漏枯梅/人物仰视巨崖如面对压倒性历史只扣分。"
+}

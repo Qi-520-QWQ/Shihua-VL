@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_139824_yixiang",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "这幅画描绘了货郎在乡村场景中的日常生活，反映了宋代的市井生活。画面情绪是热闹的，因为货郎周围有多个小孩围绕，表现出一种欢快的氛围。"
+}

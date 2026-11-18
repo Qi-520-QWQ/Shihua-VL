@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "竹叶书法化、石块承董巨皴点及浓淡变化等要点基本命中，但多次断言画中有兰草并描述其笔法，违反无兰事实且属于禁止断言；另有若干参考答案不支持的细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答触发了禁止断言（强行分析兰叶用笔并编造画面底端有丛生兰草），未命中“本幅无兰叶可述”的核心事实，但答出了竹叶的书法化程式、石块董巨笔法及墨色浓淡相间。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将设色判断为淡雅清逸，与参考答案“偏浓丽、非一味淡雅”相悖，且鹰羽描述为破笔点厾等与细致工整不符，未命中全部必须事实，仅部分命中松针、梅枝用笔。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答命中了鹰羽层染与梅花点染等部分用笔特征，但设色结论断为“淡雅清逸”与参考答案“偏浓丽”相反，且遗漏了松针攒笔带绿、松干枯笔勾皴等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

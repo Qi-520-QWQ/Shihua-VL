@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未命中舟上人物、危崖比例、枯梅及历史象征等事实，并无端称无法确定时代风貌。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答采取消极拒答，遗漏了画中孤舟、微小人物持篙仰望危崖等关键特征，亦未答出指向六朝历史追忆的时代风貌。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

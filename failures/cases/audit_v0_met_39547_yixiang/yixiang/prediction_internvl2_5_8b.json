@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_39547_yixiang",
+ "model": "InternVL2.5-8B (int8) (T4, int8-8bit, max_num=12, tokenizer patched)",
+ "answer": "竹石兰组合常被赋予的君子品格是“清雅”。画面整体气息是清雅，因为竹子的线条和石头的淡墨处理都传达出一种宁静、淡泊的氛围。"
+}

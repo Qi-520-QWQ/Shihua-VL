@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答称远山用泼墨法、近景树木用点景法，均无参考答案支持，且未命中任何必须事实，属于编造事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未命中任何必须事实，且凭空编造了“泼墨法”与“点景法”。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

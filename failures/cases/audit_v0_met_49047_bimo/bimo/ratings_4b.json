@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "命中湖石灰黑层次、红花鲜明与对比，但蝴蝶直接断言工笔且未提馆方称笔法欠精，故未全命中必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "命中了湖石墨色层次、花石鲜明对比及蝴蝶细笔勾勒，但遗漏了馆方称笔法欠精的事实，且直接断言蝴蝶为工笔而未做留白。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

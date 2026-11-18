@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中云气留白与深红/暖色点染，但将皴法具体化为折带/披麻化用，属禁止断言；且未明确无日轮与线条勾勒加皴淡设色的完整表述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中云气留白与线条勾勒加皴，但遗漏了“无日轮”及“林间深红点染植被呼应朱砂”等核心事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答将山石皴法确指为“折带/披麻化用”及“短笔折带”，与参考答案“图录未载、不宜确指”直接矛盾，触禁止断言（同 8B 线 40062_bimo 判例）。"
+}

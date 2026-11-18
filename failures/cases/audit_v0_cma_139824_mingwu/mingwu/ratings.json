@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答未提及馆方所述左筐上方倒置骷髅，未明确孩童以棍石击蛇及货郎弃担护童情节，且货郎短褐草鞋、货担插花鸟等描述与参考答案长袍戴帽不符，属细节编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "漏掉了倒置骷髅、击蛇、弃担护童等核心事实，并将击蛇情节误读为孩童争抢货担、货郎护货。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

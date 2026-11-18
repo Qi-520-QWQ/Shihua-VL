@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅提到宁静神秘的出世意境与留白平衡构图、空间深邃，未命中'远离尘嚣深山环境''留白表现云雾天空''山体高远空灵、虚实相生''视线自下而上'等必须事实，故非全中，但部分正确且无禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅笼统提及出世意境与空间深邃感，遗漏了深山环境、表现云雾天空、虚实相生及引导视线自下而上等多个核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

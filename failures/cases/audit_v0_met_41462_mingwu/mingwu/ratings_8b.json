@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答只泛泛提及虬曲树干与松树象征，未命中单株巨松占满画面、树干自左下盘曲而上具体方位、孔洞疤结、针叶成簇与留白、右下方大石、馆方坚忍耐力表述、吴镇自题所见古树等必须事实；并编造'龙形'解读，参考答案不支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅泛谈了虬曲与坚韧不屈的象征，遗漏了单株占满、左下盘曲、针叶留白、右下大石及吴镇自题等大部分事实，且编造了画论解读为‘龙形’的内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

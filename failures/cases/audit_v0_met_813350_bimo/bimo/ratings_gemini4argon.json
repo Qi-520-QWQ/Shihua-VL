@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "回答命中迅疾用笔、浓墨写叶、浓淡对比表现动势等事实，但编造了背景水气烘染、瀑布水雾、展柜绿光斑等参考答案不支持的内容，且未明确提及'纸本水墨'与'竹竿弯曲而不折'，故未全命中。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "未命中“纸本水墨”和“竹竿弯曲而不折”两项必须事实，并自行编造了参考答案未提及的瀑布激起水雾等细节。"
+  }
+}

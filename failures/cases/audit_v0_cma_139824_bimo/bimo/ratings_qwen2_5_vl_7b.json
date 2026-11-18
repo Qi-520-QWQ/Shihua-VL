@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中货物细笔、担架简括及设色淡等要点，但将人物说成粗线，与人物衣纹工致、货郎与孩童线条有别不符；“人物使用粗线”属无依据断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答命中了货物细线、担架简洁及淡设色，但误将工致的人物用笔说成‘粗线勾勒’，且遗漏了货郎与孩童线条有别的事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只泛泛命中避世隐居/超脱世俗，未提及江南为文人家园及渔隐含归乡之意、馆方关于赵氏文人自绘渔人徜徉江南的说法，未达全部必须事实；无禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅命中了避世隐居、渔隐出世的理想，遗漏了江南家园归乡之意以及馆方指出赵氏文人画自身作渔人等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

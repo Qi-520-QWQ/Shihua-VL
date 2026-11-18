@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅提及松针细小笔触及山石质感，未命中松针成簇、侧锋方硬皴法和规定的浓淡分布；称墨色分布均匀与浓淡对比明显及右重左轻相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中必须事实（未提及侧锋方硬皴擦、成簇团块、绿褐色调及右浓左淡的分布），且断言墨色分布均匀、松针为浅色，存在明显事实编造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

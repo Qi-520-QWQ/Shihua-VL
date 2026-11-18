@@ -1,0 +1,36 @@
+{
+ "answer": "先须纠正：本幅为枯木竹石，并无兰花，故不宜套用「竹石兰」三友式的君子组合。就画史通识言，竹喻虚心有节、石喻坚贞不移，枯木则喻老而弥坚、历劫犹生，合为文人自况的品格象征。馆方亦言吴镇晚年专精画竹、于此最早存世竹画中可见其对竹的推重。画面为纯水墨绢本，气息清雅疏淡，绝非浓艳。",
+ "required_facts": [
+  "本幅无兰花，题材为枯木竹石",
+  "竹喻虚心有节属画史通识",
+  "枯木喻老而弥坚",
+  "吴镇晚年专精画竹",
+  "纯水墨绢本、气息清雅而非浓艳"
+ ],
+ "forbidden_claims": [
+  "竹石兰三友并绘于本幅",
+  "画面色彩浓艳华丽",
+  "枯木象征衰败无生意",
+  "馆方称此图寓富贵长寿"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/39547",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP235590.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/39547",
+  "sha256": "a93ce71b03dbd6ac53ea56a55a84b3e08014fb961fd0c065891176cd52a1a82d"
+ },
+ "catalogue": {
+  "title": "Bamboo, old tree, and rock",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "dated 1338",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "2012.526.1",
+  "credit_line": "Ex coll.: C. C. Wang Family, Gift of Oscar L. Tang Family, 2012"
+ }
+}

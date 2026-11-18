@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答使用披麻皴、斧劈皴等具体皴法名称且未命中王蒙、红袍、金笺设色、金地本色留白等必须事实，属于编造与禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中王蒙、绳状笔触、红袍、金笺等任何核心考据事实，且编造了披麻皴、斧劈皴及人物面部表情细腻等通用套话与虚假细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

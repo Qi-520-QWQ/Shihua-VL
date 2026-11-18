@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答编造了左侧日光、木质山间建筑及其形制，与视觉笔记中未见明确建筑、未画日轮的事实相悖，且未命中任何必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答完全未命中任何必须事实，臆测并编造了山间木质结构建筑的形制与日光照射细节，存在严重幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

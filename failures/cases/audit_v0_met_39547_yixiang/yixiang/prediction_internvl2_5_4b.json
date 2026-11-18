@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_39547_yixiang",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅中国古画中，竹石兰组合常被赋予“君子品格”中的“高洁、坚韧、清雅”等象征意义。画面整体气息是清雅的，竹子和石头的搭配以及淡雅的色调都体现了这种清雅的风格。"
+}

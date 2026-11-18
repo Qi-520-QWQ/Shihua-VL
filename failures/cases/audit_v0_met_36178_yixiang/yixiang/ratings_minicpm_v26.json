@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中刚健不屈、松梅耐寒及鹰象征力量，但未提清末猛禽题材流行和振作自强、迎春复新的期许；将鹰说成象征自由缺乏参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了不屈气节、力量及耐寒寓意，但遗漏了清末背景、梅报春先以及振作自强迎春复新的期许。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：与 3B 线同题同判例——「高洁/坚韧/不屈」「鹰象征力量和自由」为通用文化常识性说法，未断言与参考答案矛盾的具体事实；遗漏清末猛禽流行/振作自强迎春复新只扣分。"
+}

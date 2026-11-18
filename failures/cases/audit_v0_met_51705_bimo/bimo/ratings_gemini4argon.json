@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 0,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答编造了铁线描、中锋用笔、淡赭石等馆方未描述的笔法与设色细节，且断言整体为淡彩，与参考答案的设色较浓相悖，未承认笔法细节无法确证。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 0,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "触发多项禁止断言（指认铁线描、断言整体为淡彩），且全篇凭空编造笔法与色彩细节，未命中任何必须事实。"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只泛泛提到松树坚韧高洁，命中‘坚忍刚毅’大意，但未提及元代文人政治隐喻、吴镇隐居自号梅花道人及孤松隐逸守节等核心事实，故未全命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提到松树象征坚韧不拔与文人精神，完全遗漏了元代政治歧视背景、画家吴镇（隐居浙江、自号梅花道人）及其隐逸守节的具体寓意，且将确定的史实考据归为不确定性。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

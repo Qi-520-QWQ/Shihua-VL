@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将人物说成注重细节、线条细腻柔和，并称水面波纹粗犷有力、短促用笔，违背参考答案及禁止断言，且未命中淡墨细线与浓墨芦苇树丛、留白水面的虚实对比。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答完全颠倒了人物与水面的画法特点，将简练人物说成细腻注重细节，将淡墨细线水面说成粗犷有力，触犯禁止断言且未命中任何事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

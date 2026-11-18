@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提到松树姿态与坚韧精神，遗漏多项必命中事实，并无依据地称其寓意“龙腾虎跃”。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中了虬曲树干与坚韧不拔精神，遗漏了巨松满幅、孔洞疤结、右下大石、吴镇题跋等绝大多数事实，且虚构了画论解读为“龙腾虎跃”的内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

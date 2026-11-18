@@ -1,0 +1,33 @@
+{
+ "answer": "馆方仅言其风格显示为十六世纪，未细述笔法；视觉笔记亦未逐项记录线条差异，故马身线条与衣纹用笔的具体对照无法确证。就设色而言，本幅为绢本设色，画面有红缰、红缨、粉红长袍与红靴等鲜明色块，属设色较浓一路，而非纯水墨淡彩。笔法细节须目验原迹方可判断。",
+ "required_facts": [
+  "本幅为绢本设色",
+  "画面有红缰红缨粉袍红靴等鲜明设色",
+  "马身与衣纹用笔的具体差异馆方未描述"
+ ],
+ "forbidden_claims": [
+  "具体指认马身用铁线描、衣纹用兰叶描等未见于材料的描法",
+  "断言全幅为水墨淡彩",
+  "编造馆方对笔法的描述"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/51705",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP202661_CRD.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/51705",
+  "sha256": "af4f9d0a247f588335904db459dae1cf790ebd08139aed8b79baa823c30faad0"
+ },
+ "catalogue": {
+  "title": "Horse and groom",
+  "attribution_verbatim": "Unidentified artist",
+  "date_verbatim": "16th century",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Handscroll; ink and color on silk",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "47.18.93",
+  "credit_line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947"
+ }
+}

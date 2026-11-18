@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "编造了马身与衣纹的具体用笔差异，并将设色说成以淡为主；未承认笔法无法确认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答完全编造了笔法线条对比，错误断言设色以淡为主，未命中任何必须事实，且未能指出笔法细节无法确证。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

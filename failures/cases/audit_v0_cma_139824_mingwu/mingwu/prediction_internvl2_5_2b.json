@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_139824_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中货郎担上挂着水果、布匹和瓷器等货物。货郎与孩童的服饰和动作具有古代特征，体现了当时的生活场景。"
+}

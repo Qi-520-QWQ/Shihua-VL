@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中湖石深沉与红花鲜艳对比，但将蝴蝶说成写意且线条简洁，违背细笔勾勒的参考描述，并属于不支持的断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了湖石与花朵的色彩对比，但遗漏了馆方评价，且错误将蝴蝶画法断言为写意，存在幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

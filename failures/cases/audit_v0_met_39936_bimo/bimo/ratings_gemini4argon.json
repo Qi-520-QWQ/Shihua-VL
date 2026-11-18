@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答提到绢本、竹叶青绿、鸟身褐、鸟羽细密、鸟眼点漆等事实，但将竹叶描述为双钩填色、鸟羽没骨丝毛，与参考答案‘竹叶以爽利笔线写出’不符，且未明确点出写实院体花鸟风格，出现编造性描述。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中了绢本设色、竹叶石绿、鸟羽细密及生漆点睛等细节，但未明确点出核心的“院体花鸟风格”。"
+  }
+}

@@ -1,0 +1,35 @@
+{
+ "answer": "鹰羽用笔细致工整，层层晕染出灰褐色羽毛的质感，利爪与喙刻画精到；松针以短促攒笔簇成，墨色浓黑带绿，松干用枯笔勾皴显苍老虬曲；梅枝以劲挺细笔勾出，花朵点染而成。整体设色偏浓丽，红梅鲜红点缀，松针黑绿，与灰褐鹰身形成色彩对比，并非一味淡雅。",
+ "required_facts": [
+  "鹰羽刻画细致，层层晕染",
+  "松针以攒笔簇成，墨色浓黑带绿",
+  "松干用枯笔勾皴表现苍老",
+  "梅枝细笔勾出，花朵点染",
+  "设色偏浓丽，红梅鲜红"
+ ],
+ "forbidden_claims": [
+  "画面纯水墨无设色",
+  "设色极其清淡素雅、几无颜色",
+  "鹰羽用大泼墨写意"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/36178",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-24795-002.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/36178",
+  "sha256": "dcec5394f8726b81bb323af08e17fb3fc37a23acde635010020ab37589248032"
+ },
+ "catalogue": {
+  "title": "Hawk, pine, plum, and rock",
+  "attribution_verbatim": "Zhu Cheng",
+  "date_verbatim": "dated 1873",
+  "period_verbatim": "Qing dynasty (1644–1911)",
+  "medium": "Hanging scroll; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1986.267.65",
+  "credit_line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986"
+ }
+}

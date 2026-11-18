@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 1,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中两只禽鸟、左上向右、中下偏右向左、相向、竹自右侧石壁生出且枝叶向左、宋代院体写实传统；额外黄筌画派等表述不构成禁止断言。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "准确指出了禽鸟数量、两鸟栖息位置与相向姿态，并命中了宋代院体写实花鸟传统，但遗漏了竹子自右侧石壁生出、枝叶向左伸展的具体画法描述。"
+  }
+}

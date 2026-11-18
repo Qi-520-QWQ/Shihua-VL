@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中任何必须事实，反而编造远山淡墨渐变、近水浓墨、人物细腻线条与山水粗犷对比等参考答案不支持的内容，且未承认渔翁用笔无法确认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中任何必须事实，近水浓墨及人物细腻、山水粗犷的对比纯属套话捏造，且未能指出人物极小无法确认用笔。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

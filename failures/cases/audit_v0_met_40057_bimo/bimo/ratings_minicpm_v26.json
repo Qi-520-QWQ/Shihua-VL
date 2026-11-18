@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及绢本淡青绿甚淡旧、远山正面图式化及水面与点状水草等关键事实，并臆称近水墨色更深更密、渔翁用笔细致清晰且有丰富细节；未承认人物用笔无法确认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中必须事实，臆造了近水深墨及渔翁用笔细致等细节，违背了禁止臆断人物与山水用笔区别的要求。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

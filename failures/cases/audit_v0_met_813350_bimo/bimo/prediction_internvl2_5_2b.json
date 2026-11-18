@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_813350_bimo",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "这幅画中，竹叶的用笔非常细腻，通过点画和线条的变化表现了风中的动态。墨色方面，通过浓淡变化和干湿结合，表现了风的动势，仿佛竹叶在风中轻轻摇曳。"
+}

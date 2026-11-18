@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中坚韧不屈与刚劲非柔弱两点，但未提及竹弯曲不折的柔性抵抗，也未联系遗民画家拒绝仕清，未满足全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "答出了风竹寄托坚韧品格及刚劲非柔弱的情绪，但遗漏了遗民画家拒绝仕清的特定背景及竹子弯而不折的柔性抵抗象征。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

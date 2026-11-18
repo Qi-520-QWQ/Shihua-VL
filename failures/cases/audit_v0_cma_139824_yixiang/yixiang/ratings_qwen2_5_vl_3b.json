@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中市井商业生活与热闹氛围，但未提及儿童生活、戏剧性冲突及馆方所述宁宗九子早夭的暗喻。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了市井商业繁荣及热闹情绪，但遗漏了戏剧性冲突情节以及馆方提及暗喻宁宗九子早夭的关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

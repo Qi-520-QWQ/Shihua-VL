@@ -1,0 +1,37 @@
+{
+ "answer": "松针以细密放射状笔线簇写，层层叠加而成团块，显出松冠厚重；山石多用侧锋皴擦，笔触方硬而富质感，表现崖壁的坚凝。墨色深沉偏绿褐，浓墨集中于右侧松树与崖石，形成画面重而密的右半；左侧水面与远岸用墨清淡、留白较多，浓淡对比明显，衬托出崖树的幽深与水面空阔。",
+ "required_facts": [
+  "松针细密成簇",
+  "山石用侧锋皴擦、笔触方硬",
+  "墨色深沉偏绿褐",
+  "浓墨集中于右侧松崖",
+  "左侧水面用墨清淡、多留白",
+  "浓淡对比明显"
+ ],
+ "forbidden_claims": [
+  "通幅淡墨、无浓淡对比",
+  "松针用没骨点染而无笔画",
+  "左侧崖石用墨最浓",
+  "全画为青绿重彩、不见墨笔"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/40062",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-19288-001.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/40062",
+  "sha256": "d0d17b0465d9ae83e01493bb5bce219ebf77a1403fb73486ed2e99b439b642da"
+ },
+ "catalogue": {
+  "title": "Hermitage by a pine-covered bluff",
+  "attribution_verbatim": "Yan Ciyu",
+  "date_verbatim": "second half 12th century",
+  "period_verbatim": "Southern Song dynasty (1127–1279)",
+  "medium": "Fan mounted as an album leaf; ink and color on silk",
+  "classification": "Paintings",
+  "object_name": "Fan mounted as an album leaf",
+  "accession_number": "1973.121.12a, b",
+  "credit_line": "Ex coll.: C. C. Wang Family, Purchase, Gift of Mr. and Mrs. Jeremiah Milbank and Gift of Mary Phelps Smith, in memory of Howard Caswell Smith, by exchange, 1973"
+ }
+}

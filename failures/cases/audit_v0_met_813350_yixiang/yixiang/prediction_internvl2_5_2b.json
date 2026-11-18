@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_813350_yixiang",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "风竹题材在中国画中常寄托刚劲的品格。画面情绪是刚劲的，因为竹子的形象象征了坚韧不拔的精神。"
+}

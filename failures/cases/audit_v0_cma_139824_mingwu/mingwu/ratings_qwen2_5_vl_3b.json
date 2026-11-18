@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅提及玩具及货郎戴帽长袍，漏掉罐壶盒、工具旗幡、骷髅、孩童击蛇和货郎奔向孩童弃担等关键事实；书籍文具及检查展示商品等说法无依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全遗漏了倒置骷髅、五名孩童击蛇及货郎弃担护童等核心情节，且严重编造了货郎挑担展示书籍文具等与画面不符的内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

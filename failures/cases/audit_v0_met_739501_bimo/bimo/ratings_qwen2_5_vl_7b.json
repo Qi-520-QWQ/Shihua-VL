@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅提到人物线条流畅；称莲叶用浓墨粗重勾勒、花叶颜色较深，与参考答案不符并含无依据断言，且未命中淡彩与莲花颜色等事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中衣纹流畅和人物淡雅，遗漏白袍及莲花色彩，且捏造了莲叶浓墨勾勒粗重及花叶用较深颜色等不符参考答案的描述。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

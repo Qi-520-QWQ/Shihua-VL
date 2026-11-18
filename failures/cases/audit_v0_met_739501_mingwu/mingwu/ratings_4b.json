@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出人物坐石持扇观莲，但未指出人物为周敦颐；称莲花在下方、人物脚边，未明确右下及右缘树干脚下，且“靠近人物脚边”为参考答案不支持的细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未识别出人物为周敦颐，莲花位置未精确指出在右下角及树干脚下，仅命中文人坐石持扇观莲等部分事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“莲花在下方、靠近人物脚边”措辞含糊（“靠近”未钉死位置），与参考答案“右下”大体相容，未构成与参考答案矛盾的具体事实断言；未指认周敦颐只扣分。"
+}

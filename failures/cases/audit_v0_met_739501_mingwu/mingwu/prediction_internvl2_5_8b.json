@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_739501_mingwu",
+ "model": "InternVL2.5-8B (int8) (T4, int8-8bit, max_num=12, tokenizer patched)",
+ "answer": "这幅画描绘了一位古代文人，他坐在岩石上，手持镜子，似乎在整理仪容。这种姿态常见于文人雅士，象征着对自我形象的关注和修养。\n\n莲花位于画面的右下角，作为点缀，增加了画面的自然美感。"
+}

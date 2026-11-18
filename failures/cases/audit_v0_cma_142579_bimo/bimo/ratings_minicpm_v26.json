@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中整体写意，但将水面说成细腻描绘流动感、建筑说成粗犷且浓重设色，均无参考依据，并与水面留白简淡少刻画不符；未提危崖皴染及舟、人形体极小。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅答出整体风格属写意，未命中危崖皴染、细笔点写小舟人物等事实，且编造了水面用笔细腻及建筑设色浓重等与参考答案相悖的内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

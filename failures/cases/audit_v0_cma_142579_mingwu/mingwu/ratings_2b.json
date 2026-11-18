@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答编造了沿河建筑、众多人物与舟船及明代市井风貌，与参考答案及禁止断言直接冲突，未命中任何必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答完全背离画面实际，捏造了沿河建筑与多个人物服饰等细节，触发了禁止断言，必须事实无一命中。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

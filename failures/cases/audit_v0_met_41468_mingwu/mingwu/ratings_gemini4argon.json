@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "回答承认不能仅凭名物细节断代，但编造了发髻/软巾、宽袖便服、网格竹编船篷、短棹划行、鱼竿斜架船篷及题诗引文等参考答案不支持的具体细节，且未命中馆方著录与吴镇自题诗这一断代依据。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "正确指出不能仅凭衣着舟船名物断代，但遗漏了“戴帽、着深色袍”的特征，且断代依据未明确点出馆方著录。"
+  }
+}

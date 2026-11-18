@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中周敦颐、《爱莲说》及高洁品格，但未明确写出淤泥而不染与洁身自好、不慕荣利等核心表述，未达全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了周敦颐、《爱莲说》及高洁品格，但遗漏了莲花“出淤泥而不染”这一必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

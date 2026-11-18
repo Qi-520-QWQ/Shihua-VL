@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中绳状层叠山石笔触、人物简笔红袍醒目、金笺及留金分隔景物等要点，但编造具体皴法名称并补充多项未经支持的画面细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中了全部必须事实，但声称馆方所述带有牛毛皴或解索皴特征，触犯了编造具体皴法名称为馆方所述的禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

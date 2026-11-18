@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答到竹喻君子高洁坚贞及鸟竹的生机意趣，但将季节说成深秋初冬、寒意萧散，且加入禽鸟象征隐逸山林，违背禁止断言；也未准确突出青绿竹叶、褐色雀鸟构成的清雅小景。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中大部分画意与意境要素，但触发了禁止断言（断言禽鸟与竹寄托高蹈隐逸/山林自乐），且将季节推测为深秋初冬与参考答案不符。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

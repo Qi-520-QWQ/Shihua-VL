@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅笼统提到细腻笔触和淡色设色，未分别说明货物细笔精微、人物衣纹工致及货郎孩童线条有别、担架结构简括等必须事实，也未命中墨线为主敷色清淡；无禁止断言，不确定性说明虽略泛但未无端拒答。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅命中了设色清淡，未分别说明货物、人物（货郎与孩童区分）及担架在笔法上的具体不同与繁简对比，且对可确切回答的问题作了无端的版本不确定性说明。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

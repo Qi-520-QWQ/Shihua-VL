@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及墨戏及淡墨细线、浓墨芦苇树丛与留白水面的对比，且将人物描写为细致入微、眼睛细线勾勒，属于无依据的细节并违背禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，反而违背事实称人物面部刻画细致入微、用笔细腻，水面画法亦属编造，存在严重幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

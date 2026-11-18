@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中衣纹细腻、设色有别等部分事实，但说莲叶以线条勾勒、无笔触变化与参考答案的阔笔晕染不符，且称莲叶颜色鲜艳突出属禁止的浓艳对比类断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答遗漏了白袍素净、莲花淡粉/白等关键事实，且错误地将莲叶描绘为线条勾勒与鲜艳颜色，存在明显幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

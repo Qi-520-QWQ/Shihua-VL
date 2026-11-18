@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答称三只禽鸟且栖于右上树枝，属禁止断言与编造；又误判为写意花鸟传统，未命中任何必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发禁止断言（称有三只禽鸟），禽鸟数量、位置及所属花鸟传统（误作写意花鸟）均答错。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

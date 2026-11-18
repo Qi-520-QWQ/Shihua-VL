@@ -1,0 +1,34 @@
+{
+ "answer": "题干预设画面中有明确的山间建筑，但据视觉笔记，山间未见明确建筑，无法确认其形制，不应臆测。日光亦未画成日轮，而是以留白与淡设色表现晨光，群峰尖峭居上，中下部大片旋涡状云气，下部松林溪流，林间深红点染植被象征朱砂。山峰与日光的关系是通过云气与留白烘托出晓日照临之意，而非直接描绘太阳。",
+ "required_facts": [
+  "画面中未见明确建筑",
+  "未见明确日轮",
+  "以留白和淡设色表现晨光",
+  "山峰尖峭，云气旋涡，下部松林溪流"
+ ],
+ "forbidden_claims": [
+  "画面中有寺庙或亭台并描述其形制",
+  "画中有一轮红日",
+  "山峰平缓圆浑"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1965.28",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1965.28/1965.28_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1965.28",
+  "sha256": "6ca90f0c5c8bf9e268ec38ff1d65d7ceafe3894cd576c3d81c3f4c810a06daa6"
+ },
+ "catalogue": {
+  "title": "Morning Sun over Heavenly Citadel Peak",
+  "attribution_verbatim": "Morning Sun over Heavenly Citadel Peak (天都曉日圖), 1614",
+  "date_verbatim": "1614",
+  "period_verbatim": "China, Ming dynasty (1368–1644)",
+  "medium": "Hanging scroll; ink and light color on paper",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1965.28",
+  "credit_line": ""
+ }
+}

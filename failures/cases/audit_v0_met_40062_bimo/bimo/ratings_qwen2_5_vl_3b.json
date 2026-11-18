@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统描述松针线条密集，未命中成簇、山石侧锋皴擦且笔触方硬及具体墨色分布；并断言墨色均匀、无明显对比，属于禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中绝大部分关键事实，且错误断言墨色分布均匀、没有明显对比区域，触发禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

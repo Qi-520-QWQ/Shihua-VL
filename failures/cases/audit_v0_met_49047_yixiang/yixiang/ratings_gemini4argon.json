@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "前半部分正确命中了萱草忘忧、兰高洁、石长寿、蝶谐耋等寓意，但整体气息被判为清雅，违反禁止断言，且后半部分引入山丹花与题跋混称等参考答案不支持的内容，构成幻觉。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "虽然正确回答了各物象的吉祥寓意，但断言画面气息十分清雅娴静，触犯了禁止断言且未命中偏浓艳。"
+  }
+}

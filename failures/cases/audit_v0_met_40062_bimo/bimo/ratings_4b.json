@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅模糊提及松针细密、山石质感，未命中侧锋皴擦、方硬笔触、墨色偏绿褐、浓墨集中于右侧松崖、左侧淡墨留白等关键事实，且编造松针墨色较浅与背景淡墨对比、通幅分布较均匀，与参考答案及禁止断言相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中成簇、侧锋方硬、偏绿褐及右浓左淡留白等核心事实，且编造了墨色分布均匀、松针墨色较浅等不实分析。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "audit_v0_met_39936_mingwu",
+ "artwork_id": "met_39936",
+ "group_id": "met_39936",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中的禽鸟有几只、分别栖于何处？画面中竹子的画法与鸟的种类指向哪一类花鸟画传统？",
+ "answer": "画面中有两只禽鸟，左上的一只栖于竹枝上向右，中下偏右的一只栖于竹枝上向左，两鸟相向而立。竹子从右侧石壁生出，枝叶向左伸展，右侧有湖石。禽鸟为小型雀类，属花鸟画中的翎毛一路，配合竹石构成宋代院体花鸟画常见题材；馆方描述指出此作体现徽宗画院写实风格的花鸟画传统。",
+ "required_facts": [
+  "画面有两只禽鸟",
+  "左上禽鸟栖竹枝向右",
+  "中下偏右禽鸟栖竹枝向左",
+  "两鸟相向",
+  "竹自右侧石壁生出、枝叶向左伸展",
+  "属宋代院体写实风格花鸟画传统"
+ ],
+ "accepted_variants": [
+  "二禽",
+  "雀鸟两只",
+  "花鸟画中的竹禽题材",
+  "徽宗画院写实花鸟传统"
+ ],
+ "forbidden_claims": [
+  "画面中有三只或更多禽鸟",
+  "禽鸟栖于湖石之上",
+  "两鸟背向而立",
+  "竹自左侧生出向右伸展"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/39936",
+   "page": "Met 馆方页",
+   "quote": "Finches and Bamboo exemplifies the realistic style of flower-and-bird painting practiced at Huizong's academy"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

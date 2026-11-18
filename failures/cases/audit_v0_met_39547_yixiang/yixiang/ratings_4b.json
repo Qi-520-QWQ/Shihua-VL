@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答套用「竹石兰组合」而未纠正本幅无兰花，且未提及枯木竹石、枯木喻老而弥坚、吴镇晚年专精画竹、纯水墨绢本等必须事实，含有禁止断言式的题材误判。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未纠正本幅无兰花的事实，默认了竹石兰三友并绘（触犯禁止断言），且遗漏了枯木寓意及吴镇相关事实，仅答对画面整体气息清雅。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

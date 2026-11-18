@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提到淡墨远山和简洁人物笔触，未命中留白代水、近浓远淡、红袍点景等关键事实，且编造水面淡浓墨结合表现反光及人物细腻线描，与参考答案冲突。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅答出远山用淡墨，漏掉江面留白代水、红袍设色及近浓远淡对比，且编造了水面浓淡墨表现反光深浅及人物用笔细腻等错误事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "答出关羽及青龙偃月刀、绿袍，但将头巾说成红色（参考为蓝色），且遗漏长髯、光晕、两名从者及题识；未命中全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "成功指认关羽、青龙偃月刀与绿袍，但遗漏长髯、光晕、从者及右上题识，且误将蓝头巾说成红头巾。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

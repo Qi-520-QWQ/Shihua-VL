@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将建筑误判为亭子，未命中茅屋、崖脚位置、溪流、边角式南宋院体及阎次于等关键事实，且‘宋代山水样式’过于笼统，构成错误断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "建筑形制误答为亭子（实为小茅屋），时代仅泛指宋代而未命中南宋院体边角式样式，遗漏几乎所有必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

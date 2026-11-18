@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答编造了远山淡墨层次分明、近水浓墨波光、人物细致生动及与山水用笔对比等参考答案不支持且含禁止断言的内容，未命中任何必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未命中任何必须事实，且对近水墨色及极小的渔翁人物细节（衣纹、面部表情等）进行了主观臆造。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

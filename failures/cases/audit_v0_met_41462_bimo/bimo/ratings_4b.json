@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答了松皮粗犷、松针细密及树干墨色浓淡表现苍老，但未提及纯水墨绢本不施色、松针成簇枝间留白等必须事实，故未全命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答提到了松皮粗犷及墨色浓淡表现苍老感，但遗漏了纯水墨不施色、皴笔、松针成簇点写于枝端与枝间留白等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

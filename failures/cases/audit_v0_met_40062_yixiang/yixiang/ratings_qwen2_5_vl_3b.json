@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中幽居、隐逸及松树高洁品格等要点，但未明确茅屋点出栖隐生活，且编造士人长袍、手持书卷及其姿态表情等画面细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及茅屋意象，且编造了士人身着长袍、手持书卷等参考答案不支持的画面细节，仅命中松象征高洁与士人避世隐逸理想。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,14 @@
+{
+  "model": "OpenGVLab/InternVL2_5-4B",
+  "quantization": "bf16",
+  "tokenizer_source": "OpenGVLab/InternVL2_5-4B",
+  "max_num": 12,
+  "max_new_tokens": 768,
+  "planned": 60,
+  "ok": 60,
+  "failed": 0,
+  "seconds": 1101.4,
+  "ts_cst": "2026-11-18 03:47:48",
+  "out": "predictions/internvl2_5_4b.jsonl",
+  "note": "merged: smoke --limit 2 (2/2 ok) + full run --model 4b planned 58 ok 58 (manifest seconds 1058.0 covers full run only; seconds here is sum of per-record seconds); source download browser-download-20261117T200400.021224293Z-0-internvl2_5_4b.jsonl (53,364 bytes)"
+}

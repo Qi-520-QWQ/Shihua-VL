@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中松针细密成簇、侧锋方硬皴擦、右浓左淡与浓淡对比等核心事实，但加入参考答案未支持的'小斧劈皴'、夹叶法、下实上虚等具体名目，且未明确墨色偏绿褐，故未全中。"
+  },
+  "rater_b": {
+    "strict_hit": 1,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "命中松针攒针、山石侧锋方硬、浓墨偏绿褐及右浓左淡留白等全部核心事实，分析详实且无禁止断言。"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中远山淡墨表现，但未提云雾留白、长披麻皴及湿点圆石，并无依据地称近景用细笔、远山用粗笔。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中远山淡墨渲染，遗漏了云雾留白、长披麻皴、近浓远淡等关键事实，且臆造了树木细笔勾勒、远山粗笔渲染的说法。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

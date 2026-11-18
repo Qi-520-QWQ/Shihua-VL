@@ -1,0 +1,33 @@
+{
+ "answer": "馆方描述：一红衣士人坐于简陋茅亭中，亭在巨松之下。视觉笔记补充：人物极小、红色醒目，亭上亭后数株巨松，左侧山石，右上题款朱印。由此可知其身份为文人居士一类，而非仆役或仙佛。山石松树巨大而人物极小，说明画家以山水为主、人物为点景，人处于自然之中的从属位置。",
+ "required_facts": [
+  "人物为坐于茅亭中的红衣士人",
+  "亭在巨松之下",
+  "人物在画面中极小、红色醒目",
+  "山石松树巨大而人物比例极小"
+ ],
+ "forbidden_claims": [
+  "断言人物为具体历史人物或神仙",
+  "声称人物是画面主体、占据较大比例"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/35989",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP153844.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/35989",
+  "sha256": "b121d11ce1d8db95839c68eb5c00b2d8e40824a1515e4535d4cfed17cec15f42"
+ },
+ "catalogue": {
+  "title": "Landscape with figure",
+  "attribution_verbatim": "Chen Jichun",
+  "date_verbatim": "1635",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Folding fan mounted as an album leaf; ink and color on gold paper",
+  "classification": "Paintings",
+  "object_name": "Folding fan mounted as an album leaf",
+  "accession_number": "13.100.75",
+  "credit_line": "John Stewart Kennedy Fund, 1913"
+ }
+}

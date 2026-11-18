@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中幽僻山林、茅屋栖隐、松象征坚贞高士品格及避世寄情山水理想；但补入南宋、具体桥屋位置、作者争议等参考答案不支持的细节，构成幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "全部命中所有必须事实（幽僻之境、茅舍栖隐、松表坚贞节操、寄托士人避世寄情理想），且无任何禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言茅舍旁有“引水小桥”，属无据断言的具体建筑（同题 mingwu 判例）；“南宋”与作者争议出自元数据/不确定性说明，不单独计；四项必需事实均命中，故 strict=1。"
+}

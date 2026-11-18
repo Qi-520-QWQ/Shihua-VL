@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答到树干以浓淡墨变化表现苍老感，但将松皮说成细线勾勒、松针说成较粗线条，且编造近处浓远处淡的空间处理；未命中纯水墨绢本、松针成簇及枝间留白等事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答完全写反了松皮（粗皴）与松针（细密）的用笔特征，且编造了近浓远淡的空间感解释，未命中纯水墨等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答正确判断为写意，但漏掉墨色为主、危崖淡墨淡赭与竖向皴纹、人物细笔点写形体极小等关键事实，且编造水面细线勾波纹与建筑工整细腻描绘，触及禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅答出属于写意，虚构了工整细腻的建筑和勾勒水纹，遗漏了水面留白、危崖淡墨淡赭竖皴及小舟人物细笔点写等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "提到松针细密、左淡右浓及山石质感，但未说明松针成簇和山石侧锋皴擦、笔触方硬；“由浅入深”不符合右重左轻的分布方向，且未提墨色偏绿褐与左侧留白。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答仅命中了松针细密及右浓左淡的浓淡对比，遗漏了山石侧锋方硬皴擦、墨色偏绿褐以及左侧水面留白等关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“左侧清淡、右侧浓郁，由浅入深”与参考答案“浓墨集中于右侧松崖、左侧水面清淡”方向一致，rater_a 所称方向不符不成立；遗漏松针成簇/山石侧锋方硬/墨色偏绿褐/左侧留白只扣分。"
+}

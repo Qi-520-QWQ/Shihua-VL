@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中出世意境、留白表现云雾天空、虚实相生等核心事实，但未明确说明留白引导视线自下而上，且加入'禅宗''天人合一''打破压迫感'等参考答案未支持的表述，故未全对。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答涵盖了深山环境、清寂幽深出世意境、留白表现云雾天空及虚实相生高远空灵，但遗漏了留白引导视线自下而上的作用。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

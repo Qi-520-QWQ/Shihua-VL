@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答罗列百货但漏掉馆方骷髅与货郎弃担急奔护童、孩童以棍石击蛇等核心事实，且加入簪花、短褐绑腿、开裆裤、六七名孩童等参考答案不支持的具体描述，属编造，未命中全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "张冠李戴了其他版本的货郎图，漏掉倒置骷髅、击蛇护童弃担等核心事实，且将情节断言为孩童嬉戏货郎无冲突，触犯禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

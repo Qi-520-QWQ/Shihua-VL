@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "用笔异同部分正确（竹叶锐利出锋、书法圆转连绵），但墨色断言'高度一致、均以浓墨为主'与必须事实'墨色不一致，竹叶浓黑而其余偏淡'直接矛盾，属禁止断言'全图墨色均匀一致'，故strict_hit为0且记幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答命中竹叶用笔尖利及草书流利连绵，但墨色部分判定为高度一致，触犯禁止断言‘全图墨色均匀一致’。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

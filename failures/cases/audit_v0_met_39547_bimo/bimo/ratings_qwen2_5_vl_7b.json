@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未说明本幅无兰，反而编造兰叶用笔及竹叶浅、兰叶渐深的墨色关系；未命中竹叶程式化、董巨皴点及浓淡相间等事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发禁止断言编造了兰叶的用笔与墨色，且未命中任何必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

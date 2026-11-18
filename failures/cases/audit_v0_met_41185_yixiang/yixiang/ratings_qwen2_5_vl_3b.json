@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中远离尘嚣与隐逸意境，但未提及作于明立国前两年及溪畔草堂象征文人隐居；关于松树象征、构图及实际生活场景的说法缺乏参考答案支持。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛论了远离尘嚣与隐逸意境，完全遗漏了馆方指出的“明立国前两年”及“元末溪畔草堂的象征”等核心考据事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：\"松树象征高洁坚韧/构图简洁\"为通用文化常识性说法与泛泛抒情，未断言具体可核查事实；不确定性说明为 hedge，未断言具体事实；遗漏明立国前两年/溪畔草堂象征只扣分。"
+}

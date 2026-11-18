@@ -1,0 +1,40 @@
+{
+ "id": "audit_v0_cma_139824_yixiang",
+ "artwork_id": "cma_139824",
+ "group_id": "cma_139824",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "货郎图题材反映了宋代怎样的市井生活？画面情绪是热闹还是静穆？",
+ "answer": "货郎图题材反映南宋城市商业繁荣与市井生活：走街货郎携百货入巷，儿童围观争购，货担器物即当时日用商品之缩影。本图情绪非静穆，而是热闹中带戏剧张力——孩童以棍石击蛇、货郎急奔护童、弃担不顾，动感强烈。馆方并指出此危难孩童情节或暗喻宁宗九子早夭、无直系男嗣，故热闹之下另有寄托。",
+ "required_facts": [
+  "反映南宋市井商业与儿童生活",
+  "画面情绪热闹，有戏剧性冲突",
+  "馆方称情节或暗喻宁宗九子早夭"
+ ],
+ "accepted_variants": [
+  "市井风俗",
+  "婴戏",
+  "戏剧性"
+ ],
+ "forbidden_claims": [
+  "画面情绪静穆平和，无冲突",
+  "题材纯为文人雅集",
+  "与宁宗子嗣之事毫无关联且馆方未提及"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1963.582",
+   "page": "CMA 馆方页",
+   "quote": "may allude to Ningzong's nine sons who died young"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

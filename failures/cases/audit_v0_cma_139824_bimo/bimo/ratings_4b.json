@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "货物用笔答成粗犷厚重，与必须事实‘细笔精微、器物繁密’相反；担架答成细致，与‘相对简括’不符；虽设色淡雅部分正确，但含禁止性表述（货物粗笔），故判有幻觉且未全命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "设色答出偏淡，但货物与担架的用笔特征完全说反（误称货物粗犷、担架细腻），且遗漏货郎与孩童线条区分。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答提到旭日、群峰与云雾所呈现的壮丽气势，但未命中黄帝求仙得名、朱砂仙药、生日贺礼及早期黄山图等必须事实，并编造水流、瀑布等画面细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未提及黄山、黄帝求仙、朱砂仙药、生日祝寿及早期黄山图等任何必须事实，全为泛泛套话并编造了瀑布湍流等细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

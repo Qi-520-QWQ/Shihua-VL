@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了远山淡墨晕染与留白表现云雾，但未提及长披麻皴、湿点与山顶圆石，也未说明近景墨色浓、远山墨色清淡的对比，部分事实缺失。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中淡墨与留白表现云雾，但完全遗漏长披麻皴、湿点与山顶圆石等核心用笔特征，且未明确指出近浓远淡的墨色对比。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

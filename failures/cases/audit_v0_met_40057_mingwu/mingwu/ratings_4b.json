@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答称渔具简朴、建筑小巧精致、多柳树及江南水乡写实地域风貌，与参考答案“舟船渔具无法确认、屋宇简率棒状、非写实某地”相悖，未命中任何必须事实且含编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，编造了渔网、渔竿及柳树等细节，未能恰当指出舟船细节无法确认，并将非写实的理想化意象误判为写实江南水乡。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

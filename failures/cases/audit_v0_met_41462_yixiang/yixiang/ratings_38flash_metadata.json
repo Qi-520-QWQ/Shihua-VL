@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中松喻坚忍刚毅、元代文人生存隐喻及吴镇隐逸品格等要点，但称吴镇为“遗民”及若干画面、题款细节超出给定依据，构成无依据补充。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了松树冬青寓意、元代政治歧视生存隐喻、梅花道人自号及隐逸坚贞品格，但遗漏了吴镇‘隐居浙江山中’这一具体背景细节。"
+ },
+ "adjudicated": true,
+ "basis": "分判：strict 上 rater_b 正确（“吴镇隐居浙江山中”未命中，答案只称“遗民隐士”）；hallu 上 rater_a 正确（称吴镇为“遗民”并断言款题“元统三年冬十一月”，均为参考答案不支持的具体历史/题款断言）。"
+}

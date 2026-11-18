@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中远山淡墨，但误称流水以较深墨色勾勒、人物用笔细腻刻画，与留白代水及人物用笔简略不符。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中远山用淡墨，错误断言流水用较深墨色勾勒（实为留白）及人物用笔细腻（实为用笔简略），遗漏了红袍与近岸树石浓墨等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

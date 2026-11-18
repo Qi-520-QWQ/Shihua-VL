@@ -1,0 +1,40 @@
+{
+ "id": "audit_v0_met_35989_bimo",
+ "artwork_id": "met_35989",
+ "group_id": "met_35989",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "山石的皴法与人物的用笔有何区别？画面留白起什么作用？",
+ "answer": "馆方称，用以表现岩石与山面的绳状、层叠笔触令人想起十四世纪画家王蒙；人物则以极简细笔点出，仅红色衣袍醒目，二者用笔粗细繁简对比明显。画面为金笺设色，留白处即金地本色，用以分隔山石、松枝与远水，使景物疏密有致、气息通透，并突出红衣人物。",
+ "required_facts": [
+  "山石用绳状层叠笔触，令人想起王蒙",
+  "人物以极简细笔点出、仅红袍醒目",
+  "本幅为金笺设色",
+  "留白为金地本色，用于分隔景物"
+ ],
+ "accepted_variants": [
+  "绳状笔触即 ropy brushstrokes",
+  "金笺留白即绢素底色"
+ ],
+ "forbidden_claims": [
+  "断言本幅确为王蒙所作",
+  "声称留白处为纸绢白地而非金笺",
+  "编造具体皴法名称如披麻皴为馆方所述"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/35989",
+   "page": "Met/CMA 馆方页",
+   "quote": "The ropy, layered brushstrokes used to texture the rock and mountain surfaces call to mind the fourteenth-century painter Wang Meng."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答仅泛泛提到文人隐士与大石小人的比例，未命中红衣士人、茅亭在巨松下、人物极小且红色醒目等关键事实，且出现自创的'比例失调''服饰细节不明确'等推测，属编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "识别出文人隐士、茅亭环境及山大物小表现自然中人的渺小，但遗漏了“红衣”、“红色醒目”、“巨松”等核心视觉事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“比例失调”“服饰细节不明确”为笼统推测与不确定性 hedge，未断言具体历史人物/神仙、未称人物为画面主体；遗漏红衣/巨松等事实只扣 strict。"
+}

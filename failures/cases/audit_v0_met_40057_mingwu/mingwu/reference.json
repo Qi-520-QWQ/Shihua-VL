@@ -1,0 +1,35 @@
+{
+ "answer": "本图渔船渔具极小不显著，视觉笔记明确无法确认舟船细节，不宜编造。建筑为简率棒状屋宇，散布中右树丛间，配以正面图式化山树，取平面地图式布置。馆方称此乃李结想象中退休居所，刻意以古拙手法呈现，青绿设色与俯视地表直接呼应王维《辋川图》，故所指向者非写实某地风貌，而是江南文人理想化的隐逸山水意象。",
+ "required_facts": [
+  "渔船渔具在画面中极小、不显著，无法确认细节",
+  "屋宇为简率棒状建筑，位于中右树丛间",
+  "山树为正面图式化、地图式构图",
+  "馆方称此为李结想象中退休居所",
+  "风格上溯王维《辋川图》"
+ ],
+ "forbidden_claims": [
+  "细致描绘了渔翁撒网、舟中垂钓等具体渔事",
+  "写实再现西塞山真实地貌",
+  "建筑为界画楼阁"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/40057",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-15820-005_crd.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/40057",
+  "sha256": "fda5a03d062eedce83bc63f1f5ea0c97da43ed0294ef9bd1d2d77838a9d4bac6"
+ },
+ "catalogue": {
+  "title": "Fisherman's Lodge At Mount Xisai",
+  "attribution_verbatim": "Li Jie",
+  "date_verbatim": "ca. 1170",
+  "period_verbatim": "Southern Song dynasty (1127–1279)",
+  "medium": "Handscroll; ink and color on silk",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "1989.363.10a, b",
+  "credit_line": "Bequest of John M. Crawford Jr., 1988"
+ }
+}

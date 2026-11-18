@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答提到春夏生机、清新氛围，部分接近，但未命中竹叶青绿与雀鸟褐色的具体构成，也未明确竹喻君子高洁，且将意境归于风雅与人与自然和谐，与参考答案的君子之德、生机天趣有偏差，故未全对。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了春夏生机盎然的氛围与天趣，但遗漏了画面安谧色彩小景的描写，且完全遗漏了画论中竹喻君子高洁的核心寓意。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

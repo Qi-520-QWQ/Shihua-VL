@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅读出「丁卯夏日」，未命中题款自称赵氏文淑（文俶）、馆方著录为佚名仿赵文俶及笔法欠精疑为后人仿作等事实；虽无禁止断言，但关键信息缺失且未给出年代判定。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅识别出“丁卯夏日”，完全遗漏了题款中的作者“赵氏文淑”、具体年份1627年以及馆方定为后人仿作等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

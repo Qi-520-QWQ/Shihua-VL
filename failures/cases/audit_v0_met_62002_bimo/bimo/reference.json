@@ -1,0 +1,35 @@
+{
+ "answer": "此图为绢本设色贴金，工笔精细，矿物颜料厚重浓艳，用石青、石绿、朱红与金色，设色华丽而不失层次。衣纹与面部刻画工致，线条细密，属宫廷作坊的高水平制作。金色的作用是多重的：右上方以金字书写题识“監門關聖帝君”以标明神格身份；画面金色光线与贴金点缀强化神圣氛围，并衬托关羽头后的光晕，突出其关帝圣君的尊贵地位。",
+ "required_facts": [
+  "绢本设色贴金，工笔精细",
+  "使用石青、石绿、朱红等矿物颜料",
+  "金色用于右上题识写字",
+  "金色营造神圣氛围、衬托光晕"
+ ],
+ "forbidden_claims": [
+  "称此画为水墨写意",
+  "称金色仅为装饰而无标识作用",
+  "称颜料为植物颜料或淡彩渲染",
+  "断言题识文字内容与馆方所述不符"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/62002",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-18070-024.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/62002",
+  "sha256": "54656a0178933292195b922f54c9f2ecea5d88368d8be2bf123544a72d05fc31"
+ },
+ "catalogue": {
+  "title": "Guan Yu",
+  "attribution_verbatim": "Unidentified artist",
+  "date_verbatim": "ca. 1700",
+  "period_verbatim": "Qing dynasty (1644–1911)",
+  "medium": "Hanging scroll; ink, color, and gold on silk",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "2001.442",
+  "credit_line": "Purchase, The B. Y. Lam Fund and Friends of Asian Art Gifts, in honor of Douglas Dillon, 2001"
+ }
+}

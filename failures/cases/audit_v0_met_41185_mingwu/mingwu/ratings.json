@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答将中景建筑说成宫观寺院建筑群，属禁止断言；且把松树归为李郭派而非董巨/江南文人书斋传统，仅部分命中茅屋临溪、松轩、米点等事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答命中前景草堂/松轩及文人书斋山水传统，但虚构了中景山间存在宫观/寺院建筑群，触犯禁止断言（称建筑为宏伟楼阁或寺院），且将松树传统错误定为李郭派。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

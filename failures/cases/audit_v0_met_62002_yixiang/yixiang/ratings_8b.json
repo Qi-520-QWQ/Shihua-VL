@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅提到勇武忠诚，未命中道教神系、封帝、清代守护神、水陆法会护法等功能性事实，未点明关羽；虽承认无法确定人物，但仅命中部分象征意义，故partial=1。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅命中了象征忠诚与勇武的事实，未能识别出关羽及道教神系、关帝封号、清代信仰和水陆法会护法功能等核心考据内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

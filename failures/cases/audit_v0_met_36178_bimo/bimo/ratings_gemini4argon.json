@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "设色错误判为清冷淡雅，与参考答案的浓丽相悖，且松针、鹰羽等用笔描述有编造性差异，未命中全部必须事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "设色风格断言为清冷淡雅与参考答案偏浓丽相悖，且遗漏松干枯笔勾皴、松针带绿等核心事实，鹰羽描绘偏向写意粗放而非工整细致。"
+  }
+}

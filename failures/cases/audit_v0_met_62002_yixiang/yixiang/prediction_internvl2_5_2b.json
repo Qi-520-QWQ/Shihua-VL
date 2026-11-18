@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_62002_yixiang",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "这幅画描绘的是文成公主，她在中国文化中被视为联结不同民族的桥梁。她被描绘成一位身穿华丽服饰、手持象征和平的权杖的女性形象，背景是象征和平与繁荣的云朵。"
+}

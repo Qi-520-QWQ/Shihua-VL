@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "位置描述过于笼统且把松说成在左侧，未命中松干自左下盘旋而上居中部等关键细节；将四者组合误称为“四君子”（松梅竹兰）并引入竹兰，属编造事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "方位描述较为粗略且遗漏细节，同时错误将鹰松梅石编造关联为“四君子（松竹梅兰）”，存在严重事实幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

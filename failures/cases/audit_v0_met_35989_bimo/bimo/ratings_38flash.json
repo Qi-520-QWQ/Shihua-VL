@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中绳状层叠笔触令人想起王蒙、极简细笔仅红袍醒目、金笺设色、留白为金地本色分隔景物等必须事实，且编造披麻皴为画面依据并称留白为纸绢白地式空间表现，属禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及山石的绳状层叠笔触及王蒙风格，编造了披麻皴及大量未支持的画面细节，未点明留白为金地本色用于分隔景物，仅部分命中人物细笔红袍与金笺材质。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,34 @@
+{
+ "answer": "秦淮河自六朝以来即为咏史怀古的典型题材，文学与绘画中常借其旧迹寄托朝代兴亡、盛衰无常之感。本图并不表现繁华：画面只一危崖、一孤舟、一微小人物与一枝枯梅，人物仰视巨崖如面对压顶的历史，气氛萧索而含敬畏。馆方亦以「压倒性的历史」解读此崖，正与怀古的苍凉情绪相合，而非描绘市井喧闹。",
+ "required_facts": [
+  "秦淮题材常寄托朝代兴亡盛衰之感",
+  "本图不表现繁华而偏萧索",
+  "画面仅危崖孤舟微小人物与枯梅",
+  "人物仰视巨崖如面对压倒性的历史"
+ ],
+ "forbidden_claims": [
+  "本图描绘秦淮繁华热闹的市井景象",
+  "画面表现歌舞宴饮或灯船画舫",
+  "本图纯为无情感寄托的山水写生"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1966.31.8",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1966.31.8/1966.31.8_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1966.31.8",
+  "sha256": "f309cb15a70329cfaf31aa16a35fff55df580beb87080eba4243a8b655affc8e"
+ },
+ "catalogue": {
+  "title": "Reminiscences of Qinhuai River",
+  "attribution_verbatim": "Reminiscences of Qinhuai River (秦淮憶舊圖冊), 1642–1707",
+  "date_verbatim": "1642–1707",
+  "period_verbatim": "China, Qing dynasty (1644-1911)",
+  "medium": "Album leaf; ink and color on Song paper",
+  "classification": "ASIAN - Album leaf",
+  "object_name": "Painting",
+  "accession_number": "1966.31.8",
+  "credit_line": ""
+ }
+}

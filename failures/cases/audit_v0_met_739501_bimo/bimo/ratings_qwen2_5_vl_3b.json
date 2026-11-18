@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中衣纹线条流畅、人物设色淡雅，但称莲叶设色浓重、对比鲜明，违背莲叶淡青绿及整体设色淡雅的参考内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了衣纹线条流畅和人物设色淡雅，但遗漏了莲花设色，且错误断言莲叶设色浓重，违背了花叶淡彩、整体设色淡雅的事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

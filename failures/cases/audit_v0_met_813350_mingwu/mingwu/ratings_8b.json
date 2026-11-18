@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中竹子被风吹动与竹叶朝向一致两项，但遗漏竹竿竹叶整体同向倾倒及瀑布悬崖背景，未达全部必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了竹子受风吹及竹叶朝向一致倾斜，但完全遗漏了背景有瀑布与悬崖等必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

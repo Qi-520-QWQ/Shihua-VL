@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答声称水面为工笔细腻、判断整体为工笔，与参考答案的写意、水面简淡留白完全相反，且出现禁止断言（工笔特点、工笔设色），未命中任何必须事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答将写意误判为工笔，编造水面细腻线条及人物建筑浓重设色，完全违背参考事实，存在严重幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

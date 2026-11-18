@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中绳状层叠笔触令人想起王蒙这一关键事实，且编造了披麻皴、高古游丝描等具体皴法名称，并断言作者归属；虽提到金笺和人物红袍极简细笔，但留白作用表述偏离参考答案。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "未命中王蒙及绳状层叠笔触这一核心事实，且自行编造了披麻皴、游丝描及吴门画派落款等参考答案不支持的考据信息。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

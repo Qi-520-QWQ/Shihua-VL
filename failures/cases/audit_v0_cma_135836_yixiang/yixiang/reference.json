@@ -1,0 +1,36 @@
+{
+ "answer": "云雾掩映中的溪畔山寺，把宗教处所置于崇山深谷、烟云明灭之间，营造出远离尘嚣、清寂幽深的出世意境，与巨然身为僧人、承续江南山水传统的背景相合。画面上部大面积留白既表现云雾与天空，使巍峨山体显得高远空灵，又让全幅虚实相生、气息流通，突出北宋纪念碑式山水的崇高感，并引导观者视线自下部溪流、树丛与山寺逐层上移。",
+ "required_facts": [
+  "山寺处于云雾掩映、远离尘嚣的深山环境",
+  "画面传达清寂幽深的出世意境",
+  "上部大面积留白表现云雾与天空",
+  "留白使山体高远空灵、虚实相生",
+  "留白引导视线自下而上"
+ ],
+ "forbidden_claims": [
+  "断言留白处绘有具体云纹或天空着色",
+  "称画中有明确可辨的人物活动场景",
+  "把留白解释为画面未完成或破损",
+  "编造题跋、印章内容以佐证意境"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1959.348",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1959.348/1959.348_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1959.348",
+  "sha256": "da04ddf6fd342b268d2ecadd16a4bd30e8aa8fbcf396e370a77b07a22e068217"
+ },
+ "catalogue": {
+  "title": "Buddhist Retreat by Stream and Mountains",
+  "attribution_verbatim": "Buddhist Retreat by Stream and Mountains (溪山蘭若圖), 960–85",
+  "date_verbatim": "960–85",
+  "period_verbatim": "China, Northern Song dynasty (960–1127)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1959.348",
+  "credit_line": ""
+ }
+}

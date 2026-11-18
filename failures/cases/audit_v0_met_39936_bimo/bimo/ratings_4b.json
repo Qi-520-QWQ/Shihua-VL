@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只笼统提到淡绿棕色、线条细腻，未点明绢本设色、鸟身褐色、鸟眼点漆、写实院体风格等必须事实，故未全中，仅部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了鸟羽细密及大致色调，但遗漏了绢本设色、院体花鸟风格及标志性的鸟眼点漆等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

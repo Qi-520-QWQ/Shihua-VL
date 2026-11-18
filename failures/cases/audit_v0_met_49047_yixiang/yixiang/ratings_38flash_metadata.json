@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中萱草忘忧宜男、兰高洁、湖石长寿坚固及蝶谐耋寓长寿，但将画面判为清雅淡逸，违反禁止断言；另有若干参考答案未支持的附加说法。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中了四种意象的寓意，但画面气息断言为清雅淡逸而非浓艳，触发禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

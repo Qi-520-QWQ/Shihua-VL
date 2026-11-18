@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中淡青绿、远山轮廓简率、大片留白水面及底部点状水草、人物极小等部分事实，但虚构了多项画面细节，并断言人物以白描或极细浓墨用笔、与山水用笔有区别，违反禁止断言；未恰当承认人物用笔无法确认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了远山图式化、近水留白与点状水草等事实，但对人物用笔进行了臆断并称其为数笔白描，触碰禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

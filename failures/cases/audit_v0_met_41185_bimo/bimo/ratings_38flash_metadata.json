@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中淡墨晕染、边界柔和及松针工致成簇点写等要点，但未明确指出工放对照，并添加米点皴、留白及树木细节等参考答案不支持的说法。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答准确阐述了淡墨晕染交融与松针工致成簇的特征，但遗漏了松针与山石云气形成‘工与放的对照’这一必须事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答将山体皴法确指为“米点皴（米家墨点）”并称松针为“车轮状”，均为参考答案不支持的具体技法/形态断言；遗漏馆方“含蓄墨染与淡彩”评价与工放对照只扣 strict。"
+}

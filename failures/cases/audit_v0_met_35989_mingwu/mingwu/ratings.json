@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答命中红衣士人、茅亭、巨松、人物极小及山石宏大比例关系，但加入题款为陈洪绶、书案器物、盘腿蒲团等参考答案不支持的细节，属编造事实，故strict_hit不成立且记幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "核心事实均已命中且未触发禁止断言，但编造了陈洪绶题款内容、室内书案等参考答案未支持的细节，判定有幻觉。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

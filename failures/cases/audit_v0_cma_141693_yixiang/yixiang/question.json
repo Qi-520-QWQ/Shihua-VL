@@ -1,0 +1,41 @@
+{
+ "id": "audit_v0_cma_141693_yixiang",
+ "artwork_id": "cma_141693",
+ "group_id": "cma_141693",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "旭日初升于群峰之间的画面传达了怎样的气势与境界？",
+ "answer": "旭日初升于群峰之间的意象传达出黄山高峻幽深、云海翻涌的磅礴气势，兼有清晨初启的清朗与神秘。黄山以传说中黄帝访道求仙得名，深红点染又暗喻朱砂仙药，故画面在壮阔之外含长生祝寿之意——此轴即为生日贺礼。丁云鹏为安徽画家，此图属最早的黄山图之一，晚明以前黄山因难攀而少入画，步道修筑后方成画家题材。",
+ "required_facts": [
+  "黄山因黄帝求仙传说得名",
+  "深红喻朱砂仙药",
+  "此轴为生日贺礼",
+  "属最早黄山图之一"
+ ],
+ "accepted_variants": [
+  "祝寿寓意",
+  "长生久视之意",
+  "黄山图早期代表作"
+ ],
+ "forbidden_claims": [
+  "此图为送别之作",
+  "黄山自唐宋即为画家常绘题材",
+  "画面表现的是夜景"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1965.28",
+   "page": "Met/CMA 馆方页",
+   "quote": "A birthday gift, this scroll by Ding Yunpeng from Anhui is among the earliest paintings of Mount Huang"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

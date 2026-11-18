@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答虽提及舟船简略难辨，但编造了木制、渔网渔具、瓦顶、松柏及江南水乡写实风貌，未命中棒状屋宇、地图式构图、李结想象居所及辋川图等核心事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中李结、王维《辋川图》、棒状建筑及地图式构图等核心考据事实，且自行编造了瓦顶房屋、松柏树木及写实江南水乡风貌。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

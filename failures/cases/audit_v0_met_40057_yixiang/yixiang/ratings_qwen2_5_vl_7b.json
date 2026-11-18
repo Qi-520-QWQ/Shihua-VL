@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出渔父象征隐逸，但将本图氛围断言为苍茫，违反禁止断言，且未提及李结预想退休居所及古淡闲远的氛围。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了渔父象征隐逸，但遗漏了李结预想退休居所的背景，且触犯了禁止断言将氛围判定为苍茫。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

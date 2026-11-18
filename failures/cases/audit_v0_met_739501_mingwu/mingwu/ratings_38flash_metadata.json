@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中人物身份、倚石坐持团扇、面向右侧观莲及莲花右下并生于右缘树干脚下等必需事实；但补充了参考答案不支持的题款、年代、地点等具体断言，故有编造信息。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完全命中所有必须事实，包含人物身份、持扇倚石动作、面向右侧观莲及莲花在右下树干旁的方位，无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言题款全文“濂溪清赏。丙申菊秋中浣，子万陆鹏作于寒碧轩”及作画时间“1896年深秋”、地点“寒碧轩”，均为参考答案不支持的具体可核查断言（同 41185_yixiang 判例）；五项必需事实均命中，故 strict=1。"
+}

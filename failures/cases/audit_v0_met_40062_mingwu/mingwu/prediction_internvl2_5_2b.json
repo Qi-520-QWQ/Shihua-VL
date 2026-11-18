@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40062_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中松树下的建筑是亭子，画面中山石与树木的组合指向了魏晋南北朝时期的山水风格。"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽提到高洁品格，但将赏莲人物误说为陶渊明，并编造其爱莲、隐居的说法，未命中周敦颐及《爱莲说》等必需事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "误将赏莲人物判断为陶渊明，触发禁止断言，未命中周敦颐及《爱莲说》等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

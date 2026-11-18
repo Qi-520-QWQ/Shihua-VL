@@ -1,0 +1,35 @@
+{
+ "answer": "此组合属传统吉祥与文人题材：萱草（谖草）常喻忘忧、宜男，并与母亲、北堂相关联；兰象征君子幽芳、高洁；湖石寓意长寿与坚固，常与花木构成「寿石」图式；蝴蝶谐音「耋」，寓长寿，也点出花香引蝶的生趣。整体气息偏浓艳而非清雅：红橙萱花饱和醒目，与灰黑湖石、淡绿兰叶对比强烈，装饰意味重于文人写意的淡逸，这也与馆方所说笔法欠精、近于后仿的评断相合。",
+ "required_facts": [
+  "萱草寓忘忧、宜男",
+  "兰象征君子高洁",
+  "湖石寓长寿坚固",
+  "蝴蝶谐音耋、寓长寿",
+  "画面气息偏浓艳"
+ ],
+ "forbidden_claims": [
+  "称画面整体气息清雅淡逸",
+  "断言题跋中明确写出上述寓意",
+  "把萱草说成牡丹或芍药"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/49047",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-35899-002.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/49047",
+  "sha256": "12a6b36bf16bc1e1375366f59b3e0baa4c6cf2720df71ce1b34854a30dede3ed"
+ },
+ "catalogue": {
+  "title": "Rock, Tiger Lily and Orchid",
+  "attribution_verbatim": "Unidentified",
+  "date_verbatim": "dated 1627",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Hanging scroll; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1989.363.125",
+  "credit_line": ""
+ }
+}

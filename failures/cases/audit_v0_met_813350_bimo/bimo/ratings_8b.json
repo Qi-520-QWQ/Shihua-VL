@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅命中墨色浓淡与以墨色表现风势等部分事实，但未提及纸本水墨、浓墨撇叶、笔锋凌厉、竹竿弯曲不折等关键事实，且用笔描述偏向轻盈流畅，与参考答案的迅疾有力有偏差。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "遗漏了纸本水墨、浓墨撇出笔锋凌厉、墨色浓重及竹竿弯曲而不折等核心事实，用笔特点描述与参考答案相悖且充斥套话。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

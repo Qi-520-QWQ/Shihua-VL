@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中竹叶浓墨及墨色不一致，但未提叶形尖利、草书流利盘绕，且称书法墨色均匀，缺少其余偏淡这一事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答指出了竹叶墨浓及画字墨色不一致，但遗漏了竹叶尖利如撇捺出锋、草书线条盘绕使转，且未指明书法墨色偏淡与竹叶形成浓淡对比。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“书法墨色均匀”指字内均匀，答案本身亦称画字墨色不一致，未否定参考答案“竹浓字淡”的不一致；属表述含糊而非矛盾断言；遗漏叶形尖利/草书盘绕只扣分。"
+}

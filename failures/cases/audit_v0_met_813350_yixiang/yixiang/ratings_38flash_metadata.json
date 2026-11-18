@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中全部必需事实且未作禁止断言，但添加了画面细节、作者杨涵及作品年代等参考答案不支持的信息。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完整命中了风竹品格、弯而不折的柔性抵抗、遗民情怀背景及刚劲情绪等全部核心事实，无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言作者为“杨涵（Yang Han）”及作品作于“清康熙二十五年（1686年）”，均为参考答案不支持的具体可核查断言（同 739501 判例）；四项必需事实均命中，故 strict=1。"
+}

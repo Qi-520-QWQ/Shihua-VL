@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "编造山顶红色光晕及建筑屋顶、屋檐装饰和布局，且未承认建筑无法辨认；未命中留白淡设色、尖峭山峰、旋涡云气及松林溪流等事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未指出画面中无明确建筑及日轮，反而臆造了屋顶翘角等建筑形制细节，存在严重幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

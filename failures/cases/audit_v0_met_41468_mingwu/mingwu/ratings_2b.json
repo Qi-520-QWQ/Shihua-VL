@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "回答仅笼统提到衣着简朴、舟小、钓具简单，未命中独坐船尾、戴帽深色袍、篷盖、一竿或篙等关键事实，且编造“渔网服装”，也未说明断代依据馆方著录与自题诗。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "编造了‘渔网服装’，且遗漏了戴帽着深色袍、篷盖、竿篙细节以及以吴镇自题诗和馆方著录为断代依据等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

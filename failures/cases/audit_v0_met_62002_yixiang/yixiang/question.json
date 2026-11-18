@@ -1,0 +1,54 @@
+{
+ "id": "audit_v0_met_62002_yixiang",
+ "artwork_id": "met_62002",
+ "group_id": "met_62002",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "这位历史人物的形象在中国文化中被赋予了何种象征意义？",
+ "answer": "关羽以勇武忠义著称，身后被纳入道教神系，明万历年间被封为帝，自此称关帝，清代更被满洲统治者奉为近乎守护神，各地广建祠庙。因此其形象象征忠义、勇武、信义与护佑，兼具国家祭祀与民间信仰的双重意义。此图出自“水陆”法会所用宗教图像一套，关羽在其中承担镇护、护法的角色，体现其作为道教神灵的护佑功能。",
+ "required_facts": [
+  "象征忠义勇武",
+  "被纳入道教神系",
+  "万历年间封帝、称关帝",
+  "清代被奉为近乎守护神并广建祠庙",
+  "此图用于水陆法会，具护法护佑功能"
+ ],
+ "accepted_variants": [
+  "忠义仁勇",
+  "关帝信仰",
+  "护法神",
+  "武圣"
+ ],
+ "forbidden_claims": [
+  "称关羽仅为文学虚构人物",
+  "称其象征意义与忠义无关",
+  "称此图用于文人雅集或纯装饰用途",
+  "断言关羽在道教神系中为最高主神"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/62002",
+   "page": "Met 馆方页",
+   "quote": "renowned for his valor and faithfulness, was later venerated as a saint in the Daoist pantheon"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/62002",
+   "page": "Met 馆方页",
+   "quote": "served as a virtual patron saint of the Manchu rulers of the Qing dynasty, who erected numerous shrines in his honor throughout China"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/62002",
+   "page": "Met 馆方页",
+   "quote": "comes from a set of religious images used in 'water and land' (shuilu) rituals"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

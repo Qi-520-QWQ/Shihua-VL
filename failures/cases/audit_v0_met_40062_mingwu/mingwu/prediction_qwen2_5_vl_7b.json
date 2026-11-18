@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_40062_mingwu",
+ "model": "Qwen2.5-VL-7B (4bit) (T4, 4bit, max_num=1280, transformers 4.49.0)",
+ "answer": "画面中松树下的建筑是亭子形制。画面中山石与树木的组合指向宋元时期的山水样式。"
+}

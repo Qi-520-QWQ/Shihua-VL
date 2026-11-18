@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中南宋市井商业与儿童生活及热闹情绪，但完全未提馆方九子早夭暗喻，且将画面描述为无冲突的纯热闹，遗漏戏剧性冲突情节，故未全中且不完整。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答了市井商业与热闹情绪，但遗漏了画面中的戏剧性冲突细节以及馆方所提暗喻宁宗九子早夭的核心考据点。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：回答只泛泛谈热闹、遗漏戏剧冲突与九子早夭暗喻，属遗漏而非断言；未称画面静穆、无冲突，未触禁止断言，不计幻觉。"
+}

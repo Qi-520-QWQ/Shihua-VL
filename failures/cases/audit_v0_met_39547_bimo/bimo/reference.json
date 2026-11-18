@@ -1,0 +1,36 @@
+{
+ "answer": "题干提及兰叶，但本幅无兰，故只论竹叶与石。竹叶被简化为书法化的程式：重复而图案化的叶簇，用笔肯定、成组排布；石块则以源自董源、巨然的皴笔与点苔写成，笔触夸张而具个性，质感强烈。至于老树，虬曲枯干、枝叶下垂。墨色上竹叶较浓而齐整，石面皴点浓淡相间以见体积，枯木用笔苍劲，整体在浓淡干湿间过渡，而非平涂一色。",
+ "required_facts": [
+  "本幅无兰叶可述",
+  "竹叶为书法化、重复图案化的叶簇",
+  "石块皴笔与点苔源自董源、巨然",
+  "石块皴点笔触夸张成习气",
+  "墨色浓淡相间而非平涂"
+ ],
+ "forbidden_claims": [
+  "兰叶用笔如何如何",
+  "竹叶为双钩填色",
+  "石块无皴笔仅平涂",
+  "全幅墨色均匀一色"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/39547",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP235590.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/39547",
+  "sha256": "a93ce71b03dbd6ac53ea56a55a84b3e08014fb961fd0c065891176cd52a1a82d"
+ },
+ "catalogue": {
+  "title": "Bamboo, old tree, and rock",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "dated 1338",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Hanging scroll; ink on silk",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "2012.526.1",
+  "credit_line": "Ex coll.: C. C. Wang Family, Gift of Oscar L. Tang Family, 2012"
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "id": "audit_v0_met_62002_bimo",
+ "artwork_id": "met_62002",
+ "group_id": "met_62002",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "人物衣纹与面部的用笔、设色有何特点？金色在画面中起什么作用？",
+ "answer": "此图为绢本设色贴金，工笔精细，矿物颜料厚重浓艳，用石青、石绿、朱红与金色，设色华丽而不失层次。衣纹与面部刻画工致，线条细密，属宫廷作坊的高水平制作。金色的作用是多重的：右上方以金字书写题识“監門關聖帝君”以标明神格身份；画面金色光线与贴金点缀强化神圣氛围，并衬托关羽头后的光晕，突出其关帝圣君的尊贵地位。",
+ "required_facts": [
+  "绢本设色贴金，工笔精细",
+  "使用石青、石绿、朱红等矿物颜料",
+  "金色用于右上题识写字",
+  "金色营造神圣氛围、衬托光晕"
+ ],
+ "accepted_variants": [
+  "工笔重彩",
+  "矿物颜料浓艳",
+  "金彩/泥金",
+  "贴金装饰"
+ ],
+ "forbidden_claims": [
+  "称此画为水墨写意",
+  "称金色仅为装饰而无标识作用",
+  "称颜料为植物颜料或淡彩渲染",
+  "断言题识文字内容与馆方所述不符"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/62002",
+   "page": "Met 馆方页",
+   "quote": "distinguished by its high level of craftsmanship, intricate detail, and lavish use of mineral pigments"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/62002",
+   "page": "Met 馆方页",
+   "quote": "identified by an inscription written in gold in the upper right"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

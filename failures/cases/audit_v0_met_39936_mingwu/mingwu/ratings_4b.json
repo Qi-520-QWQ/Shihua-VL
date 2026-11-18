@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中'两只禽鸟'及左右栖竹枝的部分，但缺少'相向而立''竹自右侧石壁生出向左伸展'等事实，且将传统误判为文人画，与参考答案的宋代院体写实花鸟传统相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中禽鸟数量与栖于竹枝，两鸟具体位置与朝向不详，漏答竹子生长形态，并将宋代院体写实风格误判为文人画传统。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答仅泛泛提到缰绳、马鞍与唐代，未命中花斑白面黑鬃、红缨、毛皮边帽、粉红长袍、胡人特征及明代风格等关键事实，且断言指向唐代并编造马鞍，属禁止断言/幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何具体服饰与马具细节，且错误声称这些细节指向唐代，违背馆方定为16世纪明代的考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

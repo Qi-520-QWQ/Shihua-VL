@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出清雅及高洁坚韧等品格，但误称本幅有兰花，未指出其为枯木竹石，也未提及枯木寓意、吴镇晚年专精画竹及水墨绢本。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未纠正画面并无兰花的前提，触发了禁止断言，且遗漏枯木竹石题材及吴镇等关键事实，仅答对气息清雅。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

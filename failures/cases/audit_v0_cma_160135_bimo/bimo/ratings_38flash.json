@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中远山淡墨、江面留白、近景浓墨、红衣人物等要点，但把人物说成工致细笔白描而非简略，并编造细线勾船、披麻皴、苔点等画面依据，与参考答案'人物用笔简括'相悖且含禁止的工笔刻画倾向。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "基本命中江面留白、近浓远淡、红袍突出及人物山水笔法差异等要点，但遗漏了远山在上半对岸的空间定位，且补充了披麻皴、淡赭微染等参考答案未支持的细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

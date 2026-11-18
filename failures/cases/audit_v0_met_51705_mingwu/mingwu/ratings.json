@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中花马、红缨、毛皮帽与粉红袍、胡人特征等大部分事实，但未明确馆方十六世纪明代风格、八世纪唐马母本这一关键定论，反而以唐代/宋元为主要结论；且编造'韩干圉人呈马'题签与乾隆御题诗，属禁止断言式编造。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽然答出了胡人特征、毛皮边帽与红缨等细节，但遗漏了白面黑鬃，未准确指出馆方定为十六世纪明代风格与八世纪唐马母本，且编造了画幅上的题跋文字，触发了禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

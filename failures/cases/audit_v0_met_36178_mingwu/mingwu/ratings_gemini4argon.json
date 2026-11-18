@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "鹰、松、梅、石的位置基本正确，但含义只部分命中；'鹰回首向右'和'英雄独立'缺少参考答案支持，属于编造事实和禁止断言情形，因此 strict_hit 不成立。"
+  },
+  "rater_b": {
+    "strict_hit": 1,
+    "partial": 2,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "准确答出了鹰、松、梅、石四者的画面位置及岁寒坚韧等传统组合寓意，无禁止断言。"
+  }
+}

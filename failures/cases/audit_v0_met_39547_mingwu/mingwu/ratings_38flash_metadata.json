@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中枯木竹石题材及部分位置描述，但错误断言画面有兰花，并称其为竹石兰组合；也未准确说明左侧中部竹叶、右上老树及十一世纪文人画家确立典范。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触犯禁止断言，坚称画面中有兰花并指认其具体分布位置，未命中画面无兰花的核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

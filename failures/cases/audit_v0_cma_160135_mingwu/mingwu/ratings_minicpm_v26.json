@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "指出地域为江南，但未命中两岸分江、留白江面、渔船与短竿等具体事实；称钓具描绘细致且居所隐于山水之间，均无参考依据，且与钓具细节难辨相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中山水指向江南，关于两岸分江构图、篷船红袍渔人、短竿及两舟等具体事实均未提及，并虚构了居所与细致钓具等空泛内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

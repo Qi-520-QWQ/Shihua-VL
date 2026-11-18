@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中全部必须事实（工笔重彩/矿物颜料/金色题识/神圣氛围与光晕），无禁止断言；但未提及绢本贴金材质，且金饰用法的描述有少量超出参考答案的细节，属小缺失。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了工笔、石青石绿朱红矿物颜料及金色烘托神圣感与光晕，但遗漏了金色用于右上题识书写以标明神格身份这一关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：金色用于右上题识书写金字未命中（仅言榜题边框描金），strict须全中故为0；无幻觉"
+}

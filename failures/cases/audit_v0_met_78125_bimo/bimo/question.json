@@ -1,0 +1,39 @@
+{
+ "id": "audit_v0_met_78125_bimo",
+ "artwork_id": "met_78125",
+ "group_id": "met_78125",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "竹叶的用笔与书法线条有何异同？墨色在画与字之间是否一致？",
+ "answer": "竹叶以浓墨写出，叶形尖利如剑，用笔迅疾爽利，近似书法中的撇捺出锋；竹竿细而劲挺，笔画连贯。草书线条流利盘绕、转折圆转，讲究使转连绵，与竹叶的尖利出锋在用笔节奏上相通而形态不同。墨色方面并不一致：竹叶浓黑，竹竿、题识与草书文字皆偏淡，形成浓淡对比，而非通篇一色。",
+ "required_facts": [
+  "竹叶用浓墨，叶形尖利",
+  "草书线条流利盘绕",
+  "墨色不一致，竹叶浓黑而其余偏淡"
+ ],
+ "accepted_variants": [
+  "浓墨竹叶与淡墨书法对照",
+  "书画用笔同源而形态有别"
+ ],
+ "forbidden_claims": [
+  "全图墨色均匀一致",
+  "竹叶用淡墨、书法用浓墨",
+  "竹叶用没骨晕染而无笔锋"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/78125",
+   "page": "Met/CMA 馆方页",
+   "quote": "his distinctive cursive script, which is marked by fluid, twisting lines"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

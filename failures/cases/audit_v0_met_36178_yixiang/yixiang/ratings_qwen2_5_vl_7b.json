@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中鹰的勇猛力量及松梅坚韧寓意，但未提清末猛禽题材流行、松耐岁寒、梅报春先及振作自强、迎春复新的期许，并补充参考答案不支持的长寿、智慧等象征。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答仅泛论了松梅鹰的一般坚韧意象，遗漏了清末猛禽题材流行背景、梅报春先以及振作自强、迎春复新的深层期许。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：“松象征长寿”“鹰象征智慧”为通用文化常识性说法，未断言与参考答案矛盾的具体事实（同 4B 41185_yixiang 判例）；遗漏清末猛禽题材流行/松耐岁寒/梅报春先/振作自强迎春复新只扣分。"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_met_739501_mingwu",
+ "model": "InternVL2.5-4B (bf16) (T4, bf16, max_num=12, tokenizer direct from repo)",
+ "answer": "这幅画中的人物是一位文人，他正在欣赏莲花。人物坐在岩石上，手持扇子，似乎在观赏水中的莲花。莲花位于画面的下方，靠近人物的脚边，周围有荷叶点缀。"
+}

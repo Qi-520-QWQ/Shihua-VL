@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答仅泛泛提到孤高不屈与岁寒松柏，未命中元代文人政治歧视隐喻、吴镇隐居及梅花道人自号等关键事实，并编造题赠款识、受画人、顽石荒草等画面细节，属幻觉。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "未命中元代文人政治处境、吴镇隐居浙江及梅花道人等核心事实，且虚构画面顽石荒草及磨损题跋等细节进行不当推诿。"
+  }
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中鹰羽层层晕染、松针攒笔成簇、梅枝用笔及红梅点染等部分事实，但误称整体设色淡雅，且松针墨色浓黑带绿未明确表达。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "设色定性与参考答案相反（判定为淡雅而非偏浓丽），且遗漏松干枯笔勾皴、松针带绿等要点，梅枝误判为没骨法。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答将设色定性为“淡雅”，与参考答案“设色偏浓丽，红梅鲜红”直接矛盾；另称梅枝为“没骨”笔法，与“梅枝以劲挺细笔勾出”不符；遗漏“松干枯笔勾皴、松针带绿”只扣 strict。"
+}

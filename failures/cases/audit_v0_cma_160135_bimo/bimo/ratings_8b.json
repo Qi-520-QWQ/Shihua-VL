@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中江面留白代水、近岸树石浓墨、红袍设色等关键事实，且称流水用淡墨渐变、人物用浓墨粗壮线条与精确刻画，与参考答案及禁止断言相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅泛泛提到远山淡墨，未能命中江面留白代水、近岸树石浓墨及红袍设色等核心事实，且编造流水淡墨渐变与人物精细刻画等相反内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

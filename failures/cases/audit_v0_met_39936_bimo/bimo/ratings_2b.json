@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答只笼统提到工笔和淡雅褐色，未命中绢本设色、竹叶青绿、鸟身褐色、鸟眼点漆等关键事实，且称鸟羽用笔简练有力、线条飘逸，与参考答案‘鸟羽刻画细密’相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "遗漏了绢本设色、竹叶青绿、鸟眼点漆等关键事实，且错误地将鸟羽描述为用笔简练（与参考答案中刻画细密相反）。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

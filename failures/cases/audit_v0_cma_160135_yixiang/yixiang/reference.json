@@ -1,0 +1,33 @@
+{
+ "answer": "此图将文人置于江南山水间垂钓，寄托避世隐居、以渔为隐的出世理想：两岸夹江、江面空阔，远山淡墨、留白浩渺，营造远离尘嚣的清远之境；篷船短竿、红袍点景，写渔人悠然自适的江湖生涯。馆方指出赵雍之父赵孟頫等文人喜绘自身作渔人徜徉江南，他们视江南为家园，故渔隐既是归乡之思，也是不慕荣利、寄情山水的人格自许。",
+ "required_facts": [
+  "寄托避世隐居、渔隐出世的理想",
+  "江南被视为文人家园，渔隐含归乡之意",
+  "馆方称赵氏等文人喜绘自身作渔人徜徉江南"
+ ],
+ "forbidden_claims": [
+  "画面表达入仕建功的抱负",
+  "渔人形象象征渔樵耕读中的渔夫劳作之苦",
+  "该图寄托思乡而不得归的悲愤"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1997.93",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1997.93/1997.93_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1997.93",
+  "sha256": "3d783f196f94b05029cbfb058bdc02ee7f3f76a21ca4c34a95795f61e20c4592"
+ },
+ "catalogue": {
+  "title": "Fishermen-Hermits in Stream and Mountain",
+  "attribution_verbatim": "Fishermen-Hermits in Stream and Mountain (溪山漁隱圖), 1300s",
+  "date_verbatim": "1300s",
+  "period_verbatim": "China, Yuan dynasty (1271-1368)",
+  "medium": "Hanging scroll; ink and color on silk",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1997.93",
+  "credit_line": ""
+ }
+}

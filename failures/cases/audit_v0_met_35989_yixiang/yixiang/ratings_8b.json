@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答抓住了和谐共处的大方向，但未命中松象征君子德操、人小山大对比、茅亭栖居等必须事实，且未涉及寄情山林，仅部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答流于空泛，完全遗漏了松树象征君子德操、人小山大的构图对比以及士人坐于茅亭栖居等所有必须命中的考据事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

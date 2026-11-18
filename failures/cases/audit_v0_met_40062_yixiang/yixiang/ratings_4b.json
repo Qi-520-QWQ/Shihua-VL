@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答覆盖幽僻隐居场景、远离尘世、追求自然宁静理想及松石象征坚韧，但未明确茅屋点出栖隐生活，也未点出松象征坚贞与高士品格，属接近全对但有小缺失。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了士人隐逸理想与松树坚韧的意向，但未提及茅屋点出栖隐生活，画面幽僻之境也未详细展开。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

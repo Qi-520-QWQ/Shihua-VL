@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "回答提及渔隐与避世理想，但未命中'江南为文人家园、渔隐含归乡'及馆方关于赵氏文人自绘渔人徜徉江南的关键事实，故未全命中；无禁止断言，且对画面不确定性的说明恰当。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 0,
+    "proper_refusal": 1,
+    "notes": "回答命中了文人避世隐逸、渔隐出世的理想，但遗漏了江南家园与归乡之思，以及馆方提及的赵氏文人将自身绘为渔人等核心事实。"
+  }
+}

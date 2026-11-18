@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中周敦颐、倚石持扇观莲及莲花位于右下、树根附近等事实，但将人物身份说成可能的隐士或高僧，并添加题款、荷叶与莲花细节等参考答案未支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完整命中所有必须事实，准确指明人物为周敦颐、倚石持团扇赏莲，且莲花位于右下方树根脚下，无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "分判：strict 上 rater_b 正确（周敦颐、倚石持团扇、面向右侧莲池、莲花右下树根脚下五项必需事实均命中；“可能泛指隐士或高僧”在不确定性说明中为 hedge）；hallu 上 rater_a 正确（断言左上角题款“濂溪清赏”四字，属无据断言具体可核查的题款内容）。"
+}

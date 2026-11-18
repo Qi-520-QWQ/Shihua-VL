@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到溪畔茅斋及前景数株高松，但又断言存在楼阁或寺观，并将松树归为李郭北方传统，未命中江南文人书斋传统及米点启发。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答触发了禁止断言（将建筑断言为楼阁、殿宇或寺观建筑群），且错误地将松树传统归为北宋李郭派而非董巨/江南文人书斋画传统；虽提及米芾和茅舍，但主体结论严重违背参考标准并有严重幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

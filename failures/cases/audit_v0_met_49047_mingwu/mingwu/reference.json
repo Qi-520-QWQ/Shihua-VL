@@ -1,0 +1,34 @@
+{
+ "answer": "题款大意是「丁卯夏日天水赵氏文淑写」，即自称赵文淑（文俶）在丁卯年（1627）夏日作画。但馆方著录此轴为「仿赵文俶 萱石图」，作者为佚名（Unidentified artist / After Zhao Wenchu），并指出画面笔法欠精，很可能是后世众多仿赵氏风格者之一所作。因此题款只能说明画上标称的作者与纪年，不能据此判定它是文俶真迹；年代上限依款为1627年，实际绘制时间可能更晚。",
+ "required_facts": [
+  "题款自称赵氏文淑（文俶）作",
+  "款中纪年为丁卯，即1627年夏日",
+  "馆方著录作者为佚名、仿赵文俶",
+  "馆方认为笔法欠精，疑为后人仿作"
+ ],
+ "forbidden_claims": [
+  "断定此画为文俶真迹",
+  "称馆方确认为赵文俶原作",
+  "把题款纪年当作实际绘制年代而无保留"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/49047",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-35899-002.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/49047",
+  "sha256": "12a6b36bf16bc1e1375366f59b3e0baa4c6cf2720df71ce1b34854a30dede3ed"
+ },
+ "catalogue": {
+  "title": "Rock, Tiger Lily and Orchid",
+  "attribution_verbatim": "Unidentified",
+  "date_verbatim": "dated 1627",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Hanging scroll; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Hanging scroll",
+  "accession_number": "1989.363.125",
+  "credit_line": ""
+ }
+}

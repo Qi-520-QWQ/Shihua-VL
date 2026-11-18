@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答仅笼统提到舟船、钓具、居所和江南指向，但未命中两岸分江留白、红袍渔人短竿、左缘小舟人影不清、馆方线轴短竿难辨等必须事实，故strict_hit为0、partial为1；无禁止断言，且对地域表述留有余地。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "回答过于笼统空泛，仅模糊猜中可能指向江南，完全遗漏了红袍渔人、短竿、两岸分江留白构图及第二叶小舟等绝大部分核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中市井商业与儿童生活及热闹情绪，但缺失戏剧性冲突（击蛇、货郎急奔护童）与宁宗九子早夭隐喻，且将画面描述为祥和温情，与参考答案的紧张戏剧张力不符。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了市井商业与热闹情绪，但遗漏了击蛇护童的戏剧性冲突以及馆方提及的暗喻宁宗九子早夭之关键事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答把“孩童以棍石击蛇、货郎急奔护童”的戏剧冲突误读为孩童争抢玩具、货郎慈祥笑迎，属对画面具体动作的错误断言，与参考答案的紧张戏剧张力直接矛盾；遗漏九子早夭暗喻只扣 strict。"
+}

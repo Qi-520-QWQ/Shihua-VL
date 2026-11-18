@@ -1,0 +1,33 @@
+{
+ "answer": "以竹配《千字文》的构图体现晚明文人将书与画视为一体修养的趣味。竹在画史中象征君子气节与清高，属通识；《千字文》是不重复用字的基础蒙学文本，书写它既是基本功的展示，也含文字游戏与功力自证之意。詹景凤出身休宁，是晚明在安徽确立书画中心地位的一代文人之一，此卷以同一笔墨呈现竹与草书，正合文人以书画自遣、以笔墨见性情的取向。",
+ "required_facts": [
+  "竹象征君子气节，属画史通识",
+  "《千字文》为无重复字的基础学习文本",
+  "詹景凤为晚明安徽文人，书画兼擅"
+ ],
+ "forbidden_claims": [
+  "《千字文》是佛教经典",
+  "竹象征富贵",
+  "此卷为宫廷应制之作"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/78125",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/TR_250_66_2012_S2_sf.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/78125",
+  "sha256": "b1f785217e28bde9363c30317077cb9b825fc6849e5c943e0414701a9cd553b5"
+ },
+ "catalogue": {
+  "title": "Bamboo and the Thousand-Character Classic",
+  "attribution_verbatim": "Zhan Jingfeng",
+  "date_verbatim": "1599",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Handscroll; ink on paper",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "2015.500.8.3",
+  "credit_line": "Gift of Florence and Herbert Irving, 2015"
+ }
+}

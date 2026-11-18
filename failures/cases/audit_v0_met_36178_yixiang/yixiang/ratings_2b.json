@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅命中刚健不屈、岁寒坚贞的部分意思，但缺清末猛禽题材流行、振作自强迎春复新等事实，且把松梅寓意窄化为坚韧纯洁并加入“正直品格”等无据表述，故判部分命中且有幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅泛泛提及坚韧勇敢与正直品格，未命中清末背景、猛禽象征力量、梅报春先及振作自强迎春复新等核心事实。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：\"正直的品格\"为通用品德套话，未触禁止项（未称隐逸出世、未称松梅仅装饰）；遗漏清末背景只扣strict"
+}

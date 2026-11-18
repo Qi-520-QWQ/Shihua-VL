@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "待评回答提到留白与云气表现光感、深红朱砂点染，但未明确否定日轮，且将皴法确指为披麻皴、解索皴等具体名称，属禁止断言，构成幻觉；同时未命中‘无日轮’和‘线条勾勒加皴、淡设色’等必须事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "待评回答将皴法明确断言为披麻皴、解索皴等具体名目，触犯禁止断言；且遗漏了无日轮这一关键事实。"
+  }
+}

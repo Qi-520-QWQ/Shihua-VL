@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中出世意境与云雾环绕、留白增加空间感等部分事实，但未明确留白表现云雾与天空、虚实相生及引导视线自下而上等关键作用，故未全命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了山寺云雾环绕、远离尘嚣的环境与出世意境，但遗漏了留白表现云雾天空、虚实相生使山体高远空灵以及引导视线逐层上移等关键作用。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

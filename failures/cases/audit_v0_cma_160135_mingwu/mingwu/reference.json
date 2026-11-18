@@ -1,0 +1,36 @@
+{
+ "answer": "画面中部为大面积留白的江面，两岸分江。可见篷船：中左近岸一篷船上坐着一位红袍渔人，持短竿垂钓；左缘中部另有一叶小舟，人影不甚清晰。馆方描述称渔人各坐船尾、持装线轴的短竿在水中垂钓，但视觉上钓钩与线轴细节难以辨认。近岸有高树数株与石块，篷船带篷盖。山水为两岸夹江、远山淡墨的江南景致，馆方指出此类图景即赵氏等文人心中江南家乡，故地域指向江南。",
+ "required_facts": [
+  "画面为两岸分江构图，中部江面大面积留白",
+  "近岸篷船上有红袍渔人持短竿垂钓",
+  "左缘中部另有一小舟，人影不清晰",
+  "馆方称渔人持装有线轴的短竿，但画面细节难辨",
+  "景致指向江南"
+ ],
+ "forbidden_claims": [
+  "画面中有三艘以上清晰可见的渔船",
+  "渔人使用长竿或手执渔网",
+  "钓钩与线轴细节在画中清晰可辨",
+  "山水指向北方或蜀中山水"
+ ],
+ "source": {
+  "institution": "The Cleveland Museum of Art",
+  "object_url": "https://clevelandart.org/art/1997.93",
+  "image_url": "https://openaccess-cdn.clevelandart.org/1997.93/1997.93_print.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Cleveland Open Access: share_license_status=CC0)",
+  "rights_evidence": "https://clevelandart.org/art/1997.93",
+  "sha256": "3d783f196f94b05029cbfb058bdc02ee7f3f76a21ca4c34a95795f61e20c4592"
+ },
+ "catalogue": {
+  "title": "Fishermen-Hermits in Stream and Mountain",
+  "attribution_verbatim": "Fishermen-Hermits in Stream and Mountain (溪山漁隱圖), 1300s",
+  "date_verbatim": "1300s",
+  "period_verbatim": "China, Yuan dynasty (1271-1368)",
+  "medium": "Hanging scroll; ink and color on silk",
+  "classification": "ASIAN - Hanging scroll",
+  "object_name": "Painting",
+  "accession_number": "1997.93",
+  "credit_line": ""
+ }
+}

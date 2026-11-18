@@ -1,0 +1,34 @@
+{
+ "answer": "画中渔人独坐小舟船尾，戴帽、着深色袍，舟尾似有篷盖，船身为一叶小扁舟；渔具仅见一竿或篙，钓钩、鱼篓等并不显著。就时代判断而言，这些细节本身只是视觉特征，不能直接断代；本件定为元吴镇、约1350年，依据是馆方对作者与作品的著录及吴镇自题诗，而非画面中可辨识的衣冠或钓具形制。因此不能凭渔人衣着、舟式或一根竿子推断具体年代或作者。",
+ "required_facts": [
+  "渔人独坐船尾，戴帽着深色袍",
+  "舟为一叶小扁舟，舟尾似有篷盖",
+  "渔具仅见一竿或篙，钓钩鱼篓不显著",
+  "时代判断依据馆方著录与吴镇自题诗，不能靠衣冠舟式断代"
+ ],
+ "forbidden_claims": [
+  "断定画面中可见明确钓钩与鱼篓",
+  "宣称仅凭渔人衣着或舟船形制即可判定为元代真迹",
+  "编造题款中未出现的衣冠制度描写"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/41468",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-18549-001.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/41468",
+  "sha256": "670afd08278f6d41bd4bc18282e68785e3decd1eb0a4f396fd96effcaf6664a1"
+ },
+ "catalogue": {
+  "title": "Fisherman",
+  "attribution_verbatim": "Wu Zhen",
+  "date_verbatim": "ca. 1350",
+  "period_verbatim": "Yuan dynasty (1271–1368)",
+  "medium": "Handscroll; ink on paper",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "1989.363.33",
+  "credit_line": "Bequest of John M. Crawford Jr., 1988"
+ }
+}

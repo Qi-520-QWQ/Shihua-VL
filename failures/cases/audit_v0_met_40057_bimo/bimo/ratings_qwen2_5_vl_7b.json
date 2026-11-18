@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未提及绢本淡青绿甚淡旧、远山图式化及水草等关键事实，并臆断水色对比和渔翁用笔、山水细节，未承认人物用笔无法确认。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中绢本淡设色、点状水草等事实，误判水水墨浓重，且在无法确认人物用笔的情况下臆造了人物与山水的笔法对比。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

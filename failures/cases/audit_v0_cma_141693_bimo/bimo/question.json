@@ -1,0 +1,41 @@
+{
+ "id": "audit_v0_cma_141693_bimo",
+ "artwork_id": "cma_141693",
+ "group_id": "cma_141693",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "朝阳的光感是如何用墨色与留白表现的？山石的皴法有何特点？",
+ "answer": "朝阳的光感不靠日轮，而以山间大片白色旋涡状云气的留白与淡设色烘托，使尖峭群峰浮于云海之上，晨光由空白处透出；林间深红笔触点染植被，呼应朱砂意象。山石以细劲线条勾勒并施皴，配合淡设色，表现黄山的峭拔岩体，具体皴法名称图录未载，不宜确指为某家皴法。整幅墨色清淡，与深红点苔形成冷暖对照。",
+ "required_facts": [
+  "以云气留白表现晨光",
+  "无日轮",
+  "林间深红点染植被，呼应朱砂",
+  "山石以线条勾勒加皴，淡设色"
+ ],
+ "accepted_variants": [
+  "留白烘托晨光",
+  "深红点苔喻朱砂",
+  "淡设色山水"
+ ],
+ "forbidden_claims": [
+  "画中太阳以朱砂圆轮画出",
+  "确定为披麻皴或斧劈皴等具体皴法",
+  "纯水墨无设色"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1965.28",
+   "page": "Met/CMA 馆方页",
+   "quote": "Deep red strokes accentuate vegetation and allude to cinnabar, the alleged elixir of immortality"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

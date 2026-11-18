@@ -1,0 +1,35 @@
+{
+ "answer": "人物衣纹以流畅细线勾勒，白袍线条连绵，衣褶起伏交代清楚，属较工整的白描式画法；莲叶则以稍阔的笔触涂抹晕染，叶面较大而笔意较放。设色上人物以淡墨勾线、白袍素净，面部与须髯浅淡着色；花叶用淡彩，莲花淡粉、白色，莲叶淡青绿，整体设色淡雅，以颜色轻重区分人物与花叶。",
+ "required_facts": [
+  "衣纹以细线勾勒，线条流畅",
+  "莲叶以较阔笔触晕染",
+  "人物白袍素净、设色浅淡",
+  "莲花淡粉或白色",
+  "整体设色淡雅"
+ ],
+ "forbidden_claims": [
+  "人物衣纹用大泼墨",
+  "设色浓艳重彩",
+  "莲叶用极细工笔逐叶勾勒"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/739501",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-43066-001.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/739501",
+  "sha256": "8a555200987a931594e7d96e5a57ace1934c3855037525373872c77266dcfc7e"
+ },
+ "catalogue": {
+  "title": "Zhou Dunyi Admiring Lotuses",
+  "attribution_verbatim": "Lu Peng",
+  "date_verbatim": "dated 1896",
+  "period_verbatim": "Qing dynasty (1644–1911)",
+  "medium": "Album leaf; ink and color on paper",
+  "classification": "Paintings",
+  "object_name": "Album leaf",
+  "accession_number": "2024.549.63",
+  "credit_line": "Gift of Jane DeBevoise and the Calello Family, 2024"
+ }
+}

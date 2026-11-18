@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中馆方未提供寓意说明及圉人骏马喻相马识才/贡马来朝等必须事实，且编造忠诚、力量、智慧等寓意，属于参考答案不支持的幻觉内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中馆方未提供寓意说明以及画史通识中相马识才、贡马来朝等必须事实，且通篇自行编造忠诚、力量与智慧等寓意。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中云气留白表现晨光和林间深红点染植被，但未明确无日轮、线条勾勒加皴淡设色，且将皴法确定為披麻皴等具体名目，属禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答命中了以云海留白表现晨光及淡设色，但未明确指出无日轮，且触犯了禁止断言（将皴法确定为披麻皴、折带皴、荷叶皴变体等具体皴法）。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

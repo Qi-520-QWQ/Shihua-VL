@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "仅笼统提及罐壶玩具等，未命中骷髅、五名短衣发髻孩童以棍石击蛇、货郎弃担护童等关键事实，且编造食品糖果糕点等参考答案不支持内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中倒置骷髅及击蛇、弃担护童等核心情节，且将画面误判为货郎逗童嬉戏的无冲突场景，触发禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

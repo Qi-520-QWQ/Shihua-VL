@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答编造了古朴建筑、明清建筑风格和江南水乡人物服饰，且未命中无建筑、微小戴笠人物、危崖、枯梅等必须事实，并触及禁止断言（描绘明确建筑、指向明清风貌）。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全编造了画中存在建筑及屋顶细节，触犯禁止断言，且未命中任何必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

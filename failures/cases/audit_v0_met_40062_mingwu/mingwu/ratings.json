@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答将建筑判断为平梁木桥并称未见屋宇，漏掉小茅屋、崖脚偏右、屋前溪流等必须事实，也未定作者阎次于；虽提及南宋边角式，但核心事实错误且含禁止断言'未见屋宇建筑'，属幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "待评回答将松树下的建筑错误识别为平梁木桥，否定了小茅屋的存在，且漏掉了作者定为阎次于的关键考据事实；但正确命中了南宋院体边角式构图等样式特征。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

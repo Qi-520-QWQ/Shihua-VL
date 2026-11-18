@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中兰的高洁及石的坚韧部分含义，但遗漏萱草忘忧宜男、湖石长寿、蝶谐耋祝寿，并将整体气息断言为清雅，违反禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中萱草忘忧、湖石长寿、蝴蝶谐音耋等核心寓意，且触发禁止断言（将画面气息判定为清雅淡雅而非浓艳）。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

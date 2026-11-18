@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答只泛泛提到虬曲和象征坚韧，未命中单株巨松占满画面、盘曲多节孔洞疤结、针叶成簇留白、右下方大石、馆方说法及吴镇自题等必须事实，属部分正确。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "仅命中了虬曲树干象征坚韧与生命力的画论内涵，缺失了构图布局、树干盘曲走向、孔洞疤结、右下大石及吴镇自题等关键事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

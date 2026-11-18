@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "待评回答虽提及篷舟、垂钓与江南指向，但遗漏红袍渔人、左缘小舟及馆方线轴短竿细节，并编造两舟船头各坐一人持细长钓竿及拱篷内器物等参考答案不支持的内容，故partial=1、hallucination=1。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "命中江南水乡，但遗漏红袍渔人、短竿及馆方线轴细节等关键事实，且触犯了‘渔人使用长竿’的禁止断言并编造船篷内器物等细节。"
+  }
+}

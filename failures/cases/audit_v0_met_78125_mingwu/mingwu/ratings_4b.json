@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答到竹与文字笔势呼应，但未指出左侧草书《千字文》及书画并置、非解说关系；称文字起补充作用缺乏依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答流于空泛的套话，完全遗漏了竹在右侧、左侧长框内为草书千字文摘文等关键事实，亦未明确点出二者的并置关系。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：断言文字起“装饰和补充的作用”，与参考答案“文字并非同画解说、而是与竹并置的另一重表现对象”直接矛盾，触禁止断言。"
+}

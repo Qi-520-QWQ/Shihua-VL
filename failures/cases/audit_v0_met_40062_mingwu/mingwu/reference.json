@@ -1,0 +1,37 @@
+{
+ "answer": "松树覆盖的陡崖崖脚、中下偏右处有一座小茅屋，隐于石树之间，屋前有溪流，即所谓隐栖之所，形制为简朴茅舍而非楼阁寺观。画面右侧为松崖，左侧为开阔水面与远岸礁石，属南宋院体山水常见的边角式构图与松石组合样式；馆方据风格将作者定为阎次于（阎次平之弟），其父阎仲及兄弟于1160年代供职孝宗画院。",
+ "required_facts": [
+  "建筑为小茅屋",
+  "茅屋位于崖脚中下偏右、隐于石树间",
+  "屋前有溪流",
+  "右侧松崖、左侧开阔水面",
+  "属南宋院体边角式山水样式",
+  "作者依风格定为阎次于"
+ ],
+ "forbidden_claims": [
+  "建筑为多层楼阁或寺庙",
+  "画面为北宋全景式大山大水",
+  "画上有作者题名可据以定名",
+  "作者为阎次平本人（馆方定为阎次于）"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/40062",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP-19288-001.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/40062",
+  "sha256": "d0d17b0465d9ae83e01493bb5bce219ebf77a1403fb73486ed2e99b439b642da"
+ },
+ "catalogue": {
+  "title": "Hermitage by a pine-covered bluff",
+  "attribution_verbatim": "Yan Ciyu",
+  "date_verbatim": "second half 12th century",
+  "period_verbatim": "Southern Song dynasty (1127–1279)",
+  "medium": "Fan mounted as an album leaf; ink and color on silk",
+  "classification": "Paintings",
+  "object_name": "Fan mounted as an album leaf",
+  "accession_number": "1973.121.12a, b",
+  "credit_line": "Ex coll.: C. C. Wang Family, Purchase, Gift of Mr. and Mrs. Jeremiah Milbank and Gift of Mary Phelps Smith, in memory of Howard Caswell Smith, by exchange, 1973"
+ }
+}

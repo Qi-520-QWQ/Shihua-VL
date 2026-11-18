@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "只提到守护含义，未命中忠义勇武、道教神系、封帝及水陆法会护法等事实，并编造宝剑、随从和至高权力等画面信息。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未识别出历史人物关羽，完全未命中忠义勇武、道教神系、万历封帝、水陆法会等核心事实，且编造了泛神话化的虚假描述。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

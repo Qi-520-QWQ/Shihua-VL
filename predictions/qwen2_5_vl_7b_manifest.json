@@ -1,0 +1,14 @@
+{
+  "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "quantization": "4bit",
+  "tokenizer_source": "Qwen/Qwen2.5-VL-7B-Instruct",
+  "max_num": 1280,
+  "max_new_tokens": 768,
+  "planned": 60,
+  "ok": 60,
+  "failed": 0,
+  "seconds": 1687.0,
+  "ts_cst": "2026-11-18 11:23:26",
+  "out": "predictions/qwen2_5_vl_7b.jsonl",
+  "note": "merged: smoke --limit 2 (2/2 ok, 48.3s, ts 2026-11-18 10:38:43) + full run --model 7b planned 58 ok 58 (1638.7s, ts 2026-11-18 11:23:26); seconds here is sum of the two invocations; source downloads browser-download-20261118T032853 (42,199 bytes) + browser-download-20261118T032919 (611 bytes); single slow outlier audit_v0_met_49047_mingwu 103.2s, succeeded"
+}

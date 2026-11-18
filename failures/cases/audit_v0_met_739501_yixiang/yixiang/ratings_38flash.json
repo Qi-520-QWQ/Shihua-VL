@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中周敦颐、《爱莲说》、莲出淤泥而不染及君子高洁自守等必需事实；但关于题跋、画面细节及人物判定的具体描述无参考依据，属于编造补充。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中了周敦颐及高洁出淤泥而不染的品格，但未明确提及周敦颐作《爱莲说》，且虚构编造了具体画面的题跋与物象细节。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：strict 上四项必需事实均命中（答案明写“他作《爱莲说》，以莲自况”，rater_b 误判遗漏）；hallu 上双评者一致为 1——断言左上角题款“濂溪清赏”，属无据断言具体题款内容。"
+}

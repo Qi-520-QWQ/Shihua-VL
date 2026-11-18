@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "回答虽提到草堂与江南董巨、米氏云山传统，但把建筑描述为白墙竹篱的近景轩舍并虚构中景朱红重檐寺观楼台群落，与参考答案的小茅屋及禁止断言宏伟楼阁/寺院冲突，属编造事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "命中了草堂松轩、董巨元代文人松石传统及米氏元素，但违规断言画面存在中景重檐楼阁寺观，触发禁止断言并产生幻觉。"
+  }
+}

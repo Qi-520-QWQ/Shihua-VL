@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅货物细笔与担架相对简括部分吻合，但货物设色称浓重、人物线条称柔和、担架称粗犷均无据，且未答出绢本淡设色与墨线为主，反而引入浓重色彩等禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统答出货物笔触精细，漏掉货郎与孩童线条有别、担架结构简括等关键事实，且错误断言货物设色浓重，与全画淡设色事实相悖。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

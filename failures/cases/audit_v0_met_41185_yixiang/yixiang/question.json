@@ -1,0 +1,45 @@
+{
+ "id": "audit_v0_met_41185_yixiang",
+ "artwork_id": "met_41185",
+ "group_id": "met_41185",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "松间云起的画面传达了怎样的隐逸意境？",
+ "answer": "画面以松轩临溪、云雾缭绕、淡墨青绿写成春雨初霁的静谧景致，传达出隐者平和自适的心境。馆方指出，此图作于明立国前两年，表现画家处于隐居者的宁静心态；元末画中溪畔草堂的流行，正是文人处境即隐居生活的象征。松树常青、云山缥缈，与小小的茅屋相衬，构成远离尘嚣、寄身林泉的隐逸意境。",
+ "required_facts": [
+  "馆方称此画作于明立国前两年，表现隐者宁静心态",
+  "元末溪畔草堂成为文人隐居生活的象征",
+  "画面传达远离尘嚣、寄身林泉的隐逸意境"
+ ],
+ "accepted_variants": [
+  "隐居、退隐",
+  "林泉之志",
+  "春雨初霁的静谧"
+ ],
+ "forbidden_claims": [
+  "称画面表达仕进得意或庙堂之志",
+  "称草堂象征官府或驿站",
+  "称此画作于明代建立之后"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41185",
+   "page": "Met 馆方页",
+   "quote": "This landscape, painted two years before the founding of the Ming dynasty, shows the artist in the peaceful state of mind of the recluse."
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41185",
+   "page": "Met 馆方页",
+   "quote": "the depiction of a thatched studio by a stream became popular as a symbol of the scholar's condition—a life in reclusion"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

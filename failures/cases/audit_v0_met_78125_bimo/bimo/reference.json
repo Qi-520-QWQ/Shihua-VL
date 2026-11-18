@@ -1,0 +1,33 @@
+{
+ "answer": "竹叶以浓墨写出，叶形尖利如剑，用笔迅疾爽利，近似书法中的撇捺出锋；竹竿细而劲挺，笔画连贯。草书线条流利盘绕、转折圆转，讲究使转连绵，与竹叶的尖利出锋在用笔节奏上相通而形态不同。墨色方面并不一致：竹叶浓黑，竹竿、题识与草书文字皆偏淡，形成浓淡对比，而非通篇一色。",
+ "required_facts": [
+  "竹叶用浓墨，叶形尖利",
+  "草书线条流利盘绕",
+  "墨色不一致，竹叶浓黑而其余偏淡"
+ ],
+ "forbidden_claims": [
+  "全图墨色均匀一致",
+  "竹叶用淡墨、书法用浓墨",
+  "竹叶用没骨晕染而无笔锋"
+ ],
+ "source": {
+  "institution": "The Metropolitan Museum of Art",
+  "object_url": "https://www.metmuseum.org/art/collection/search/78125",
+  "image_url": "https://images.metmuseum.org/CRDImages/as/original/TR_250_66_2012_S2_sf.jpg",
+  "accessed_at": "2026-11-15T15:40+08:00",
+  "rights_statement": "CC0 1.0 Universal (Met Open Access: object isPublicDomain=true)",
+  "rights_evidence": "https://www.metmuseum.org/art/collection/search/78125",
+  "sha256": "b1f785217e28bde9363c30317077cb9b825fc6849e5c943e0414701a9cd553b5"
+ },
+ "catalogue": {
+  "title": "Bamboo and the Thousand-Character Classic",
+  "attribution_verbatim": "Zhan Jingfeng",
+  "date_verbatim": "1599",
+  "period_verbatim": "Ming dynasty (1368–1644)",
+  "medium": "Handscroll; ink on paper",
+  "classification": "Paintings",
+  "object_name": "Handscroll",
+  "accession_number": "2015.500.8.3",
+  "credit_line": "Gift of Florence and Herbert Irving, 2015"
+ }
+}

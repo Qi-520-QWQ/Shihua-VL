@@ -1,0 +1,13 @@
+{
+  "model": "OpenGVLab/InternVL2_5-2B",
+  "quantization": "bf16",
+  "tokenizer_source": "bundle/tokenizer_patched_2b",
+  "max_num": 12,
+  "max_new_tokens": 768,
+  "planned": 58,
+  "ok": 58,
+  "failed": 0,
+  "seconds": 582.8,
+  "ts_cst": "2026-11-15 20:07:24",
+  "out": "predictions/internvl2_5_2b.jsonl"
+}

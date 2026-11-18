@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答正确指出写意而非工笔、水面留白简淡，但未命中危崖淡墨加淡赭石渲染及竖向皴纹、小舟人物细笔点写且形体极小等必须事实，并称画中无建筑、引入石涛解索皴等参考答案不支持的编造内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了水面简淡留白与属写意非工笔等事实，但遗漏了危崖淡墨淡赭石渲染及竖向皴纹，且编造了石涛皴法、秦淮访古寻梅等未经参考答案支持的背景与细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

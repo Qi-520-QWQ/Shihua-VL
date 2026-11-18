@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中浓墨、笔锋凌厉、浓淡与笔势表现风势及竹竿弯而不折等要点，但额外断言作者、瀑布崖壁及具体焦墨空间层次等缺乏参考依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了竹叶撇笔凌厉、墨色浓淡与表现风势等要点，但遗漏了纸本材质，且严重编造了画家杨涵、悬崖瀑布等参考答案未支持的事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

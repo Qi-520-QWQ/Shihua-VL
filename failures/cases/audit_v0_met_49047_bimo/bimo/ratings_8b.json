@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中湖石墨色层次、红花鲜艳及对比，但将蝴蝶判为写意，与参考答案“接近工笔细描”相反，且未提馆方称笔法欠精，属禁止方向错误。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了湖石浓淡与红花对比，但遗漏了馆方评价，并将接近工笔细描的蝴蝶错误断言为写意画法。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

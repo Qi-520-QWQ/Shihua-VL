@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中避世隐居、渔隐出世的理想，但未提江南家园与归乡之意，也未提馆方所述赵氏等文人自绘渔人徜徉江南。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "命中了避世隐逸的理想，但缺失了江南作为家园的归乡之意以及馆方指出赵氏等文人画自身为渔人的考据内容。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

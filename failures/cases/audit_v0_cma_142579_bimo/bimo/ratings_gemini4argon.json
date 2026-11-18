@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答正确判定写意与浅绛淡彩，但未提及危崖竖向皴纹、水面少刻画等关键点，且编造‘无建筑、有寒梅’及具体用笔细节，与参考答案不符。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "命中了写意定性、设色淡雅、崖石赭石皴染及水面留白，但将小舟人物的“细笔点写”误判为“钝笔粗线条”，且加入了参考答案未支持的花青与寒梅等细节。"
+  }
+}

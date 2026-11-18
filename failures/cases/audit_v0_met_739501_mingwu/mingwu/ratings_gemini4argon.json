@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 0,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答虽提及周敦颐和莲花在右下，但称人物站立、执荷叶指向莲花、与童子交谈，违反禁止断言且编造童子和荷叶等事实，未命中倚石而坐、持团扇、面向莲池等关键事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "命中了人物为周敦颐及莲花在右下角，但出现了‘人物站立’的禁止断言，编造了童子等幻觉，且遗漏倚石而坐、树干脚下等关键事实。"
+  }
+}

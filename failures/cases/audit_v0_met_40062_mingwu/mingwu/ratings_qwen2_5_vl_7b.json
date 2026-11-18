@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将建筑说成亭子，与参考答案的小茅屋不符；“宋元时期”未命中南宋院体边角式样，且作者信息缺失。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "建筑形制误答为亭子，未指出茅舍；时代样式泛称宋元，未命中南宋院体边角式构图等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

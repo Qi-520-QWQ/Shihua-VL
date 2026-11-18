@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "虽称舟船细节模糊，但编造了船只、渔具及捕鱼活动，并将建筑树木解读为写实江南水乡风貌；未命中棒状屋宇、地图式构图、退休居所及上溯《辋川图》等事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "误判画作为董源传派，未命中任何必须事实，且编造了协同作网等具体渔事与水榭茅亭等建筑细节，触发幻觉。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

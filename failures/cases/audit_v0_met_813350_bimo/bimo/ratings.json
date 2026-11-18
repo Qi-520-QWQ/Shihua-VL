@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中浓墨撇叶、笔锋凌厉、浓淡对比与笔势表现风势等要点，但漏掉“纸本水墨”和“竹竿弯曲而不折”，并编造瀑布、灰暗晕染、焦墨等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "未命中'纸本水墨'与竹竿'弯曲而不折'，且编造了参考答案中不存在的'留白瀑布水流'。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

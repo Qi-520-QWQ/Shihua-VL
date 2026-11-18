@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答编造了马身与衣纹的用笔及浓淡对比，未命中绢本设色等必须事实，且未承认笔法细节无法确证。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须事实，错误指认画作名称为《韩干立马图》，并凭空编造了线条和设色深浅的具体对比。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

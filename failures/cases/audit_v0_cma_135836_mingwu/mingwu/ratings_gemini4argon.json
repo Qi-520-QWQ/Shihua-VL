@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答虽提到建筑极小难辨并推测为佛寺，但编造了'一座临水茅舍''重檐瓦顶与院墙建筑群'等参考答案不支持的具体形制描述，且称题名为'山寺'而非'溪山蘭若圖'，未完整命中'蘭若指佛寺/僧舍'这一事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "待评回答将题名编造成“山寺”，并虚构了“重檐瓦顶与院墙结构”等具体形制细节，触发禁止断言。"
+  }
+}

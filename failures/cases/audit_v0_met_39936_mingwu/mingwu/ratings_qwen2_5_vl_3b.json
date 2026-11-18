@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出两只鸟，但未说明各自位置、朝向及相向关系，且将画法归为文人画并补充不受支持的技法描述，未命中指定的宋代院体写实花鸟传统。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅答对画面有两只鸟，遗漏两鸟具体方位及相向姿态，且错误地将宋代院体花鸟画传统断言为文人画传统。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

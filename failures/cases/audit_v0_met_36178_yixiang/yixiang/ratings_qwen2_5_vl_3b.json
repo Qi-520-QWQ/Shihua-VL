@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提到不屈及松梅的坚韧，但遗漏清末猛禽题材流行、松耐岁寒梅报春和振作自强、迎春复新的期许；“寓意因人而异”削弱了明确寓意，且高洁、适应环境、独立自主等说法无参考依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "仅命中了勇猛不屈的精神，遗漏了清末猛禽流行的背景、梅报春之意以及振作自强迎春复新的期许。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b 正确：\"高洁/适应环境/独立自主\"为通用文化常识性说法，未断言与参考答案矛盾的具体事实（同 7B 36178_yixiang 判例）；\"寓意因人而异\"为 hedge，未断言具体事实；遗漏清末猛禽流行/振作自强迎春复新只扣分。"
+}

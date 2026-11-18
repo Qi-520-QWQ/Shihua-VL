@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "提到红色服饰及人物相对较小、山石占据主要部分，但未指出其为坐于茅亭中的红衣士人、亭在巨松之下，也未明确山石松树巨大而人物极小。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "提到了红色服饰及人物相对较小、山石占主要，但遗漏了茅亭、巨松、士人/文人身份判断等关键必须事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

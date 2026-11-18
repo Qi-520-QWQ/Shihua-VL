@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中远离尘嚣、寄情自然的隐逸意境，但未明确茅屋点出栖隐生活及松象征坚贞与高士品格；“小桥流水”属参考答案未支持的画面细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答命中了士人避世隐逸、远离尘嚣的理想，但遗漏了茅屋的作用及松树象征坚贞高洁品格等核心事实，且臆造了参考答案中未包含的“小桥流水”等画面细节。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

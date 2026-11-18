@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中花马特征、红色马具、圉人具体服饰与胡人面貌及明代风格、唐马母本，且编造铠甲、皮带并误指向宋代。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "严重编造马身披铠甲与指向宋代，且完全未命中马匹花色、红缨缰绳、毛皮边长袍及明代仿唐马等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

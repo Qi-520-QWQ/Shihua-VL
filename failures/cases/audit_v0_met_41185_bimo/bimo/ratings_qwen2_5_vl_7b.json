@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提及云气与山石交融，未说明淡墨晕染、边界柔和及雨后湿润云气；将松针说成写意，与相对工致、成簇点写及工放对照相悖。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中淡墨晕染、馆方观点等要点，且将相对工致的松针画法错误判定为写意风格。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

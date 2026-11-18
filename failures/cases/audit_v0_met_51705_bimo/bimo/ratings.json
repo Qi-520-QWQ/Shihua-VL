@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将设色判为偏淡雅并具体指认铁线描等未见于材料的描法，违反禁止断言；虽提及笔法细节有不确定性，但未命中‘绢本设色’及鲜明设色事实，故不给严格命中。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "触发指认马身用铁线描等禁止断言，设色浓淡结论与事实相反，且未指出馆方未描述笔法差异。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "将题名误作「溪山行旅图」并断言建筑为旅行者休息处所，未命中任何必须事实，且含禁止断言（编造性质/题名）。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "题名误作《溪山行旅图》，未指出建筑极小几不可辨，且完全未命中“兰若”为佛寺僧舍及建筑属宗教处所的事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

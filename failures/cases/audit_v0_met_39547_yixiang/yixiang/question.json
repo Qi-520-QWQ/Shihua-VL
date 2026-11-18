@@ -1,0 +1,49 @@
+{
+ "id": "audit_v0_met_39547_yixiang",
+ "artwork_id": "met_39547",
+ "group_id": "met_39547",
+ "split": "audit_v0",
+ "dimension": "yixiang",
+ "dimension_zh": "诗画意象",
+ "question": "竹石兰组合常被赋予何种君子品格？画面整体气息是清雅还是浓艳？",
+ "answer": "先须纠正：本幅为枯木竹石，并无兰花，故不宜套用「竹石兰」三友式的君子组合。就画史通识言，竹喻虚心有节、石喻坚贞不移，枯木则喻老而弥坚、历劫犹生，合为文人自况的品格象征。馆方亦言吴镇晚年专精画竹、于此最早存世竹画中可见其对竹的推重。画面为纯水墨绢本，气息清雅疏淡，绝非浓艳。",
+ "required_facts": [
+  "本幅无兰花，题材为枯木竹石",
+  "竹喻虚心有节属画史通识",
+  "枯木喻老而弥坚",
+  "吴镇晚年专精画竹",
+  "纯水墨绢本、气息清雅而非浓艳"
+ ],
+ "accepted_variants": [
+  "枯木竹石亦具君子象征",
+  "竹象征气节坚贞",
+  "画面清雅疏淡",
+  "水墨为主不设色"
+ ],
+ "forbidden_claims": [
+  "竹石兰三友并绘于本幅",
+  "画面色彩浓艳华丽",
+  "枯木象征衰败无生意",
+  "馆方称此图寓富贵长寿"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/39547",
+   "page": "Met/CMA 馆方页",
+   "quote": "In his later years, Wu Zhen specialized in bamboo painting, but even here, in his earliest extant depiction of bamboo, the artist's admiration for this plant is evident"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/39547",
+   "page": "Met/CMA 馆方页",
+   "quote": "This painting shows Wu Zhen's creative adaptation of the 'old tree, bamboo, and rock' genre"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。 题干缺陷记录：题干预设「竹、石、兰」有误，画面实为枯木竹石、无兰花；题干不改，参考答案已正面纠正。"
+ },
+ "version": "v0"
+}

@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中湖石灰黑墨色浓淡、红花鲜明对比等部分事实，但将蝴蝶判为写意且未提馆方称笔法欠精，含禁止性画法误判。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了湖石墨色浓淡与红花鲜艳对比，但遗漏了馆方笔法欠精的评价，且错误地将接近细笔勾勒的蝴蝶断定为写意画法，未能恰当说明画法归属的不确定性。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

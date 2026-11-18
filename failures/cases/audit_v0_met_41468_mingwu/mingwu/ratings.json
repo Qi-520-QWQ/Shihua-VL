@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "待评回答承认不能凭名物细节断代且部分细节接近参考答案，但编造了'双手持桨摇橹''钓竿斜向探出船头''款署梅花道人戏墨'等参考答案不支持的具体描述，并含隐约依靠器物判断的信息，构成幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "准确指出了不能仅凭衣冠舟式断代、需依题识断代的核心结论，但漏掉了着深色袍等关键事实，且编造了篷盖位置及‘编织纹理清晰’等画面并不显著的细节。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

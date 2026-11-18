@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及近景松树及董巨、元代文人传统，但把建筑编造成中景大型院落、山寺道观，并称松树平顶等细节；未命中小茅屋位于下部前景松间溪畔、屋中人不可辨及米点影响。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答严重臆造了中景'连缀成片的大型坡顶院落/殿阁/山寺道观'，触犯禁止断言（称建筑为宏伟楼阁或寺院），且未提及米芾/米点启发，仅部分答对前景松树指向董巨与元代文人传统。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

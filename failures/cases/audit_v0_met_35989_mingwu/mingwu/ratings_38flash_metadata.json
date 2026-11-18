@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中红衣士人、茅亭巨松、人物极小且红色醒目及山石松树巨大等要点，但加入画面未支持的服饰、环境与明末寓意等细节；未指认为具体历史人物或神仙。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完整命中了全部必须事实，未触犯禁止断言，且对人物身份的不确定性处理得当。"
+ },
+ "adjudicated": true,
+ "basis": "分判：strict 上 rater_b 正确（四项必需事实均命中）；hallu 上 rater_a 正确（“右侧屋内陈设简净”“头戴幅巾/高冠”及“此画作于1635年”均为参考答案不支持的具体画面/年代断言，同基线同题“案几书房陈设”判例）。"
+}

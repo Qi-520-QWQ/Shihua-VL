@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "回答虽提到金笺与极简细笔红袍人物，但未命中绳状层叠笔触令人想起王蒙，且编造披麻皴为画面依据并称留白为水面天空雾气，与参考答案的金地本色分隔景物不符，构成禁止断言式幻觉。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 0,
+    "notes": "未命中王蒙及绳状层叠笔触，留白未答出金地本色，且编造披麻皴、扇面折痕等参考答案未支持的内容。"
+  }
+}

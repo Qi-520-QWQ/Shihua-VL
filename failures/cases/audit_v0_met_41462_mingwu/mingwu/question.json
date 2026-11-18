@@ -1,0 +1,50 @@
+{
+ "id": "audit_v0_met_41462_mingwu",
+ "artwork_id": "met_41462",
+ "group_id": "met_41462",
+ "split": "audit_v0",
+ "dimension": "mingwu",
+ "dimension_zh": "名物考据",
+ "question": "画面中这株松树的形态有何特殊之处？虬曲的树干在画论中常被如何解读？",
+ "answer": "这株松树并非直立乔木，而是单株巨松占满画面，树干自左下盘曲而上，虬曲多节，带孔洞疤结，枝干向四方伸展，针叶成簇生于枝端，枝间多留白，右下方衬一大石。虬曲老松在画论中多被解读为历经风霜而仍具生意的象征，与馆方所述松树象征坚忍、耐力相通；吴镇自题亦记其见「crooked and twisting ancient tree」而写此图。",
+ "required_facts": [
+  "单株巨松占满画面",
+  "树干自左下盘曲而上、虬曲多节并有孔洞疤结",
+  "针叶成簇生于枝端、枝间多留白",
+  "右下方有一方大石",
+  "馆方称松象征坚忍与耐力",
+  "吴镇自题记所见为虬曲古树而写图"
+ ],
+ "accepted_variants": [
+  "虬曲古松",
+  "盘曲老松",
+  "象征坚忍、耐力与生存",
+  "老松喻气节与不屈"
+ ],
+ "forbidden_claims": [
+  "画面为多株松树成林",
+  "松树直立挺拔、形态规整",
+  "题款中写有具体咏松诗句原文",
+  "虬曲仅因画法求奇而无象征意味"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41462",
+   "page": "Met/CMA 馆方页",
+   "quote": "the pine symbolizes endurance and fortitude"
+  },
+  {
+   "url": "https://www.metmuseum.org/art/collection/search/41462",
+   "page": "Met/CMA 馆方页",
+   "quote": "I saw a crooked and twisting ancient tree. So I wrote this picture to record what I saw."
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

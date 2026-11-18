@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答描述了画面气势但未命中任何必须事实，且编造了具体题跋与疑似清代画家等参考答案不支持的内容，仅部分契合意象描述。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 0,
+  "proper_refusal": 0,
+  "notes": "未命中任何必须考据事实（黄帝求仙、朱砂仙药、生日贺礼、最早黄山图之一），仅作了通用画面描述且误猜为清代新安画派作品。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a正确：断言疑似清代新安画派（实为明代丁云鹏）并引述题跋「天都晓日」，属无据的具体归属断言"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_142579_mingwu",
+ "model": "Qwen2.5-VL-3B (bf16) (T4, bf16, max_num=1280, transformers 4.49.0)",
+ "answer": "根据描述，画面中的秦淮河畔有高石矗立，山间有人居住。这些建筑和人物描绘了古代南京的风貌，反映了那个时代的生活场景。"
+}

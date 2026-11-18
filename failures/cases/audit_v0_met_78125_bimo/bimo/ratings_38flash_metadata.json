@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出竹叶出锋及草书流利盘绕，但误称画与字墨色整体一致、均以浓墨为主，违背竹叶浓黑而其余偏淡的事实；另有多项未经支持的画面细节。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "用笔异同部分分析较好，但对墨色的判断出现严重错误，断言字画墨色‘整体高度一致’，触碰了禁止断言。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

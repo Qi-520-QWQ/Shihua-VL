@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答将建筑臆断为隐士居所或道观，未提'蘭若'即佛寺，且含'桥梁'等不支持的编造事实，故不得分。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "完全未命中必须事实，未能结合题名指出「兰若」为佛寺僧舍，且臆测为隐士居所或道观，并编造了桥梁。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

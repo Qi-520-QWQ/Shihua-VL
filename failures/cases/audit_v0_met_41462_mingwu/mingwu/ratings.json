@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答未命中多项必须事实（单株巨松占满画面、自左下盘曲而上、针叶成簇枝端留白、右下大石、馆方坚忍耐力说、吴镇自题），且编造'悬垂倒挂''元祐三年'题识等参考答案不支持的内容，属幻觉。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了树干疤结、右下坡石及历经风霜坚贞不屈的象征意，但遗漏了吴镇自题记虬曲古树、单株占满画面等事实，并编造了‘元祐三年’题识等幻觉内容。"
+ },
+ "adjudicated": false,
+ "basis": ""
+}

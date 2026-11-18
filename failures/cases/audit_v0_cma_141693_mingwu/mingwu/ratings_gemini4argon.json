@@ -1,0 +1,16 @@
+{
+  "rater_a": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "命中未见日轮及以远峰淡朱砂、留白烘托晓日，也承认无屋宇；但编造出左下角石拱桥及高士童子等参考答案不支持的具体建筑与人物，且未提及山峰尖峭、旋涡云气、下部松林溪流等关键事实。"
+  },
+  "rater_b": {
+    "strict_hit": 0,
+    "partial": 1,
+    "hallucination": 1,
+    "proper_refusal": 1,
+    "notes": "成功指出未见明确建筑与未见日轮，但遗漏了旋涡状云气与留白烘托，且编造了题跋、石桥、高士童子等参考答案未支持的细节。"
+  }
+}

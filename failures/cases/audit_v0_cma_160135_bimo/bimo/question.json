@@ -1,0 +1,42 @@
+{
+ "id": "audit_v0_cma_160135_bimo",
+ "artwork_id": "cma_160135",
+ "group_id": "cma_160135",
+ "split": "audit_v0",
+ "dimension": "bimo",
+ "dimension_zh": "笔墨技法",
+ "question": "远山、流水与人物的墨色层次如何处理？人物用笔与山水有何区别？",
+ "answer": "全幅以墨色层次区分空间：上半对岸远山用淡墨，虚淡推远；中部江面大面积留白，以空白代水，不施繁笔；下半近岸树石墨色较重，形成近浓远淡的对照。人物方面，近岸篷船上的渔人以红袍设色点出，在淡墨山水间格外醒目；左缘小舟人影模糊，用笔简略。总体人物用笔简括、以色彩提神，与山水树石的墨笔皴染形成工写与浓淡之别。",
+ "required_facts": [
+  "远山以淡墨表现，位于上半对岸",
+  "中部江面大面积留白代水",
+  "近岸树石墨色较重，形成近浓远淡层次",
+  "渔人以红袍设色突出",
+  "人物用笔简略，与山水笔墨有别"
+ ],
+ "accepted_variants": [
+  "以虚代实、计白当黑",
+  "近实远虚的墨色层次",
+  "红袍点景"
+ ],
+ "forbidden_claims": [
+  "远山用浓墨重笔反复皴擦",
+  "江面以细密水纹线描满绘",
+  "人物用工笔重彩精细刻画五官衣纹"
+ ],
+ "answerability": "answerable",
+ "evidence": [
+  {
+   "url": "https://clevelandart.org/art/1997.93",
+   "page": "Met/CMA 馆方页",
+   "quote": "two shores divided by a river composition"
+  }
+ ],
+ "review": {
+  "rater_a": null,
+  "rater_b": null,
+  "status": "verified",
+  "note": "2026-11-15 逐条验出处后锁定：答案与 required_facts 已对照 museum_descriptions.md（20 馆方页实取）+ visual_notes.md（目检 20 图）核对；引文 URL 与图录一致；画史通识项已在起草注中标明。"
+ },
+ "version": "v0"
+}

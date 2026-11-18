@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅笼统提及怀古与萧索，未命中危崖孤舟微小人物枯梅及仰视巨崖等关键事实，且编造了人物划船、象征过往辉煌等参考答案不支持的内容。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "回答指出了萧索感和怀古情绪，但遗漏了朝代兴亡之感以及危崖、孤舟、枯梅、人物仰视压倒性历史等具体画面细节。"
+ },
+ "adjudicated": true,
+ "basis": "rater_b正确：画面确有一孤舟微小人物，\"人物划船\"为合理画面解读、参考答案未否定；\"可能象征过往辉煌\"在\"可能\"不确定性内表述，通用怀古解读不计幻觉"
+}

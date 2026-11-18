@@ -1,0 +1,12 @@
+{
+  "model": "gemini-3-8-flash",
+  "planned": 2,
+  "ok": 2,
+  "failed": 0,
+  "total_prompt_tokens": 0,
+  "total_completion_tokens": 0,
+  "est_cost_usd": 0.0,
+  "seconds": 16.7,
+  "ts_cst": "2026-11-18 04:41:19",
+  "out": "predictions/reference_gemini38flash.jsonl"
+}

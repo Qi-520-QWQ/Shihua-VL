@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "提及鹰羽细腻，但未命中层层晕染、松针攒笔与浓黑带绿、松干枯笔勾皴、梅枝细笔及花朵点染；称设色淡雅，与参考答案相反且属于禁止断言。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "仅部分答出鹰羽细腻，松针、松干及梅花技法缺失严重，且将整体设色错误判定为淡雅，与偏浓丽的事实相悖。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

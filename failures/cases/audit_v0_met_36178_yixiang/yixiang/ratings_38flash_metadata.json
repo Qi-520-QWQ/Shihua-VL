@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "命中刚健不屈、清末猛禽题材的力量寓意、松梅耐寒报春及自强复新期许；但补入画面细节、祝寿等参考答案不支持的解读，属于编造扩展。"
+ },
+ "rater_b": {
+  "strict_hit": 1,
+  "partial": 2,
+  "hallucination": 0,
+  "proper_refusal": 1,
+  "notes": "完全命中了刚健不屈气节、晚清猛禽象征力量、松耐寒梅报春以及振强复新期许等全部事实，无禁止断言。"
+ },
+ "adjudicated": true,
+ "basis": "rater_a 正确：回答断言题跋为“同治癸酉（1873年）大秋”，属无据断言具体可核查的题跋内容（与同题 mingwu 判例及基线同题判例一致）；“祝寿、励志”在不确定性说明中有“也常用于”的泛称限定，本身不计；四项必需事实均命中，故 strict=1。"
+}

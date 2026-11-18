@@ -1,0 +1,14 @@
+{
+  "model": "openbmb/MiniCPM-V-2_6-int4",
+  "quantization": "int4",
+  "tokenizer_source": "openbmb/MiniCPM-V-2_6-int4",
+  "max_num": 9,
+  "max_new_tokens": 768,
+  "planned": 58,
+  "ok": 58,
+  "failed": 0,
+  "seconds": 1260.2,
+  "ts_cst": "2026-11-18 20:05:24",
+  "out": "predictions/minicpm_v26_int4.jsonl",
+  "note": "Official MiniCPM-V-2_6-int4 dynamic slicing: max_slice_nums defaults to 9 per the official preprocessor_config.json; max_num=9 records this slice budget, not InternVL max_num tiles or Qwen smart-resize units. n_tiles is null because the official model.chat() API handles preprocessing internally and does not expose its processor outputs or actual per-image slice count; no slice count is inferred. Greedy settings: sampling=False, num_beams=1, repetition_penalty=1.0, max_new_tokens=768; num_beams and repetition_penalty override the sampling=False defaults through official chat() kwargs. Planned/ok/failed count this invocation only; successful earlier answers are skipped. Processor mean/std type fix (2026-11-18): the official image processor stores norm_mean/norm_std as np.ndarray; transformers 4.49.0 normalize() mis-handles ndarray as a scalar and builds a (3,3) mean, so the runner passes plain lists (same values) via an explicitly built processor handed to chat() as processor=...; transformers pin unchanged at 4.49.0."
+}

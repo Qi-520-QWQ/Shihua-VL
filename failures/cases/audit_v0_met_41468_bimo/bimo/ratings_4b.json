@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "回答称面部用笔细腻流畅，属禁止的工细描摹断言；未命中墨戏简率、淡墨细线波纹、浓墨芦苇与留白虚实对比等核心事实。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 0,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "未命中参考事实，且编造了面部细腻、立体感及光影变化等泛化套话，与画作实际的简率墨戏风格相悖。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

@@ -1,0 +1,5 @@
+{
+ "id": "audit_v0_cma_160135_mingwu",
+ "model": "InternVL2.5-2B (T4, bf16, max_num=12, tokenizer patched)",
+ "answer": "画面中渔隐人物的舟船、钓具与居所有竹制简篷，钓具包括钓竿与鱼网，居所有茅草屋。山水环境指向江南地区，表现宁静的湖泊与山丘。"
+}

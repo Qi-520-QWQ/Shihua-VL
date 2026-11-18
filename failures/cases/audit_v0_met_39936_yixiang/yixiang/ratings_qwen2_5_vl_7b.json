@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 1,
+  "notes": "提及春季、生机及竹的高洁坚韧，但未说明雀鸟褐色与画面安谧生动，也以参考答案不支持的“岁寒三友”替代禽鸟与竹所寄托的自然天趣。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "误将禽鸟与竹的组合归为“岁寒三友”（编造画论概念），且遗漏雀鸟色彩小景、气氛安谧及禽鸟添自然天趣等要点。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}

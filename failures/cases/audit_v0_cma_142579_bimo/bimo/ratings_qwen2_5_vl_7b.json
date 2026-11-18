@@ -1,0 +1,18 @@
+{
+ "rater_a": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "答出淡雅水墨、人物简练及整体写意，但未说明危崖淡墨淡赭与纵向皴纹、水面留白简淡及人物形体极小；“没有明显的水面、建筑”和“山间小径旁”均缺乏依据。"
+ },
+ "rater_b": {
+  "strict_hit": 0,
+  "partial": 1,
+  "hallucination": 1,
+  "proper_refusal": 0,
+  "notes": "命中了写意风格和设色淡雅，但误称画中无明显水面与人物，且遗漏了危崖赭石渲染、竖向皴纹及水面留白等核心事实。"
+ },
+ "adjudicated": false,
+ "basis": "双评者一致，无分歧"
+}
